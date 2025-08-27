@@ -201,74 +201,74 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 193. Russian / русский язык / Russkiĭ âzyk
 194. Russian (abc)
 195. Samoan / Gagana Sāmoa
-Sango / Yângâ Tî Sängö / Sangoic
-Sanskrit / संस्कृतम् / Saṃskṛtam
-Sanskrit (abc)
-Sardinian / Sardu / Sard
-Serbian / српски / Srpski
-Serbian (abc)
-Shona / Chishona
-Sichuan Yi / Nuosu / ꆈꌠꉙ / Nuosuhxop / Northern Yi / Liangshan Yi / Nosu
-Sichuan Yi (abc)
-Sindhi / سنڌي / सिन्धी / Sindhī
-Sindhi (abc)
-Sinhalese / Sinhala / සිංහල / Siṁhala
-Sinhalese (abc)
-Slovak / Slovenčina / Slovakian
-Slovenian / Slovenščina / Slovene
-Somali / Soomaali / 𐒈𐒝𐒑𐒛𐒐𐒘 / سٝومالِ / Somalian
-South Ndebele / Isindebele / Sakwandzundza
-Southern Sotho / Sesotho / Sotho
-Spanish / Castilian / Español / Castellano
-Sundanese / Basa Sunda / بَاسَا سُوْندَا
-Swahili / Kiswahili / كِسوَحِيلِ
-Swati / Siswati / Swazi
-Swedish / Svenska
-Tagalog / Wikang Tagalog
-Tahitian / Reo Tahiti
-Tajik / тоҷикӣ / Tojikī / Tajiki
-Tajik (abc)
-Tamil / தமிழ் / Tamiḻ / Thamizh
-Tamil (abc)
-Tatar / татар теле / Tatar Tele / تاتار تئلئ
-Tatar (abc)
-Telugu / తెలుగు
-Telugu (abc)
-Thai / ภาษาไทย / Phasa Thai / Siamese / Central Thai
-Thai (abc)
-Tibetan / བོད་སྐད་ / Bodskad / ལྷ་སའི་སྐད་ / Lhas'iskad / Standard Tibetan / Lhasa Tibetan
-Tibetan (abc)
-Tigrinya / ትግርኛ / Təgrəñña / Tigrigna
-Tigrinya (abc)
-Tonga / Lea Faka-Tonga / Tongan / Tonga Islands
-Traditional Chinese / 正體字 / 正体字 / Zhèngtǐzì / 繁體字 / Fántǐzì / 繁体字
-Traditional Chinese (abc)
-Tsonga / Xitsonga
-Tswana / Setswana / Sechuana
-Turkish / Türkçe / Türk Dili / Türkiye Türkçesi
-Turkmen / Türkmençe / түркменче / تۆرکمنچه
-Twi
-Uighur / ئۇيغۇر تىلى / Uyghur / уйғур тили / Uyƣur Tili
-Uighur (abc)
-Ukrainian / українська / Ukraїnska
-Ukrainian (abc)
-Urdu / اُردُو / Urduw
-Urdu (abc)
-Uzbek / ózbekça / ўзбекча / ئوزبېچه
-Valley Girl
-Venda / Tshivenḓa / Tshivenda
-Vietnamese / Tiếng Việt
-Volapuk / Volapük
-Walloon / Walon
-Welsh / Cymraeg
-Western Frisian / Frysk / Frisian / Fries
-Wolof / وࣷلࣷفْ
-Xhosa / Isixhosa / Xosa
-Yiddish / ייִדיש / Yidiš / Judeo-German
-Yiddish (abc)
-Yoruba / èdè Yorùbá
-Zhuang / Chuang / 話僮 / Vahcuengh
-Zulu / Isizulu
+196. Sango / Yângâ Tî Sängö / Sangoic
+197. Sanskrit / संस्कृतम् / Saṃskṛtam
+198. Sanskrit (abc)
+199. Sardinian / Sardu / Sard
+200. Serbian / српски / Srpski
+201. Serbian (abc)
+202. Shona / Chishona
+203. Sichuan Yi / Nuosu / ꆈꌠꉙ / Nuosuhxop / Northern Yi / Liangshan Yi / Nosu
+204. Sichuan Yi (abc)
+205. Sindhi / سنڌي / सिन्धी / Sindhī
+206. Sindhi (abc)
+207. Sinhalese / Sinhala / සිංහල / Siṁhala
+208. Sinhalese (abc)
+209. Slovak / Slovenčina / Slovakian
+210. Slovenian / Slovenščina / Slovene
+211. Somali / Soomaali / 𐒈𐒝𐒑𐒛𐒐𐒘 / سٝومالِ / Somalian
+212. South Ndebele / Isindebele / Sakwandzundza
+213. Southern Sotho / Sesotho / Sotho
+214. Spanish / Castilian / Español / Castellano
+215. Sundanese / Basa Sunda / بَاسَا سُوْندَا
+216. Swahili / Kiswahili / كِسوَحِيلِ
+217. Swati / Siswati / Swazi
+218. Swedish / Svenska
+219. Tagalog / Wikang Tagalog
+220. Tahitian / Reo Tahiti
+221. Tajik / тоҷикӣ / Tojikī / Tajiki
+222. Tajik (abc)
+223. Tamil / தமிழ் / Tamiḻ / Thamizh
+224. Tamil (abc)
+225. Tatar / татар теле / Tatar Tele / تاتار تئلئ
+226. Tatar (abc)
+227. Telugu / తెలుగు
+228. Telugu (abc)
+229. Thai / ภาษาไทย / Phasa Thai / Siamese / Central Thai
+230. Thai (abc)
+231. Tibetan / བོད་སྐད་ / Bodskad / ལྷ་སའི་སྐད་ / Lhas'iskad / Standard Tibetan / Lhasa Tibetan
+232. Tibetan (abc)
+233. Tigrinya / ትግርኛ / Təgrəñña / Tigrigna
+234. Tigrinya (abc)
+235. Tonga / Lea Faka-Tonga / Tongan / Tonga Islands
+236. Traditional Chinese / 正體字 / 正体字 / Zhèngtǐzì / 繁體字 / Fántǐzì / 繁体字
+237. Traditional Chinese (abc)
+238. Tsonga / Xitsonga
+239. Tswana / Setswana / Sechuana
+240. Turkish / Türkçe / Türk Dili / Türkiye Türkçesi
+241. Turkmen / Türkmençe / түркменче / تۆرکمنچه
+242. Twi
+243. Uighur / ئۇيغۇر تىلى / Uyghur / уйғур тили / Uyƣur Tili
+244. Uighur (abc)
+245. Ukrainian / українська / Ukraїnska
+246. Ukrainian (abc)
+247. Urdu / اُردُو / Urduw
+248. Urdu (abc)
+249. Uzbek / ózbekça / ўзбекча / ئوزبېچه
+250. Valley Girl
+251. Venda / Tshivenḓa / Tshivenda
+252. Vietnamese / Tiếng Việt
+253. Volapuk / Volapük
+254. Walloon / Walon
+255. Welsh / Cymraeg
+256. Western Frisian / Frysk / Frisian / Fries
+257. Wolof / وࣷلࣷفْ
+258. Xhosa / Isixhosa / Xosa
+259. Yiddish / ייִדיש / Yidiš / Judeo-German
+260. Yiddish (abc)
+261. Yoruba / èdè Yorùbá
+262. Zhuang / Chuang / 話僮 / Vahcuengh
+263. Zulu / Isizulu
 </details>
 
 ## Gameplay Suggestions
