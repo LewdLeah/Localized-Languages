@@ -70,7 +70,7 @@ modifier(text);
 20. Keep in mind that any adventures played from your scenario will include LoLa (this also applies retroactively)
 ## Useful Links
 ### Simple demo scenario
-- [Auto-Cards](https://play.aidungeon.com/scenario/Ddt0Akd-lVtj/auto-cards)
+- [Localized Languages](https://play.aidungeon.com/scenario/AX2nXYIPzcKd/localized-languages)
 ### My AI Dungeon profile page
 - [LewdLeah](https://play.aidungeon.com/profile/LewdLeah)
 ### Auto-Cards discussion thread
