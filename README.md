@@ -62,12 +62,12 @@ modifier(text);
 ```
 14. Select the `Library` tab on the left
 15. Delete all code within said tab
-16. Open my full Library code (hyperlink below) in a new browser tab
+16. Open the Library code (hyperlink below) in a new browser tab
 - [Library code](./src/library.js)
-17. Copy my *full* code from the page above and paste into your empty `Library` tab
+17. Copy the *full* code from the page above and paste into your empty `Library` tab
 18. Click the big yellow `SAVE` button in the top right corner
 19. And you're done!
-20. Keep in mind that any adventures played from your scenario will include Auto-Cards (this also applies retroactively)
+20. Keep in mind that any adventures played from your scenario will include LoLa (this also applies retroactively)
 ## Useful Links
 ### Simple demo scenario
 - [Auto-Cards](https://play.aidungeon.com/scenario/Ddt0Akd-lVtj/auto-cards)
