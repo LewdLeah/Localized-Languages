@@ -1,4 +1,4 @@
-{
+const foo = {
 // Please suggest changes for any of these translations so we can improve LoLa for everyone ❤️
 "english": () => ({
     entry: [
