@@ -27,8 +27,9 @@ LoLa is both free and open-source for anyone to use within their own scenarios o
 const modifier = (text) => {
   // Your other input modifier scripts go here (preferred)
   text = AutoCards("input", text);
+  text = LocalizedLanguages("input", text);
   // Your other input modifier scripts go here (alternative)
-  return {text};
+  return { text };
 };
 modifier(text);
 ```
@@ -40,8 +41,9 @@ modifier(text);
 const modifier = (text) => {
   // Your other context modifier scripts go here (preferred)
   [text, stop] = AutoCards("context", text, stop);
+  text = LocalizedLanguages("context", text);
   // Your other context modifier scripts go here (alternative)
-  return {text, stop};
+  return { text, stop };
 };
 modifier(text);
 ```
@@ -54,7 +56,7 @@ const modifier = (text) => {
   // Your other output modifier scripts go here (preferred)
   text = AutoCards("output", text);
   // Your other output modifier scripts go here (alternative)
-  return {text};
+  return { text };
 };
 modifier(text);
 ```
