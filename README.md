@@ -54,69 +54,69 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 46. Chamorro / Finu' Chamoru
 47. Chechen / нохчийн мотт / Noxçiyn Mott / Chechnyan / Chechnian
 48. Chechen (abc)
-Chichewa / Chewa / Nyanja / Chinyanja
-Chinese / Simplified Chinese / Mandarin / 简化字 / Jiǎnhuàzì / 简体字 / Jiǎntǐzì
-Chinese (abc)
-Church Slavic / Old Slavic / славе́нскїй ѧ҆зы́къ
-Church Slavic (abc)
-Chuvash / чӑвашла / çăvaşla
-Chuvash (abc)
-Cornish / Kernowek
-Corporate / Business Speak / Corporate Jargon
-Corsican / Corsu
-Cree / ᓀᐦᐃᔭᐁᐧᐃᐧᐣ / Nehiyawewin
-Cree (abc)
-Croatian / Hrvatski / Crovatian
-Czech / čeština / Czechian
-Danish / Dansk
-Divehi / Dhivehi / Maldivian / ދިވެހި
-Dutch / Flemish / Nederlands
-Dzongkha / རྫོང་ཁ་ / Bhutanese
-Dzongkha (abc)
-Esperanto
-Estonian / Eesti Keel
-Ewe / èʋegbe
-Faroese / Føroyskt / Faeroese
-Fijian / Na Vosa Vakaviti
-Finnish / Suomi
-French / Français
-Fulah / ࢻُلْࢻُلْدٜ / 𞤬𞤵𞤤𞤬𞤵𞤤𞤣𞤫 / Fulfulde / ݒُلَارْ / 𞤨𞤵𞤤𞤢𞥄𞤪 / Pulaar / Fula / Fulani
-Gaelic / Scottish Gaelic / Gàidhlig / Scots Gaelic
-Galician / Galego
-Ganda / Luganda
-Georgian / ქართული / Kharthuli
-Georgian (abc)
-German / Deutsch
-Greek / νέα ελληνικά / Néa Ellêniká
-Greek (abc)
-Guarani / Avañe'ẽ / Guaraní
-Gujarati / ગુજરાતી / Gujarātī
-Gujarati (abc)
-Haitian Creole / Haitian / Kreyòl Ayisyen
-Hausa / هَرْشٜن هَوْس / Halshen Hausa / Hausan
-Hebrew / עברית / Ivrit
-Hebrew (abc)
-Herero / Otjiherero
-Hindi / हिन्दी / Hindī
-Hindi (abc)
-Hiri Motu / Police Motu / Pidgin Motu
-Hungarian / Magyar Nyelv / Magyar
-Icelandic / íslenska
-Ido
-Igbo / ásụ̀sụ́ ìgbò
-Indonesian / Bahasa Indonesia
-Interlingua
-Interlingue / Occidental
-Inuktitut / ᐃᓄᒃᑎᑐᑦ
-Inupiaq / Iñupiaq / Inupiat / Inupiatun
-Irish / Gaeilge / Irish Gaelic
-Italian / Italiano
-Japanese / 日本語 / Nihongo
-Japanese (abc)
-Javanese / ꦧꦱꦗꦮ / Basa Jawa
-Kalaallisut / Greenlandic
-Kannada / ಕನ್ನಡ / Kannađa / Kannadan / Canarese
-Kannada (abc)
+49. Chichewa / Chewa / Nyanja / Chinyanja
+50. Chinese / Simplified Chinese / Mandarin / 简化字 / Jiǎnhuàzì / 简体字 / Jiǎntǐzì
+51. Chinese (abc)
+52. Church Slavic / Old Slavic / славе́нскїй ѧ҆зы́къ
+53. Church Slavic (abc)
+54. Chuvash / чӑвашла / çăvaşla
+55. Chuvash (abc)
+56. Cornish / Kernowek
+57. Corporate / Business Speak / Corporate Jargon
+58. Corsican / Corsu
+59. Cree / ᓀᐦᐃᔭᐁᐧᐃᐧᐣ / Nehiyawewin
+60. Cree (abc)
+61. Croatian / Hrvatski / Crovatian
+62. Czech / čeština / Czechian
+63. Danish / Dansk
+64. Divehi / Dhivehi / Maldivian / ދިވެހި
+65. Dutch / Flemish / Nederlands
+66. Dzongkha / རྫོང་ཁ་ / Bhutanese
+67. Dzongkha (abc)
+68. Esperanto
+69. Estonian / Eesti Keel
+70. Ewe / èʋegbe
+71. Faroese / Føroyskt / Faeroese
+72. Fijian / Na Vosa Vakaviti
+73. Finnish / Suomi
+74. French / Français
+75. Fulah / ࢻُلْࢻُلْدٜ / 𞤬𞤵𞤤𞤬𞤵𞤤𞤣𞤫 / Fulfulde / ݒُلَارْ / 𞤨𞤵𞤤𞤢𞥄𞤪 / Pulaar / Fula / Fulani
+76. Gaelic / Scottish Gaelic / Gàidhlig / Scots Gaelic
+77. Galician / Galego
+78. Ganda / Luganda
+79. Georgian / ქართული / Kharthuli
+80. Georgian (abc)
+81. German / Deutsch
+82. Greek / νέα ελληνικά / Néa Ellêniká
+83. Greek (abc)
+84. Guarani / Avañe'ẽ / Guaraní
+85. Gujarati / ગુજરાતી / Gujarātī
+86. Gujarati (abc)
+87. Haitian Creole / Haitian / Kreyòl Ayisyen
+88. Hausa / هَرْشٜن هَوْس / Halshen Hausa / Hausan
+89. Hebrew / עברית / Ivrit
+90. Hebrew (abc)
+91. Herero / Otjiherero
+92. Hindi / हिन्दी / Hindī
+93. Hindi (abc)
+94. Hiri Motu / Police Motu / Pidgin Motu
+95. Hungarian / Magyar Nyelv / Magyar
+96. Icelandic / íslenska
+97. Ido
+98. Igbo / ásụ̀sụ́ ìgbò
+99. Indonesian / Bahasa Indonesia
+100. Interlingua
+101. Interlingue / Occidental
+102. Inuktitut / ᐃᓄᒃᑎᑐᑦ
+103. Inupiaq / Iñupiaq / Inupiat / Inupiatun
+104. Irish / Gaeilge / Irish Gaelic
+105. Italian / Italiano
+106. Japanese / 日本語 / Nihongo
+107. Japanese (abc)
+108. Javanese / ꦧꦱꦗꦮ / Basa Jawa
+109. Kalaallisut / Greenlandic
+110. Kannada / ಕನ್ನಡ / Kannađa / Kannadan / Canarese
+111. Kannada (abc)
 Kanuri / كَنُرِيِه / Kànùrí
 Kashmiri / कॉशुर / كأشُر / Kosher / Koshur
 Kashmiri (abc)
