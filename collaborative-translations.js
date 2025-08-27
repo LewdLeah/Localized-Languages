@@ -21960,4 +21960,4 @@ const foo = {
     ],
     memBankHeader: ["Memories", "Izinkumbulo"]
 }),
-}
+};
