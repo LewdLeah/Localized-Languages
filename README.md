@@ -5,12 +5,10 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 ## Supported Languages
 <details>
 <summary>Expand to view the full list of supported languages! 🌐</summary>
+  
 - English
-  
 - Abkhazian / аҧсуа / Apsua / აფსუა / Abkhaz
-  
 - Abkhazian (abc)
-  
 Afar / Qafar Af
 Afrikaans
 Akan / ákán
