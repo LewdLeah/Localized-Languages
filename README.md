@@ -75,5 +75,5 @@ modifier(text);
 - [LewdLeah](https://play.aidungeon.com/profile/LewdLeah)
 ### LoLa discussion thread
 - [Localized Languages - discussion](https://discord.com/channels/903327676884979802/1406127682365816852)
-- [AI Dungeon official Discord server invite](https://discord.gg/VJXwe7bj3A) (required to access the first link)
+- [AI Dungeon official Discord server invite](https://discord.gg/MXNqpSbuZT) (required to access the first link)
 - Ping me any time @LewdLeah to chat
