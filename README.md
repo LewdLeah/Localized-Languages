@@ -4,7 +4,7 @@ Made by LewdLeah ❤️
 Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon in your language of choice. LoLa also improves player inputs and supports (optional) [Auto-Cards](https://github.com/LewdLeah/Auto-Cards) integration. It’s free and open-source for anyone to use however they see fit. Creators are welcome to use LoLa for multilingual accessibility in their published scenarios.
 ## Supported Languages
 <details>
-<summary>Expand Full List of Languages</summary>
+<summary>Expand to view the full list of supported languages.</summary>
 test
 </details>
 
