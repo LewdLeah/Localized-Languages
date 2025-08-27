@@ -9,50 +9,50 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 - English
 - Abkhazian / аҧсуа / Apsua / აფსუა / Abkhaz
 - Abkhazian (abc)
-Afar / Qafar Af
-Afrikaans
-Akan / ákán
-Akan (abc)
-Albanian / Shqip
-Amharic / አማርኛ / Amarəñña
-Amharic (abc)
-Arabic / اَلْعَرَبِيَّةُ / Al-ʿarabiyyah
-Arabic (abc)
-Aragonese / Aragonés
-Armenian / հայերեն / Hayeren
-Armenian (abc)
-Asmr / Whisper / Asmr Whisper Script
-Assamese / অসমীয়া / ôxômiya / Asamiya
-Assamese (abc)
-Avaric / авар мацӏ / اوار ماض / Avar Maz / Avar
-Avaric (abc)
-Avestan / Upastawakaēna
-Aymara / Aymaran
-Azerbaijani / Azərbaycan Dili / آذربایجان دیلی / азәрбајҹан дили / Azeri
-Azerbaijani (abc)
-Bambara / ߓߡߊߣߊ߲ߞߊ߲ / بَمَنَنكَن / Bamanankan / Bamana
-Bashkir / башҡорт теле / Başqort Tele / Bashkort
-Bashkir (abc)
-Basque / Euskara / Euskera
-Belarusian / беларуская мова / Biełaruskaja Mova
-Belarusian (abc)
-Bengali / বাংলা / Bāŋlā / Bangla
-Bengali (abc)
-Bislama
-Bosnian / босански / Bosanski / Bosniak
-Bosnian (abc)
-Brainrot
-Brazilian / Português Brasileiro / Brazilian Portuguese
-Breton / Brezhoneg
-Bulgarian / български / Bulgarski
-Bulgarian (abc)
-Burmese / မြန်မာစာ / Mrãmācā / Myanmar
-Burmese (abc)
-Catalan / Valencian / Català / Valencià
-Central Khmer / ខេមរភាសា / Khémôrôphéasa / Khmer / Cambodian
-Central Khmer (abc)
-Chamorro / Finu' Chamoru
-Chechen / нохчийн мотт / Noxçiyn Mott / Chechnyan / Chechnian
+- Afar / Qafar Af
+- Afrikaans
+- Akan / ákán
+- Akan (abc)
+- Albanian / Shqip
+- Amharic / አማርኛ / Amarəñña
+- Amharic (abc)
+- Arabic / اَلْعَرَبِيَّةُ / Al-ʿarabiyyah
+- Arabic (abc)
+- Aragonese / Aragonés
+- Armenian / հայերեն / Hayeren
+- Armenian (abc)
+- Asmr / Whisper / Asmr Whisper Script
+- Assamese / অসমীয়া / ôxômiya / Asamiya
+- Assamese (abc)
+- Avaric / авар мацӏ / اوار ماض / Avar Maz / Avar
+- Avaric (abc)
+- Avestan / Upastawakaēna
+- Aymara / Aymaran
+- Azerbaijani / Azərbaycan Dili / آذربایجان دیلی / азәрбајҹан дили / Azeri
+- Azerbaijani (abc)
+- Bambara / ߓߡߊߣߊ߲ߞߊ߲ / بَمَنَنكَن / Bamanankan / Bamana
+- Bashkir / башҡорт теле / Başqort Tele / Bashkort
+- Bashkir (abc)
+- Basque / Euskara / Euskera
+- Belarusian / беларуская мова / Biełaruskaja Mova
+- Belarusian (abc)
+- Bengali / বাংলা / Bāŋlā / Bangla
+- Bengali (abc)
+- Bislama
+- Bosnian / босански / Bosanski / Bosniak
+- Bosnian (abc)
+- Brainrot
+- Brazilian / Português Brasileiro / Brazilian Portuguese
+- Breton / Brezhoneg
+- Bulgarian / български / Bulgarski
+- Bulgarian (abc)
+- Burmese / မြန်မာစာ / Mrãmācā / Myanmar
+- Burmese (abc)
+- Catalan / Valencian / Català / Valencià
+- Central Khmer / ខេមរភាសា / Khémôrôphéasa / Khmer / Cambodian
+- Central Khmer (abc)
+- Chamorro / Finu' Chamoru
+- Chechen / нохчийн мотт / Noxçiyn Mott / Chechnyan / Chechnian
 Chechen (abc)
 Chichewa / Chewa / Nyanja / Chinyanja
 Chinese / Simplified Chinese / Mandarin / 简化字 / Jiǎnhuàzì / 简体字 / Jiǎntǐzì
