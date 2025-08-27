@@ -7,6 +7,7 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 <summary>Tips for collapsed sections</summary>
 test
 </details>
+
 ## Gameplay Suggestions
 - Adventure quality varies between different AI models, so try multiple
 - Quality also varies between different languages, especially rare ones
