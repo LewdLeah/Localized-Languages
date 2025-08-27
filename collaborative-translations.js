@@ -1,3 +1,5 @@
+{
+// Please suggest changes for any of these translations so we can improve LoLa for everyone ❤️
 "english": () => ({
     entry: [
         "<1> is an open-source script for any <2> scenario. Please visit my profile <3> to learn more!",
@@ -21958,3 +21960,4 @@
     ],
     memBankHeader: ["Memories", "Izinkumbulo"]
 }),
+}
