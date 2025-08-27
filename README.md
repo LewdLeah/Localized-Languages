@@ -6,54 +6,54 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 <details>
 <summary>Expand to view the full list of supported languages! 🌐</summary>
   
-- English
-- Abkhazian / аҧсуа / Apsua / აფსუა / Abkhaz
-- Abkhazian (abc)
-- Afar / Qafar Af
-- Afrikaans
-- Akan / ákán
-- Akan (abc)
-- Albanian / Shqip
-- Amharic / አማርኛ / Amarəñña
-- Amharic (abc)
-- Arabic / اَلْعَرَبِيَّةُ / Al-ʿarabiyyah
-- Arabic (abc)
-- Aragonese / Aragonés
-- Armenian / հայերեն / Hayeren
-- Armenian (abc)
-- Asmr / Whisper / Asmr Whisper Script
-- Assamese / অসমীয়া / ôxômiya / Asamiya
-- Assamese (abc)
-- Avaric / авар мацӏ / اوار ماض / Avar Maz / Avar
-- Avaric (abc)
-- Avestan / Upastawakaēna
-- Aymara / Aymaran
-- Azerbaijani / Azərbaycan Dili / آذربایجان دیلی / азәрбајҹан дили / Azeri
-- Azerbaijani (abc)
-- Bambara / ߓߡߊߣߊ߲ߞߊ߲ / بَمَنَنكَن / Bamanankan / Bamana
-- Bashkir / башҡорт теле / Başqort Tele / Bashkort
-- Bashkir (abc)
-- Basque / Euskara / Euskera
-- Belarusian / беларуская мова / Biełaruskaja Mova
-- Belarusian (abc)
-- Bengali / বাংলা / Bāŋlā / Bangla
-- Bengali (abc)
-- Bislama
-- Bosnian / босански / Bosanski / Bosniak
-- Bosnian (abc)
-- Brainrot
-- Brazilian / Português Brasileiro / Brazilian Portuguese
-- Breton / Brezhoneg
-- Bulgarian / български / Bulgarski
-- Bulgarian (abc)
-- Burmese / မြန်မာစာ / Mrãmācā / Myanmar
-- Burmese (abc)
-- Catalan / Valencian / Català / Valencià
-- Central Khmer / ខេមរភាសា / Khémôrôphéasa / Khmer / Cambodian
-- Central Khmer (abc)
-- Chamorro / Finu' Chamoru
-- Chechen / нохчийн мотт / Noxçiyn Mott / Chechnyan / Chechnian
-Chechen (abc)
+1. English
+2. Abkhazian / аҧсуа / Apsua / აფსუა / Abkhaz
+3. Abkhazian (abc)
+4. Afar / Qafar Af
+5. Afrikaans
+6. Akan / ákán
+7. Akan (abc)
+8. Albanian / Shqip
+9. Amharic / አማርኛ / Amarəñña
+10. Amharic (abc)
+11. Arabic / اَلْعَرَبِيَّةُ / Al-ʿarabiyyah
+12. Arabic (abc)
+13. Aragonese / Aragonés
+14. Armenian / հայերեն / Hayeren
+15. Armenian (abc)
+16. Asmr / Whisper / Asmr Whisper Script
+17. Assamese / অসমীয়া / ôxômiya / Asamiya
+18. Assamese (abc)
+19. Avaric / авар мацӏ / اوار ماض / Avar Maz / Avar
+20. Avaric (abc)
+21. Avestan / Upastawakaēna
+22. Aymara / Aymaran
+23. Azerbaijani / Azərbaycan Dili / آذربایجان دیلی / азәрбајҹан дили / Azeri
+24. Azerbaijani (abc)
+25. Bambara / ߓߡߊߣߊ߲ߞߊ߲ / بَمَنَنكَن / Bamanankan / Bamana
+26. Bashkir / башҡорт теле / Başqort Tele / Bashkort
+27. Bashkir (abc)
+28. Basque / Euskara / Euskera
+29. Belarusian / беларуская мова / Biełaruskaja Mova
+30. Belarusian (abc)
+31. Bengali / বাংলা / Bāŋlā / Bangla
+32. Bengali (abc)
+33. Bislama
+34. Bosnian / босански / Bosanski / Bosniak
+35. Bosnian (abc)
+36. Brainrot
+37. Brazilian / Português Brasileiro / Brazilian Portuguese
+38. Breton / Brezhoneg
+39. Bulgarian / български / Bulgarski
+40. Bulgarian (abc)
+41. Burmese / မြန်မာစာ / Mrãmācā / Myanmar
+42. Burmese (abc)
+43. Catalan / Valencian / Català / Valencià
+44. Central Khmer / ខេមរភាសា / Khémôrôphéasa / Khmer / Cambodian
+45. Central Khmer (abc)
+46. Chamorro / Finu' Chamoru
+47. Chechen / нохчийн мотт / Noxçiyn Mott / Chechnyan / Chechnian
+48. Chechen (abc)
 Chichewa / Chewa / Nyanja / Chinyanja
 Chinese / Simplified Chinese / Mandarin / 简化字 / Jiǎnhuàzì / 简体字 / Jiǎntǐzì
 Chinese (abc)
