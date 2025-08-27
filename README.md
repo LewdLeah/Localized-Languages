@@ -117,30 +117,30 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 109. Kalaallisut / Greenlandic
 110. Kannada / ಕನ್ನಡ / Kannađa / Kannadan / Canarese
 111. Kannada (abc)
-Kanuri / كَنُرِيِه / Kànùrí
-Kashmiri / कॉशुर / كأشُر / Kosher / Koshur
-Kashmiri (abc)
-Kazakh / қазақша / Qazaqşa / قازاقشا / Qazaq
-Kazakh (abc)
-Kikuyu / Gikuyu / Gĩgĩkũyũ
-Kinyarwanda / Ikinyarwanda / Rwandan / Rwanda
-Klingon / Tlhingan
-Komi / коми кыв / Zyran / Zyrian / Komi-Zyryan
-Komi (abc)
-Kongo / Kikongo
-Korean / 한국어 / Hangugeo / 조선말 / Chosŏnmal
-Korean (abc)
-Kuanyama / Oshikwanyama / Cuanhama / Kwanyama
-Kurdish / کوردی / Kurdî
-Kurdish (abc)
-Kyrgyz / Kirghiz / кыргыз / قىرعىز
-Kyrgyz (abc)
-Lao / ພາສາລາວ / Phasa Lao / Laotian
-Lao (abc)
-Latin / Latinum
-Latvian / Latviski / Lettish
-Leetspeak / Eleet / Hacker Speak / L33t
-Legalese / Lawyer / Legal Language
+112. Kanuri / كَنُرِيِه / Kànùrí
+113. Kashmiri / कॉशुर / كأشُر / Kosher / Koshur
+114. Kashmiri (abc)
+115. Kazakh / қазақша / Qazaqşa / قازاقشا / Qazaq
+116. Kazakh (abc)
+117. Kikuyu / Gikuyu / Gĩgĩkũyũ
+118. Kinyarwanda / Ikinyarwanda / Rwandan / Rwanda
+119. Klingon / Tlhingan
+120. Komi / коми кыв / Zyran / Zyrian / Komi-Zyryan
+121. Komi (abc)
+122. Kongo / Kikongo
+123. Korean / 한국어 / Hangugeo / 조선말 / Chosŏnmal
+124. Korean (abc)
+125. Kuanyama / Oshikwanyama / Cuanhama / Kwanyama
+126. Kurdish / کوردی / Kurdî
+127. Kurdish (abc)
+128. Kyrgyz / Kirghiz / кыргыз / قىرعىز
+129. Kyrgyz (abc)
+130. Lao / ພາສາລາວ / Phasa Lao / Laotian
+131. Lao (abc)
+132. Latin / Latinum
+133. Latvian / Latviski / Lettish
+134. Leetspeak / Eleet / Hacker Speak / L33t
+135. Legalese / Lawyer / Legal Language
 Limburgish / Limburgan / Limburger / Lèmburgs
 Lingala / Lingála / Ngala
 Lingua-Technis / Cant Mechanicus / Techna-Lingua / Binharic
