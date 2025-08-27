@@ -10,6 +10,7 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 - Abkhazian / аҧсуа / Apsua / აფსუა / Abkhaz
   
 - Abkhazian (abc)
+  
 Afar / Qafar Af
 Afrikaans
 Akan / ákán
