@@ -189,7 +189,7 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 181. Pig Latin / Igpay Atinlay
 182. Pirate / Sea Shanty
 183. Polish / Polski / Język Polski / Polszczyzna
-184. Portuguese / Português
+184. Portuguese / Português / Português Europeu / European Portuguese
 185. Purple Prose / First Year English Major / Pretentious
 186. Pushto / Pashto / پښتو / Pax̌tow
 187. Pushto (abc)
