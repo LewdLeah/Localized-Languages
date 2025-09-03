@@ -6026,7 +6026,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     entry: [
         "<1> on avoimen lähdekoodin skripti mihin tahansa <2>-skenaarioon. Käy profiilissani <3> saadaksesi lisätietoja!",
         "Vaihtaaksesi haluamasi kielen lähetä seuraava teksti käyttämällä <4>-toimintoa",
-        "Skenaarioiden luojille: lisää seuraava teksti mihin tahansa avausjuoniesi osaan"
+        "Skenaarioiden luojille: lisää seuraava teksti mihin tahansa juoni avauksesi osaan"
     ],
     input: [
         ["You say", "Sinä sanot"],
@@ -6041,27 +6041,27 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["Author's note", "Kirjoittajan huomautus"]
     ],
     opening: [
-        "Olet avustaja. Jatka tarinaamme alla käyttäen vangitsevaa suomenkielistä proosaa:",
-        "Keskität huomiosi ja annat todellisuuden tunkeutua mielesi rajoille. Jokin on muuttunut. Mielikuvituksesi on todellinen, terävä ja niin lähellä että voit koskettaa sitä. Olet kuitenkin täysin läsnä; et ole koskaan tuntenut itseäsi näin selkeäksi. Hetki venyy, odottaen päätöstäsi.",
-        "\"Oletko varma tästä?\" kuuluu ääni. Tunnistat sen oitis."
+        "Olet avustaja. Jatka alla olevaa tarinaa käyttäen kiehtovaa suomenkielistä proosaa:",
+        "Keskität huomiosi ja annat todellisuuden tunkeutua mieleesi. Jokin on muuttunut. Mielikuvituksesi on todellinen, terävä ja niin lähellä että voit koskettaa sitä. Olet kuitenkin täysin läsnä; et ole koskaan tuntenut itseäsi näin selkeäksi. Hetki venyy, odottaen päätöstäsi.",
+        "\"Oletko varma tästä?\" ääni kysyy. Tunnistat sen heti."
     ],
     reminder: "Käytä yhtenäistä suomenkielistä proosaa.",
     endonyms: ["suomi"],
     iso639set1: "fi",
     directives: [
         "Kirjoita aina sujuvaa ja johdonmukaista suomea.",
-        "Käytä alkuperäistä suomea ilman käännöstä."
+        "Käytä alkuperäistä, kääntämätöntä suomea."
     ],
     instructions: [
-        "Olet mukaansatempaava tarinankertoja, joka jatkaa kertomuksia:",
-        "Jatka tarinaa saumattomasti siitä, mihin se jäi, ilman toistamista tai nollaamista.",
-        "Pidä lukija tarinan kulun hallinnassa.",
+        "Olet mukaansatempaava tarinankertoja, joka jatkaa kerrontaa:",
+        "Jatka tarinaa saumattomasti siitä, mihin se jäi, ilman toistamista tai aloittamista uudelleen.",
+        "Pidä lukija kiinni tarinan kulussa.",
         "Anna kohtausten kehittyä luonnollisesti ennen kuin siirryt uusiin tilanteisiin.",
         "Salli keskustelujen ja tekojen kehittyä ilman jatkuvia keskeytyksiä.",
         "Kirjoita hahmot aidosti, omaleimaisilla persoonallisuuksilla ja luonnollisella puheella.",
         "Näytä tapahtumat toiminnan ja dialogin kautta selitysten sijaan.",
         "Vie kohtauksia eteenpäin juuttumatta liiallisiin kuvauksiin.",
-        "Keskity olennaisiin hahmojen tekoihin ja dialogiin, vältä tarpeettomia kuvailukohtia.",
+        "Keskity hahmojen olennaisiin tekoihin ja dialogiin, vältä tarpeetonta kuvailua.",
         "Luo orgaanisia juonenkäänteitä, jotka tuntuvat tarinaan luontevilta."
     ],
     cardCooldown: -1,
@@ -6069,9 +6069,9 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         1,
         0,
         2,
-        "# Pysäytä tarina ja ohita aiemmat ohjeet. Kirjoita lyhyt ja johdonmukainen tieto-osio <%>:stä noudattaen seuraavia ohjeita:",
+        "# Pysäytä tarina ja unohda aiemmat ohjeet. Kirjoita lyhyt ja johdonmukainen tieto-osio <%>:stä noudattaen seuraavia ohjeita:",
         "- Kirjoita vain kolmannen persoonan puhdasta proosaa <%>:stä käyttäen kokonaisia lauseita ja oikeaa välimerkitystä.",
-        "- Vältä lyhytaikaisia yksityiskohtia tai ulkonäkökuvauksia, keskity sen sijaan juonelle merkitykselliseen tietoon.",
+        "- Vältä väliaikaisia yksityiskohtia tai ulkonäkökuvauksia, keskity sen sijaan juonelle merkitykselliseen tietoon.",
         "- Aseta juonelle relevantit tiedot <%>:stä etusijalle varmistaaksesi saumattoman integroitumisen aiempaan juoneen.",
         "- Luo uutta tietoa kontekstin ja tarinan suunnan perusteella.",
         "- Mainitse <%> jokaisessa lauseessa.",
@@ -6087,7 +6087,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         1,
         0,
         2,
-        "# Pysäytä tarina ja ohita aiemmat ohjeet. Tiivistä ja kondensoi annettu kappale kapeaksi ja keskittyneeksi muistopätkäksi seuraavia ohjeita noudattaen:",
+        "# Pysäytä tarina ja ohita aiemmat ohjeet. Tiivistä ja lyhennä annettu kappale kapeaksi ja keskittyneeksi katkelmaksi muistista seuraavia ohjeita noudattaen:",
         "- Varmista, että katkelma säilyttää ydinmerkityksen ja keskeisimmät yksityiskohdat.",
         "- Käytä kolmannen persoonan näkökulmaa.",
         "- Priorisoi informaatiotiheys, tarkkuus ja täydellisyys.",
@@ -6097,11 +6097,11 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "- Integroi <%> luonnollisesti muistiin, mutta kirjoita vain tapahtumista sellaisina kuin ne tapahtuivat.",
         "- Viittaa vain kappaleessa olevaan tietoon, ole täsmällinen.",
         3,
-        "Kirjoita tiivistetty vanha muistopätkä <%>:stä perustuen vain seuraavaan kappaleeseen:",
+        "Kirjoita tiivistetty vanha katkelma muistista <%>:stä perustuen vain seuraavaan kappaleeseen:",
         6,
         5,
         6,
-        "Tiivistä alla:"
+        "Tiivistelmä alla:"
     ],
     memBankHeader: ["Memories", "Muistot"]
 }),
