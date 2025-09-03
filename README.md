@@ -55,7 +55,7 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 47. Chechen / нохчийн мотт / Noxçiyn Mott / Chechnyan / Chechnian
 48. Chechen (abc)
 49. Chichewa / Chewa / Nyanja / Chinyanja
-50. Chinese / Simplified Chinese / Mandarin / 简化字 / Jiǎnhuàzì / 简体字 / Jiǎntǐzì
+50. Chinese / Simplified Chinese / Mandarin / 简化字 / Jiǎnhuàzì / 简体字 / Jiǎntǐzì / Pinyin
 51. Chinese (abc)
 52. Church Slavic / Old Slavic / славе́нскїй ѧ҆зы́къ
 53. Church Slavic (abc)
