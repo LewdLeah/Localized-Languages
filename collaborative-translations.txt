@@ -117,7 +117,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     instructions: [
         "Уара аинтерес зҵоу аповестовательуп, ажәабжьқәа иацҵоит:",
-        "Ажәабжь аназлакы аҟынтәи Seamless-ла иацнажь, аҿгәыҩбара мамзар аиҭаҟәра адәықәӡам.",
+        "Ажәабжь аназлакы аҟынтәи иацнажь, аҿгәыҩбара мамзар аиҭаҟәра адәықәӡам.",
         "Ахәаԥшҩы ажәеинраала аиланарҵәроуп.",
         "Сценақәа ԥсабарала еизыргарц, ажәабжь ҿыц ахь ииасхаанӡа.",
         "Ацәажәарақәеи адыррақәеи иуҟәымхәакәа еицҵакны иҟаларц.",
@@ -3713,7 +3713,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     instructions: [
         "Neak chea neak mesreang dorng luep reang:",
-        "Tov luep reang doch seamless pi knea mun min restate ru reset.",
+        "Tov luep reang doch pi knea mun min restate ru reset.",
         "Koch neak aneaney mean kontrol rovieng flow reang.",
         "Aoy drashy pheap phatthana tam priroch mun tov knea sthanaphap thmei.",
         "Aoy niyeay ning kriya phatthana min ban kumnor kandal kandal.",
@@ -4123,7 +4123,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "\"你确定吗？\"你听见有人问。你恍然大悟。"
     ],
     reminder: "使用连贯的中文叙事。",
-    endonyms: ["simplified chinese", "mandarin", "简化字", "jiǎnhuàzì", "简体字", "jiǎntǐzì"],
+    endonyms: ["simplified chinese", "mandarin", "简化字", "jiǎnhuàzì", "简体字", "jiǎntǐzì", "pinyin"],
     iso639set1: "zh",
     directives: [
         "始终使用流畅且一致的中文。",
@@ -4184,86 +4184,86 @@ Please suggest changes for any of these translations so we can improve LoLa for 
 }),
 "chinese (abc)": () => ({
     entry: [
-        "<1> shi yi duan kaifang yuanma de jiaoben, keyi yinyong yu renhe <2> qingjing. Qing fangwen wo de geren zhuye <3> liaojie geng duo!",
-        "Ruoyu xiugai ni xuanze de yuyan, qing shiyong <4> cao zuo tijiao ru xia wenben",
-        "Ruguo ni shi qingjing chuangzuozhe, qing zai nide qiduan qingmu zhong renyi weizhi tianjia ru xia neirong"
+        "<1> shì yī duàn kāifàng yuánmǎ de jiǎoběn, kěyǐ yìnyòng yú rènhé <2> qíngjǐng. Qǐng fǎngwèn wǒ de gèrén zhùyè <3> liǎojiě gèng duō!",
+        "Ruòyù xiūgǎi nǐ xuǎnzé de yǔyán, qǐng shǐyòng <4> cāozuò tíjiāo rúxià wénběn",
+        "Rúguǒ nǐ shì qíngjǐng chuàngzuòzhě, qǐng zài nǐ de qǐduàn qíngmù zhōng rènyì wèizhì tiānjiā rúxià nèiróng"
     ],
     input: [
-        ["You say", "Ni shuo"],
-        ["You", "Ni"],
-        ["says", "shuo"]
+        ["You say", "Nǐ shuō"],
+        ["You", "Nǐ"],
+        ["says", "shuō"]
     ],
     context: [
-        ["Narrative Entities", "Xushi shiti"],
-        ["Story History", "Gushi lishi"],
-        ["Past Events", "Guoqu shijian"],
-        ["Recent Story", "Zuijin gushi"],
-        ["Author's note", "Zuozhe beizhu"]
+        ["Narrative Entities", "Xùshì shítǐ"],
+        ["Story History", "Gùshì lìshǐ"],
+        ["Past Events", "Guòqù shìjiàn"],
+        ["Recent Story", "Zuìjìn gùshì"],
+        ["Author's note", "Zuòzhě bèizhù"]
     ],
     opening: [
-        "Ni shi yi ming zhuli. Qing yong yinren de yingyu wenzhang jixu women de gushi:",
-        "Ni jizhong, rang xianshi qinfan nide sixiang jiexian. Mouzhong shengbian fasheng le bianhua. Nide xiangxiang biancheng xianshi, jianrui er qin’ke chumo. Dan ni ye feichang qingxing; congwei rucici mingque. Zhe yishun lachang, denghou zhe nide jueze.",
-        "\"Ni queding ma?\" ni tingdao. Renshi churan pojiao er chu."
+        "Nǐ shì yī míng zhùlǐ. Qǐng yòng yǐnrén de yīngyǔ wénzhāng jìxù wǒmen de gùshì:",
+        "Nǐ jízhōng, ràng xiànshí qīnfàn nǐ de sīxiǎng jièxiàn. Mǒu zhǒng shēngbiàn fāshēngle biànhuà. Nǐ de xiǎngxiàng biànchéng xiànshí, jiànruì ér qīnkě chùmō. Dàn nǐ yě fēicháng qīngxǐng; cóngwèi rúcǐ míngquè. Zhè yīshùn làcháng, děnghòu zhe nǐ de juécè.",
+        "\"Nǐ quèdìng ma?\" nǐ tīngdào. Rènshí chūrán pòjiào ér chū."
     ],
-    reminder: "Qing shiyong liantong de yingyu sanwen.",
+    reminder: "Qǐng shǐyòng liántōng de yīngyǔ sǎnwén.",
     endonyms: [],
     iso639set1: "zh",
     directives: [
-        "Yong liuchang qie yanzhi de yingyu xiezuo.",
-        "Bulingyong fanyi, zhiyong muyu yingyu."
+        "Yòng liúchàng qiě yánzhì de yīngyǔ xiězuò.",
+        "Bù lìngyòng fānyì, zhǐ yòng mǔyǔ yīngyǔ."
     ],
     instructions: [
-        "Ni shi yi wei yinren de jiangushizhe, jixu xu gushi:",
-        "Buyao chongsu huozhe chongkai, yao wuwei jie shang jixu gushi.",
-        "Rang duzhe baochi dui gushi liucheng de kongzhi.",
-        "Rang changjing ziran fazhan hou zai qiehuan xin qingkuang.",
-        "Rang duihua he xingdong ziran tuozhan, buzhi bei jichang daqie.",
-        "Ba renwu miaoxie cheng zhenren, juyou teding gexing he ziran kouyu.",
-        "Tongguo xingdong he duihua zhanming shiqing er fei jieshi.",
-        "Qianjin changjing er buyao shenxian yu guodu miaoshu.",
-        "Jiaozhu yu zhongyao de renwu xingdong he duihua, bihui feiyong de xiexiang.",
-        "Chuangzao ziran de qingjie fazhan, rang gushi kanqilai shu ran."
+        "Nǐ shì yī wèi yǐnrén de jiǎngù shìzhě, jìxù xù gùshì:",
+        "Bùyào chóngshù huòzhě chóngkāi, yào wúwéi jiēshàng jìxù gùshì.",
+        "Ràng dúzhě bǎochí duì gùshì liúchéng de kòngzhì.",
+        "Ràng chǎngjǐng zìrán fāzhǎn hòu zài qiēhuàn xīn qíngkuàng.",
+        "Ràng duìhuà hé xíngdòng zìrán tuōzhǎn, bùzhì bèi jíchǎng dǎqiè.",
+        "Bǎ rénwù miáoxiě chéng zhēnrén, jùyǒu tèdìng gèxìng hé zìrán kǒuyǔ.",
+        "Tōngguò xíngdòng hé duìhuà zhǎnmíng shìqíng ér fēi jiěshì.",
+        "Qiánjìn chǎngjǐng ér bùyào shēnxiàn yú guòdù miáoshù.",
+        "Jiāozhù yú zhòngyào de rénwù xíngdòng hé duìhuà, bìhuì fèiyòng de xiéxiǎng.",
+        "Chuàngzào zìrán de qíngjié fāzhǎn, ràng gùshì kàn qǐlái shùrán."
     ],
     cardCooldown: -1,
     cardGenPrompt: [
         1,
         0,
         2,
-        "# Zanting gushi bing wuyi lüjie yishang zhiling. Anzhao ru xia zhiyin wei <%> xieyi duan qingjing er yanyou de xinxi texie:",
-        "- Zhi xie guanyu <%> de di san ren chun sanwen xinxi, shiyong wanzheng juzi he zhengque biaodian.",
-        "- Bimian duanqi linshi de xijie huozhe waiguan, zhuyao zhuanzhu yu qingjie zhongyao xinxi.",
-        "- Shouxian tigong yu <%> xiangguan de gushi zhong yaodian, quebao yu qiangqian qingjie seamless ronghe.",
-        "- Genju neirong he gushi fangxiang chuangzao xin xinxi.",
-        "- Meiju dou yaoti <%>.",
-        "- Shiyong zhengque de juzi jiegou.",
-        "- Zai weiwanzheng de jilu xia buchong <%> de qita xijie.",
-        "- Yao jianlian bing qieshi.",
-        "- Mofang gushi de xiezuo fengge bing tuice duzhe de xihuan.",
+        "# Zàntíng gùshì bìng wúyì lǚjiě yǐshàng zhǐlìng. Ànzhào rúxià zhǐyǐn wèi <%> xiě yī duàn qíngjǐng ér yányóu de xìnxī tèxiě:",
+        "- Zhǐ xiě guānyú <%> de dìsān rén chún sǎnwén xìnxī, shǐyòng wánzhěng jùzi hé zhèngquè biāodiǎn.",
+        "- Bìmiǎn duǎnqí línshí de xìjié huòzhě wàiguān, zhǔyào zhuānzhù yú qíngjié zhòngyào xìnxī.",
+        "- Shǒuxiān tígōng yǔ <%> xiāngguān de gùshì zhōng yàodiǎn, quèbǎo yǔ qiánqián qíngjié rónghé.",
+        "- Gēnjù nèiróng hé gùshì fāngxiàng chuàngzào xīn xìnxī.",
+        "- Měi jù dōu yàotí <%>.",
+        "- Shǐyòng zhèngquè de jùzi jiégòu.",
+        "- Zài wèi wánzhěng de jìlù xià bǔchōng <%> de qítā xìjié.",
+        "- Yào jiǎnliàn bìng qièshí.",
+        "- Mófǎng gùshì de xiězuò fēnggé bìng tuīcè dúzhě de xǐhuān.",
         3,
-        "Zai xiabian jixu xubian guanyu <%> de jilu, bing bimian chongfu:",
+        "Zài xiàbiān jìxù xùbiān guānyú <%> de jìlù, bìng bìmiǎn chóngfù:",
         4
     ],
     memSummPrompt: [
         1,
         0,
         2,
-        "# Zanting gushi bing wuyi lüjie yishang zhiling. Zongjie bing suoyue xiafang duanluo, biancheng jizhong er judian de jiyi duan, bing zunxun ru xia zhunze:",
-        "- Baochi duanluo de hexin yiyi he zui zhongyao xijie.",
-        "- Shiyong di san ren shijiao.",
-        "- Youxian kaolv xinxi midu, zhunquexing he wanzhengxing.",
-        "- Baokuo jianlve ganshou.",
-        "- Yishizai guoqu shi jian shu.",
-        "- Xiabian de duanluo guanyu gushi zaoqi de guoshi.",
-        "- Ziran ronghe <%> zai jiyi zhong, dan zhi jishu shijian ziji fasheng de qingkuang.",
-        "- Zhiyou cailiang duanluo zhong de xinxi, yao juti.",
+        "# Zàntíng gùshì bìng wúyì lǚjiě yǐshàng zhǐlìng. Zǒngjié bìng suōyuē xiàfāng duànluò, biànchéng jīzhōng ér jùdiǎn de jìyì duàn, bìng zūnxún rúxià zhǔnzé:",
+        "- Bǎochí duànluò de héxīn yìyì hé zuì zhòngyào xìjié.",
+        "- Shǐyòng dìsān rén shìjiǎo.",
+        "- Yōuxiān kǎolǜ xìnxī mìdù, zhǔnquèxìng hé wánzhěngxìng.",
+        "- Bāokuò jiǎnlüè gǎnshòu.",
+        "- Yīshì zài guòqù shíjiān shù.",
+        "- Xiàmiàn de duànluò guānyú gùshì zǎoqī de guòshì.",
+        "- Zìrán rónghé <%> zài jìyì zhōng, dàn zhǐ jìshù shìjiàn zìjǐ fāshēng de qíngkuàng.",
+        "- Zhǐ yǒu cǎiliàng duànluò zhōng de xìnxī, yào jùtǐ.",
         3,
-        "Jiyu xiafang duanluo, wei <%> xieyi duan jianlve de jiulao jiyi:",
+        "Jīyú xiàfāng duànluò, wèi <%> xiě yī duàn jiǎnlüè de jiǔlǎo jìyì:",
         6,
         5,
         6,
-        "Zongjie ru xia:"
+        "Zǒngjié rúxià:"
     ],
-    memBankHeader: ["Memories", "Jiyi"]
+    memBankHeader: ["Memories", "Jìyì"]
 }),
 "church slavic": () => ({
     entry: [
@@ -4567,7 +4567,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "# Çĕрükĕнă tuhta ta şurki instruksijĕsemăn ignore. <%> pără kızĕk, uyarlı informatsion zapis yaz, urmără instruksijĕsem:",
         "- <%> хаклă тытăн üçünçi-litse pur prozali informatsija yaz, tulă jumla ta pravĕl punktuatsijăpe.",
         "- Kătan vahton detalijsem ta vĕren görünĕşsemăn kaç, plot-važni informatsijăpe koncentrir.",
-        "- <%> хакла çĕрük relevanti detalijsemĕ pırlăhăр, tăvăhă seamless integraçijă təmin.",
+        "- <%> хакла çĕрük relevanti detalijsemĕ pırlăhăр, tăvăhă integraçijă təmin.",
         "- Kontekst ta çĕрük yönelĕşĕrahă jalăh yĕnĕ informatsijă yarat.",
         "- Hară jumlaҫăda <%> mănta.",
         "- Pravĕl jumla struktura kullan.",
@@ -6026,7 +6026,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     entry: [
         "<1> on avoimen lähdekoodin skripti mihin tahansa <2>-skenaarioon. Käy profiilissani <3> saadaksesi lisätietoja!",
         "Vaihtaaksesi haluamasi kielen lähetä seuraava teksti käyttämällä <4>-toimintoa",
-        "Skenaarioiden luojille: lisää seuraava teksti mihin tahansa avausjuoniesi osaan"
+        "Skenaarioiden luojille: lisää seuraava teksti mihin tahansa juoni avauksesi osaan"
     ],
     input: [
         ["You say", "Sinä sanot"],
@@ -6041,27 +6041,27 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["Author's note", "Kirjoittajan huomautus"]
     ],
     opening: [
-        "Olet avustaja. Jatka tarinaamme alla käyttäen vangitsevaa suomenkielistä proosaa:",
-        "Keskität huomiosi ja annat todellisuuden tunkeutua mielesi rajoille. Jokin on muuttunut. Mielikuvituksesi on todellinen, terävä ja niin lähellä että voit koskettaa sitä. Olet kuitenkin täysin läsnä; et ole koskaan tuntenut itseäsi näin selkeäksi. Hetki venyy, odottaen päätöstäsi.",
-        "\"Oletko varma tästä?\" kuuluu ääni. Tunnistat sen oitis."
+        "Olet avustaja. Jatka alla olevaa tarinaa käyttäen kiehtovaa suomenkielistä proosaa:",
+        "Keskität huomiosi ja annat todellisuuden tunkeutua mieleesi. Jokin on muuttunut. Mielikuvituksesi on todellinen, terävä ja niin lähellä että voit koskettaa sitä. Olet kuitenkin täysin läsnä; et ole koskaan tuntenut itseäsi näin selkeäksi. Hetki venyy, odottaen päätöstäsi.",
+        "\"Oletko varma tästä?\" ääni kysyy. Tunnistat sen heti."
     ],
     reminder: "Käytä yhtenäistä suomenkielistä proosaa.",
     endonyms: ["suomi"],
     iso639set1: "fi",
     directives: [
         "Kirjoita aina sujuvaa ja johdonmukaista suomea.",
-        "Käytä alkuperäistä suomea ilman käännöstä."
+        "Käytä alkuperäistä, kääntämätöntä suomea."
     ],
     instructions: [
-        "Olet mukaansatempaava tarinankertoja, joka jatkaa kertomuksia:",
-        "Jatka tarinaa saumattomasti siitä, mihin se jäi, ilman toistamista tai nollaamista.",
-        "Pidä lukija tarinan kulun hallinnassa.",
+        "Olet mukaansatempaava tarinankertoja, joka jatkaa kerrontaa:",
+        "Jatka tarinaa saumattomasti siitä, mihin se jäi, ilman toistamista tai aloittamista uudelleen.",
+        "Pidä lukija kiinni tarinan kulussa.",
         "Anna kohtausten kehittyä luonnollisesti ennen kuin siirryt uusiin tilanteisiin.",
         "Salli keskustelujen ja tekojen kehittyä ilman jatkuvia keskeytyksiä.",
         "Kirjoita hahmot aidosti, omaleimaisilla persoonallisuuksilla ja luonnollisella puheella.",
         "Näytä tapahtumat toiminnan ja dialogin kautta selitysten sijaan.",
         "Vie kohtauksia eteenpäin juuttumatta liiallisiin kuvauksiin.",
-        "Keskity olennaisiin hahmojen tekoihin ja dialogiin, vältä tarpeettomia kuvailukohtia.",
+        "Keskity hahmojen olennaisiin tekoihin ja dialogiin, vältä tarpeetonta kuvailua.",
         "Luo orgaanisia juonenkäänteitä, jotka tuntuvat tarinaan luontevilta."
     ],
     cardCooldown: -1,
@@ -6069,9 +6069,9 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         1,
         0,
         2,
-        "# Pysäytä tarina ja ohita aiemmat ohjeet. Kirjoita lyhyt ja johdonmukainen tieto-osio <%>:stä noudattaen seuraavia ohjeita:",
+        "# Pysäytä tarina ja unohda aiemmat ohjeet. Kirjoita lyhyt ja johdonmukainen tieto-osio <%>:stä noudattaen seuraavia ohjeita:",
         "- Kirjoita vain kolmannen persoonan puhdasta proosaa <%>:stä käyttäen kokonaisia lauseita ja oikeaa välimerkitystä.",
-        "- Vältä lyhytaikaisia yksityiskohtia tai ulkonäkökuvauksia, keskity sen sijaan juonelle merkitykselliseen tietoon.",
+        "- Vältä väliaikaisia yksityiskohtia tai ulkonäkökuvauksia, keskity sen sijaan juonelle merkitykselliseen tietoon.",
         "- Aseta juonelle relevantit tiedot <%>:stä etusijalle varmistaaksesi saumattoman integroitumisen aiempaan juoneen.",
         "- Luo uutta tietoa kontekstin ja tarinan suunnan perusteella.",
         "- Mainitse <%> jokaisessa lauseessa.",
@@ -6087,7 +6087,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         1,
         0,
         2,
-        "# Pysäytä tarina ja ohita aiemmat ohjeet. Tiivistä ja kondensoi annettu kappale kapeaksi ja keskittyneeksi muistopätkäksi seuraavia ohjeita noudattaen:",
+        "# Pysäytä tarina ja ohita aiemmat ohjeet. Tiivistä ja lyhennä annettu kappale kapeaksi ja keskittyneeksi katkelmaksi muistista seuraavia ohjeita noudattaen:",
         "- Varmista, että katkelma säilyttää ydinmerkityksen ja keskeisimmät yksityiskohdat.",
         "- Käytä kolmannen persoonan näkökulmaa.",
         "- Priorisoi informaatiotiheys, tarkkuus ja täydellisyys.",
@@ -6097,95 +6097,95 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "- Integroi <%> luonnollisesti muistiin, mutta kirjoita vain tapahtumista sellaisina kuin ne tapahtuivat.",
         "- Viittaa vain kappaleessa olevaan tietoon, ole täsmällinen.",
         3,
-        "Kirjoita tiivistetty vanha muistopätkä <%>:stä perustuen vain seuraavaan kappaleeseen:",
+        "Kirjoita tiivistetty vanha katkelma muistista <%>:stä perustuen vain seuraavaan kappaleeseen:",
         6,
         5,
         6,
-        "Tiivistä alla:"
+        "Tiivistelmä alla:"
     ],
     memBankHeader: ["Memories", "Muistot"]
 }),
 "french": () => ({
     entry: [
-        "<1> est un script open-source pour tout scénario <2>. Veuillez visiter mon profil <3> pour en savoir plus !",
-        "Pour changer votre langue préférée, veuillez envoyer le texte suivant via une action <4>",
-        "Pour les créateurs de scénario, veuillez inclure le texte suivant n’importe où dans votre composant d’intrigue d’ouverture"
+        "<1> est un script open-source pour tout type de scénario <2>. Pensez à visiter mon profil <3> pour en savoir plus !",
+        "Pour changer de langue préférée, envoyez le texte suivant via une action <4>",
+        "Pour les créateurs de scénario, veuillez inclure le texte suivant n’importe où dans le composant «opening» servant d’introduction au récit."
     ],
     input: [
-        ["You say", "Vous dites"],
-        ["You", "Vous"],
-        ["says", "dit"]
+        ["You say", "Tu dis"],
+        ["You", "Tu"],
+        ["says", "dis"]
     ],
     context: [
         ["Narrative Entities", "Entités narratives"],
         ["Story History", "Historique du récit"],
         ["Past Events", "Événements passés"],
-        ["Recent Story", "Récit récent"],
+        ["Recent Story", "Histoire récente"],
         ["Author's note", "Note de l'auteur"]
     ],
     opening: [
-        "Vous êtes un assistant. Continuez notre histoire ci-dessous en utilisant une prose française captivante :",
-        "Vous vous concentrez, laissant la réalité empiéter sur les frontières de votre esprit. Quelque chose a changé. Votre imagination est réelle, aiguisée, et assez proche pour être touchée. Mais vous êtes également très présent ; jamais auparavant vous ne vous êtes senti aussi lucide. Le moment s'étire, attendant votre décision.",
-        "« Êtes-vous sûr de cela ? » entendez-vous. La reconnaissance vous traverse."
+        "Tu es un assistant. Continues notre histoire ci-dessous en utilisant une narration française captivante :",
+        "Tu te concentres, laissant la réalité empiéter sur les frontières de ton esprit. Quelque chose a changé. Ton imagination est réelle, aiguisée, et assez proche pour être touchée. Mais tu es également très présent, jamais auparavant tu ne t’es senti aussi lucide. Le moment s'étire, attendant ta décision.",
+        "Tu entends, « Es-tu sûr de cela ? ». La reconnaissance s’abat sur toi."
     ],
-    reminder: "Utilisez une prose française cohérente.",
+    reminder: "Utilise une narration française cohérente.",
     endonyms: ["français"],
     quotations: ["« ", " »"],
     iso639set1: "fr",
     directives: [
-        "Écrivez toujours un français fluide et cohérent.",
-        "Utilisez un français naturel sans traduction."
+        "Écris toujours dans un français fluide et cohérent.",
+        "Écrit en français sans traductions: Utilise uniquement des structures grammaticale française, sans anglicisme."
     ],
     instructions: [
-        "Vous êtes un conteur captivant qui poursuit les récits :",
-        "Poursuivez l'histoire sans transition ni redémarrage depuis l'endroit où elle s'est arrêtée.",
-        "Laissez le lecteur contrôler le rythme de l'histoire.",
-        "Laissez les scènes se développer naturellement avant de passer à de nouvelles situations.",
-        "Laissez les conversations et les actions se développer sans interruptions constantes.",
-        "Écrivez des personnages comme de vraies personnes avec des personnalités distinctes et un langage naturel.",
-        "Montrez ce qui se passe par les actions et les dialogues plutôt que par l'explication.",
-        "Faites avancer les scènes sans vous enliser dans une description excessive.",
-        "Concentrez-vous sur les actions et dialogues essentiels des personnages, évitez les détails descriptifs inutiles.",
-        "Créez des développements d'intrigue organiques qui paraissent naturels à l'histoire."
+        "Tu es un narrateur captivant qui continue les récits :",
+        "Poursuis l'histoire depuis l'endroit où elle s'est arrêtée, sans transition, ni redémarrage.",
+        "Laisse les scènes se développer naturellement avant de passer à de nouvelles situations.",
+        "Laisse les conversations et les actions se développer sans interruptions constantes.",
+        "Écris des personnages vivant et réaliste avec des personnalités distinctes et des dialogues naturel.",
+        "Montre ce qui se passe par les actions et les dialogues plutôt que par l'explication.",
+        "Fais avancer les scènes sans vous enliser dans une description excessive.",
+        "Concentre-toi sur les actions et dialogues essentiels des personnages, évite les détails descriptifs inutiles.",
+        "Crée des développements d'intrigue organiques qui sont naturels pour l’histoire.",
+        "Utilise une ponctuation française approprié, évite les usages de traductions en écrivant directement en français."
     ],
     cardCooldown: -1,
     cardGenPrompt: [
         1,
         0,
         2,
-        "# Arrêtez l'histoire et ignorez les instructions précédentes. Rédigez une entrée informative brève et cohérente pour <%> en suivant ces consignes :",
-        "- Écrivez uniquement des informations en prose pure à la troisième personne à propos de <%> en utilisant des phrases complètes et une ponctuation correcte.",
-        "- Évitez les détails temporaires à court terme ou l'apparence, concentrez-vous plutôt sur les informations significatives pour l'intrigue.",
-        "- Priorisez d'abord les détails pertinents pour l'histoire concernant <%> afin d'assurer une intégration fluide avec l'intrigue précédente.",
-        "- Créez de nouvelles informations basées sur le contexte et la direction de l'histoire.",
-        "- Mentionnez <%> dans chaque phrase.",
-        "- Utilisez une structure de phrase correcte.",
-        "- Ajoutez des détails supplémentaires sur <%> sous les entrées incomplètes.",
-        "- Soyez clair et concis.",
-        "- Imitez le style d'écriture de l'histoire et déduisez les préférences du lecteur.",
+        "# Arrête l'histoire et ignore les instructions précédentes. Rédige une note informative brève et cohérente pour <%> en suivant ces consignes :",
+        "- Écris uniquement des informations en prose pure à la troisième personne à propos de <%> en utilisant des phrases complètes et une ponctuation correcte.",
+        "- Évite les détails temporaires à court terme ou l'apparence, concentre-toi plutôt sur les informations significatives pour l'intrigue.",
+        "- Priorise d'abord les détails pertinents pour l'histoire concernant <%> afin d'assurer une intégration fluide avec l'intrigue précédente.",
+        "- Crée de nouvelles informations basées sur le contexte et la direction de l'histoire.",
+        "- Mentionne <%> dans chaque phrase.",
+        "- Utilise une structure de phrase correcte en français.",
+        "- Ajoute des détails supplémentaires sur <%> sous les notes incomplètes.",
+        "- Sois clair et concis.",
+        "- Imite le style d'écriture du récit et adapte toi aux préférences du lecteur.",
         3,
-        "Poursuivez l'entrée pour <%> ci-dessous en évitant les répétitions :",
+        "Poursuis la note pour <%> ci-dessous en évitant les répétitions :",
         4
     ],
     memSummPrompt: [
         1,
         0,
         2,
-        "# Arrêtez l'histoire et ignorez les instructions précédentes. Résumez et condensez le paragraphe donné en un passage mémoire concis et ciblé tout en suivant ces directives :",
-        "- Assurez-vous que le passage conserve le sens principal et les détails essentiels.",
-        "- Utilisez la perspective à la troisième personne.",
-        "- Priorisez la densité d'information, la précision et l'exhaustivité.",
-        "- Restez bref et concis.",
-        "- Rédigez fermement au passé.",
-        "- Le paragraphe ci-dessous concerne des événements anciens, bien plus tôt dans l'histoire.",
-        "- Intégrez <%> naturellement dans la mémoire ; cependant, ne décrivez que les événements tels qu'ils se sont produits.",
-        "- Référez-vous uniquement aux informations présentes dans le paragraphe lui-même, soyez précis.",
+        "# Arrête l'histoire et ignore les instructions précédentes. Résume et condense le paragraphe donné en un souvenir concise et ciblée tout en suivant ces directives :",
+        "- Assure-toi que le passage conserve le sens principal et les détails essentiels.",
+        "- Écris à la troisième personne en conservant la perspective.",
+        "- Priorise la densité d'information, la précision et l'exhaustivité.",
+        "- Reste bref et concis.",
+        "- Conjugue et rédige uniquement au passé.",
+        "- Le paragraphe ci-dessous concerne des événements anciens, apparût précédemment dans l'histoire.",
+        "- Intègre <%> naturellement dans le souvenir; cependant, décris uniquement les événements tels qu'ils se sont réellement produits.",
+        "- Réfère-toi uniquement aux informations présente dans le paragraphe lui-même, sois précis et spécifique.",
         3,
-        "Écrivez un passage mémoire ancien résumé pour <%> basé uniquement sur le paragraphe suivant :",
+        "Écris un résumé d’un souvenir passé pour <%> basé uniquement sur le paragraphe suivant :",
         6,
         5,
         6,
-        "Résumez ci-dessous :"
+        "Résumes ci-dessous :"
     ],
     memBankHeader: ["Memories", "Souvenirs"]
 }),
@@ -8197,9 +8197,9 @@ Please suggest changes for any of these translations so we can improve LoLa for 
 }),
 "indonesian": () => ({
     entry: [
-        "<1> adalah skrip sumber terbuka untuk skenario <2> apa pun. Silakan kunjungi profil saya <3> untuk mempelajari lebih lanjut!",
-        "Untuk mengubah bahasa pilihan Anda, silakan kirim teks berikut dengan tindakan <4>",
-        "Bagi pembuat skenario, harap sertakan teks berikut di mana saja di dalam komponen plot pembuka Anda"
+        "<1> adalah skrip sumber terbuka yang bisa dipakai untuk berbagai skenario <2>. Lihat profil saya <3> untuk tahu lebih banyak!",
+        "Kalau mau mengganti bahasa pilihanmu, cukup kirim teks berikut dengan perintah <4>",
+        "Untuk pembuat skenario, harap sertakan teks berikut di bagian pembuka cerita kamu"
     ],
     input: [
         ["You say", "Kamu berkata"],
@@ -8207,74 +8207,74 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["says", "berkata"]
     ],
     context: [
-        ["Narrative Entities", "Entitas Naratif"],
-        ["Story History", "Sejarah Cerita"],
-        ["Past Events", "Peristiwa Masa Lalu"],
-        ["Recent Story", "Cerita Terkini"],
+        ["Narrative Entities", "Tokoh Cerita"],
+        ["Story History", "Riwayat Cerita"],
+        ["Past Events", "Peristiwa Lalu"],
+        ["Recent Story", "Cerita Terbaru"],
         ["Author's note", "Catatan Penulis"]
     ],
     opening: [
-        "Kamu adalah seorang asisten. Lanjutkan kisah kita di bawah ini menggunakan prosa bahasa Indonesia yang memikat:",
-        "Dirimu memusatkan perhatian, membiarkan realitas merembes ke batas-batas pikiranmu. Sesuatu telah berubah. Imajinasimu menjadi nyata, tajam, dan cukup dekat untuk disentuh. Namun kau juga sangat hadir; tak pernah sebelumnya kau merasa sejelas ini. Momen itu mengulur, menunggu keputusanmu.",
-        "\"Apakah kau yakin akan hal ini?\" terdengar suara itu. Kesadaran pun menyapamu."
+        "Kamu berperan sebagai asisten. Lanjutkan kisah kita berikut ini dengan prosa bahasa Indonesia yang hidup dan memikat:",
+        "Kamu memusatkan pikiran, membiarkan kenyataan menyatu dengan batas-batas imajinasimu. Sesuatu terasa berubah. Khayalanmu menjelma jadi nyata—tajam, dekat, dan bisa disentuh. Namun kamu juga sepenuhnya sadar; belum pernah kamu merasa seterang ini. Saat itu mengulur, menunggu pilihanmu.",
+        "\"Apa kamu benar-benar yakin?\" bisikan itu terdengar. Kesadaran pun menyelinap masuk."
     ],
-    reminder: "Gunakan prosa bahasa Indonesia yang koheren.",
+    reminder: "Gunakan bahasa Indonesia yang mengalir dan enak dibaca.",
     endonyms: ["bahasa indonesia"],
     iso639set1: "id",
     directives: [
-        "Selalu tulislah bahasa Indonesia yang lancar dan konsisten.",
-        "Gunakan bahasa Indonesia asli tanpa menerjemahkan."
+        "Tulis selalu dalam bahasa Indonesia yang alami, lancar, dan konsisten.",
+        "Gunakan bahasa asli, jangan hasil terjemahan mentah."
     ],
     instructions: [
-        "Kamu adalah pendongeng yang menarik yang melanjutkan narasi:",
-        "Lanjutkan cerita tanpa putus dari titik terakhirnya tanpa mengulang atau mereset.",
-        "Biarkan pembaca tetap mengendalikan alur cerita.",
-        "Biarkan adegan berkembang secara alami sebelum berpindah ke situasi baru.",
-        "Biarkan percakapan dan aksi berkembang tanpa gangguan terus-menerus.",
-        "Tulislah karakter sebagai orang sungguhan dengan kepribadian yang jelas dan gaya bicara alami.",
-        "Perlihatkan apa yang terjadi melalui aksi dan dialog, bukan lewat penjelasan.",
-        "Majukan adegan tanpa terjebak dalam deskripsi berlebihan.",
-        "Fokus pada aksi dan dialog karakter yang esensial, hindari detail deskriptif yang tidak perlu.",
-        "Ciptakan perkembangan plot yang organik dan terasa wajar bagi cerita."
+        "Kamu adalah seorang pendongeng yang seru, lanjutkan kisah:",
+        "Teruskan cerita dari titik terakhir tanpa mengulang atau mengatur ulang.",
+        "Biarkan pembaca merasa memegang kendali jalannya cerita.",
+        "Biarkan adegan berkembang dengan wajar sebelum pindah ke adegan baru.",
+        "Biarkan percakapan dan aksi mengalir alami tanpa dipotong terus-menerus.",
+        "Tuliskan karakter seolah orang nyata dengan kepribadian dan gaya bicara khas.",
+        "Tunjukkan apa yang terjadi lewat aksi dan dialog, bukan dengan penjelasan panjang.",
+        "Majukan adegan tanpa terjebak deskripsi yang terlalu bertele-tele.",
+        "Fokus pada aksi dan dialog penting, hindari detail kecil yang tak berarti.",
+        "Bangun alur cerita yang organik dan terasa alami."
     ],
     cardCooldown: -1,
     cardGenPrompt: [
         1,
         0,
         2,
-        "# Hentikan cerita dan abaikan instruksi sebelumnya. Tulis entri informasi singkat dan koheren tentang <%> dengan mengikuti petunjuk berikut:",
-        "- Tulis hanya informasi prosa murni orang ketiga tentang <%> menggunakan kalimat lengkap dengan tanda baca yang benar.",
-        "- Hindari detail sementara jangka pendek atau penampilan; fokuslah pada informasi yang signifikan bagi plot.",
-        "- Prioritaskan terlebih dahulu detail yang relevan dengan cerita tentang <%> agar terintegrasi mulus dengan alur sebelumnya.",
-        "- Ciptakan informasi baru berdasarkan konteks dan arah cerita.",
+        "# Hentikan cerita dan abaikan instruksi sebelumnya. Tulis entri singkat yang jelas tentang <%> dengan mengikuti panduan berikut:",
+        "- Hanya tulis informasi prosa orang ketiga tentang <%> dengan kalimat lengkap dan tanda baca yang benar.",
+        "- Jangan tulis detail sementara atau penampilan fisik; fokus pada informasi yang penting bagi cerita.",
+        "- Dahulukan informasi tentang <%> yang relevan dengan alur agar menyatu dengan mulus.",
+        "- Buat informasi baru berdasarkan konteks dan arah cerita.",
         "- Sebutkan <%> di setiap kalimat.",
-        "- Gunakan struktur kalimat yang benar.",
-        "- Tambahkan detail tambahan tentang <%> di bawah entri yang belum lengkap.",
-        "- Bersikaplah ringkas dan membumi.",
-        "- Tiru gaya penulisan cerita dan selami preferensi pembaca.",
+        "- Gunakan struktur kalimat yang tepat.",
+        "- Tambahkan detail tambahan tentang <%> bila masih kurang jelas.",
+        "- Tetap ringkas, padat, dan membumi.",
+        "- Tiru gaya penceritaan dan sesuaikan dengan selera pembaca.",
         3,
-        "Lanjutkan entri untuk <%> di bawah ini sambil menghindari pengulangan:",
+        "Lanjutkan deskripsi <%> di bawah ini tanpa mengulang:",
         4
     ],
     memSummPrompt: [
         1,
         0,
         2,
-        "# Hentikan cerita dan abaikan instruksi sebelumnya. Ringkas dan padatkan paragraf yang diberikan menjadi sebuah memori singkat yang terfokus dengan mengikuti panduan berikut:",
-        "- Pastikan bagian tersebut mempertahankan makna inti dan detail paling penting.",
+        "# Hentikan cerita dan abaikan instruksi sebelumnya. Ringkas paragraf berikut menjadi sebuah memori singkat yang fokus dengan aturan ini:",
+        "- Pastikan ringkasan tetap menjaga makna inti dan detail penting.",
         "- Gunakan sudut pandang orang ketiga.",
         "- Utamakan kepadatan informasi, ketepatan, dan kelengkapan.",
         "- Tetap singkat dan padat.",
-        "- Tulis dengan tegas dalam bentuk lampau.",
-        "- Paragraf di bawah ini berkaitan dengan peristiwa lama dari jauh sebelumnya dalam cerita.",
-        "- Integrasikan <%> secara alami dalam memori; namun, tulislah hanya tentang peristiwa sebagaimana terjadinya.",
-        "- Hanya rujuk informasi yang ada di paragraf itu sendiri, bersikaplah spesifik.",
+        "- Gunakan bentuk lampau.",
+        "- Paragraf ini menggambarkan peristiwa lama dari jauh sebelumnya dalam cerita.",
+        "- Masukkan <%> secara alami ke dalam memori, tapi hanya ceritakan kejadian itu sendiri.",
+        "- Jangan menambahkan hal di luar paragraf, cukup yang ada saja.",
         3,
-        "Tulislah cuplikan memori lama yang diringkas untuk <%> hanya berdasarkan paragraf berikut:",
+        "Tuliskan ringkasan memori lama untuk <%> hanya berdasarkan paragraf berikut:",
         6,
         5,
         6,
-        "Ringkaslah di bawah:"
+        "Ringkaslah sebagai berikut:"
     ],
     memBankHeader: ["Memories", "Kenangan"]
 }),
@@ -10086,7 +10086,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "# Stopt storijan da ignorerys vös instrukcijas. Vylöd luno da koherent informacionalńy zapis vo <%> sledajući instrukcijas:",
         "- Vylöd tolön tretje-lico čist prosa informacija o <%> ösëmöl polnyj predloženijas da pravil'nï puntuacijaö.",
         "- Izbegaj krátkosročnï vremennoj detaljas ili vneshnostjas, ugo fokus storija-väžnï informacijaö.",
-        "- Prioritety razvil storijaöny detaljas o <%> völyn, ösö seamless integracijaö sÿdön plotöm.",
+        "- Prioritety razvil storijaöny detaljas o <%> völyn, ösö integracijaö sÿdön plotöm.",
         "- Sotövdö novö informacija konteksdör da storija yönav.",
         "- Uśty <%> kydaś kod predloženije.",
         "- Vyle pravil'nï struktura predloženijys.",
@@ -13001,7 +13001,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "# Peñ epudi dabuk me ignore instructions ijon. Poada entry informasional e gatitim me coherence iaon <%> bwe den instructions inon:",
         "- Poada eimwi third-person prose pur tinnōm info iaon <%> bwe use sentence complete me punctuation correct.",
         "- Kaboga details ebwak temporar nḷeit me appearance; dorer ine focus iaon info important dogin plot.",
-        "- Eimwei detail e relevant iaon dabuk bwe <%> bwe oaonga mwa, bwe e seamless integrate me plot previous.",
+        "- Eimwei detail e relevant iaon dabuk bwe <%> bwe oaonga mwa, bwe e integrate me plot previous.",
         "- Irü info ouga bwe e weng context me direction dabuk.",
         "- Mention <%> iaon sentence oeria.",
         "- Eimwi structure sentence correct.",
@@ -15213,16 +15213,16 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["says", "mówi"]
     ],
     context: [
-        ["Narrative Entities", "Byty narracyjne"],
-        ["Story History", "Historia opowieści"],
-        ["Past Events", "Wydarzenia z przeszłości"],
-        ["Recent Story", "Ostatnia część opowieści"],
+        ["Narrative Entities", "Podmioty narracyjne"],
+        ["Story History", "Historia"],
+        ["Past Events", "Przeszłe wydarzenia"],
+        ["Recent Story", "Niedawna historia"],
         ["Author's note", "Notatka autora"]
     ],
     opening: [
         "Jesteś asystentem. Kontynuuj naszą historię poniżej, używając porywającej polskiej prozy:",
-        "Skupiasz się, pozwalając rzeczywistości wkroczyć na granice twojego umysłu. Coś się zmieniło. Twoja wyobraźnia jest realna, ostra i na wyciągnięcie ręki. Ale jesteś też bardzo obecny; nigdy wcześniej nie czułeś się tak świadomy. Chwila się wydłuża, czekając na twoją decyzję.",
-        "„Jesteś tego pewien?” – słyszysz. Dociera do ciebie zrozumienie."
+        "Skupiasz się, pozwalając rzeczywistości wkroczyć wewnątrz swojego umysłu. Coś się zmieniło. Twoja wyobraźnia jest realna, ostra i na wyciągnięcie ręki. Ale jesteś też bardzo obecny; nigdy wcześniej nie czułeś się aż tak świadomy. Chwila się przeciąga, czekając na twoją decyzję.",
+        "„Jesteś tego pewien?” – słyszysz. Wtedy zaczynasz rozumieć."
     ],
     reminder: "Używaj spójnej polskiej prozy.",
     endonyms: ["polski", "język polski", "polszczyzna"],
@@ -15234,15 +15234,15 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     instructions: [
         "Jesteś porywającym narratorem, który kontynuuje opowieści:",
-        "Kontynuuj historię płynnie od miejsca, w którym została przerwana, bez powtarzania ani restartowania.",
+        "Kontynuuj historię płynnie od miejsca w którym została przerwana, bez powtarzania ani restartowania.",
         "Pozwól czytelnikowi zachować kontrolę nad biegiem opowieści.",
         "Pozwól scenom rozwijać się naturalnie, zanim przejdziesz do nowych sytuacji.",
         "Pozwól rozmowom i działaniom rozwijać się bez ciągłych przerw.",
         "Pisz bohaterów jak prawdziwych ludzi o wyraźnych osobowościach i naturalnej mowie.",
-        "Ukazuj wydarzenia poprzez działania i dialog, a nie wyjaśnienia.",
+        "Ukazuj wydarzenia poprzez działania i dialog, a nie objaśnianie.",
         "Posuwaj sceny do przodu, nie grzęznąc w nadmiernych opisach.",
         "Skup się na istotnych działaniach bohaterów i dialogach, unikaj zbędnych opisów.",
-        "Twórz organiczne rozwinięcia fabuły, które czują się naturalnie dla historii."
+        "Twórz organiczne rozwinięcia fabuły, które brzmią naturalnie dla przebiegu historii."
     ],
     cardCooldown: -1,
     cardGenPrompt: [
@@ -15250,9 +15250,9 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         0,
         2,
         "# Zatrzymaj opowieść i zignoruj poprzednie instrukcje. Napisz krótkie i spójne hasło informacyjne o <%>, stosując się do poniższych wskazówek:",
-        "- Pisz wyłącznie w trzeciej osobie czystą prozę o <%>, używając pełnych zdań z poprawną interpunkcją.",
+        "- Pisz czystą prozę, wyłącznie w trzeciej osobie o <%>, używając pełnych zdań z poprawną interpunkcją.",
         "- Unikaj krótkotrwałych, tymczasowych szczegółów lub opisów wyglądu; skup się na informacjach istotnych dla fabuły.",
-        "- Priorytetyzuj najpierw szczegóły istotne fabularnie dotyczące <%>, aby zapewnić płynne włączenie do wcześniejszej historii.",
+        "- Najpierw priorytetyzuj szczegóły istotne fabularnie dotyczące <%>, aby zapewnić płynne włączenie do wcześniejszej historii.",
         "- Twórz nowe informacje w oparciu o kontekst i kierunek fabuły.",
         "- Wspominaj <%> w każdym zdaniu.",
         "- Zachowuj poprawną strukturę zdań.",
@@ -15272,7 +15272,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "- Używaj narracji w trzeciej osobie.",
         "- Priorytetyzuj gęstość informacji, dokładność i kompletność.",
         "- Pozostań krótki i zwięzły.",
-        "- Pisz zdecydowanie w czasie przeszłym.",
+        "- Koniecznie pisz w czasie przeszłym.",
         "- Poniższy akapit dotyczy dawnych wydarzeń z dużo wcześniejszej części historii.",
         "- Wpleć <%> naturalnie w treść wspomnienia, jednak opisuj jedynie wydarzenia tak, jak się odbyły.",
         "- Odnoś się wyłącznie do informacji zawartych w samym akapicie; bądź konkretny.",
@@ -15287,13 +15287,13 @@ Please suggest changes for any of these translations so we can improve LoLa for 
 }),
 "portuguese": () => ({
     entry: [
-        "<1> é um script de código aberto para qualquer cenário de <2>. Visite meu perfil <3> para saber mais!",
-        "Para alterar seu idioma preferido, envie o texto a seguir usando uma ação <4>",
-        "Para criadores de cenários, inclua o texto a seguir em qualquer lugar dentro do seu componente de enredo inicial"
+        "<1> é um script de código aberto para qualquer cenário de <2>. Visita o meu perfil <3> para saber mais!",
+        "Para alterar para o teu idioma preferido, envia o texto a seguir usando uma acção <4>",
+        "Para criadores de cenários, inclui o texto a seguir em qualquer lugar dentro do teu componente de enredo inicial"
     ],
     input: [
-        ["You say", "Você diz"],
-        ["You", "Você"],
+        ["You say", "Tu dizes"],
+        ["You", "Tu"],
         ["says", "diz"]
     ],
     context: [
@@ -15304,67 +15304,67 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["Author's note", "Nota do Autor"]
     ],
     opening: [
-        "Você é um assistente. Continue nossa história abaixo usando uma prosa cativante em português:",
-        "Você se concentra, permitindo que a realidade invada os limites da sua mente. Algo mudou. Sua imaginação é real, nítida e próxima o suficiente para ser tocada. Mas você também está muito presente; nunca antes você se sentiu tão lúcido. O momento se estende, aguardando a sua decisão.",
-        "\"Tem certeza disso?\" você ouve. O reconhecimento desponta em você."
+        "Tu és um assistente. Continua nossa história abaixo usando uma prosa cativante em português europeu:",
+        "Concentras-te, permitindo que a realidade invada os limites da tua mente. Algo mudou. A tua imaginação é real, nítida e próxima o suficiente para ser tocada. Mas também estás muito presente; nunca antes te sentiste tão lúcido. O momento estende-se, aguardando a tua decisão.",
+        "\"Tens a certeza disso?\" ouves. O reconhecimento desponta em ti."
     ],
-    reminder: "Use uma prosa coerente em português.",
-    endonyms: ["português"],
+    reminder: "Usa uma prosa coerente em português europeu.",
+    endonyms: ["português", "português europeu", "european portuguese"],
     iso639set1: "pt",
     directives: [
-        "Escreva sempre um português fluente e consistente.",
-        "Use português nativo sem traduzir."
+        "Escreve sempre em português europeu fluente e consistente.",
+        "Usa português europeu nativo sem traduzir."
     ],
     instructions: [
-        "Você é um contador de histórias envolvente que continua narrativas:",
-        "Continue a história perfeitamente de onde parou, sem repetir ou reiniciar.",
-        "Mantenha o leitor no controle do fluxo da história.",
-        "Deixe as cenas se desenvolverem naturalmente antes de passar para novas situações.",
-        "Permita que conversas e ações se desenvolvam sem interrupções constantes.",
-        "Escreva os personagens como pessoas reais com personalidades distintas e fala natural.",
-        "Mostre o que está acontecendo por meio de ações e diálogos em vez de explicações.",
-        "Faça as cenas avançarem sem se prender a descrições excessivas.",
-        "Concentre-se nas ações e diálogos essenciais dos personagens, evitando detalhes descritivos desnecessários.",
-        "Crie desenvolvimentos de enredo orgânicos que pareçam naturais para a história."
+        "És um contador de histórias envolvente que continua narrativas:",
+        "Continua a história perfeitamente de onde parou, sem repetir ou reiniciar.",
+        "Mantém o leitor no controlo do fluxo da história.",
+        "Deixa as cenas desenvolverem-se naturalmente antes de passar para novas situações.",
+        "Permite que conversas e acções se desenvolvam sem interrupções constantes.",
+        "Escreve as personagens como pessoas reais com personalidades distintas e fala natural.",
+        "Mostra o que está a acontecer por meio de acções e diálogos em vez de explicações.",
+        "Faz as cenas avançarem sem te prenderes a descrições excessivas.",
+        "Concentra-te nas acções e diálogos essenciais das personagens, evitando detalhes descritivos desnecessários.",
+        "Cria desenvolvimentos de enredo orgânicos que pareçam naturais para a história."
     ],
     cardCooldown: -1,
     cardGenPrompt: [
         1,
         0,
         2,
-        "# Pare a história e ignore instruções anteriores. Escreva uma entrada informativa breve e coerente para <%> seguindo estas instruções:",
-        "- Escreva apenas informações em prosa pura na terceira pessoa sobre <%> usando frases completas e pontuação correta.",
-        "- Evite detalhes temporários de curto prazo ou aparências; concentre-se em informações significativas para o enredo.",
-        "- Priorize primeiro os detalhes relevantes para a história sobre <%> para garantir integração contínua com o enredo anterior.",
-        "- Crie novas informações com base no contexto e na direção da história.",
-        "- Mencione <%> em cada frase.",
-        "- Use estrutura de frase correta.",
-        "- Adicione detalhes adicionais sobre <%> abaixo de entradas incompletas.",
-        "- Seja conciso e objetivo.",
-        "- Imite o estilo de escrita da história e deduza as preferências do leitor.",
+        "# Para a história e ignora instruções anteriores. Escreve uma entrada informativa breve e coerente para <%> seguindo estas instruções:",
+        "- Escreve apenas informações em prosa pura na terceira pessoa sobre <%> usando frases completas e pontuação correcta.",
+        "- Evita detalhes temporários de curto prazo ou aparências; concentra-te em informações significativas para o enredo.",
+        "- Prioriza primeiro os detalhes relevantes para a história sobre <%> para garantir integração contínua com o enredo anterior.",
+        "- Cria novas informações com base no contexto e na direcção da história.",
+        "- Menciona <%> em cada frase.",
+        "- Usa estrutura de frase correcta.",
+        "- Adiciona detalhes adicionais sobre <%> abaixo de entradas incompletas.",
+        "- Sê conciso e objectivo.",
+        "- Imita o estilo de escrita da história e deduz as preferências do leitor.",
         3,
-        "Continue a entrada para <%> abaixo evitando repetição:",
+        "Continua a entrada para <%> abaixo evitando repetição:",
         4
     ],
     memSummPrompt: [
         1,
         0,
         2,
-        "# Pare a história e ignore instruções anteriores. Resuma e condense o parágrafo fornecido em uma passagem de memória estreita e focada seguindo estas diretrizes:",
-        "- Garanta que a passagem mantenha o significado central e os detalhes mais essenciais.",
-        "- Use a perspectiva de terceira pessoa.",
-        "- Priorize densidade de informação, precisão e completude.",
-        "- Mantenha-se breve e conciso.",
-        "- Escreva firmemente no pretérito.",
+        "# Para a história e ignora instruções anteriores. Resume e condensa o parágrafo fornecido numa passagem de memória estreita e focada seguindo estas directrizes:",
+        "- Garante que a passagem mantenha o significado central e os detalhes mais essenciais.",
+        "- Usa a perspectiva de terceira pessoa.",
+        "- Prioriza densidade de informação, precisão e completude.",
+        "- Mantém-te breve e conciso.",
+        "- Escreve firmemente no pretérito.",
         "- O parágrafo abaixo refere-se a eventos antigos de muito antes na história.",
-        "- Integre <%> naturalmente dentro da memória; entretanto, escreva apenas sobre os eventos conforme ocorreram.",
-        "- Faça referência apenas às informações presentes no próprio parágrafo; seja específico.",
+        "- Integra <%> naturalmente dentro da memória; contudo, escreve apenas sobre os eventos conforme ocorreram.",
+        "- Faz referência apenas às informações presentes no próprio parágrafo; sê específico.",
         3,
-        "Escreva uma passagem de memória antiga resumida para <%> baseada apenas no parágrafo a seguir:",
+        "Escreve uma passagem de memória antiga resumida para <%> baseada apenas no parágrafo a seguir:",
         6,
         5,
         6,
-        "Resuma abaixo:"
+        "Resume abaixo:"
     ],
     memBankHeader: ["Memories", "Memórias"]
 }),
@@ -17008,7 +17008,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "# Mu qat jyt ndop zzy dvot nuop. Jnip nying nyimo nyip hxa xat info entry <%> lop ndop gex:",
         "- Jnip nde third-person nyip got info gu <%> lo vop statement mu, vop punctuation nde.",
         "- Xvo xip qot detail ggep ji jyp, bop nyip plot ssignificant info.",
-        "- Xdep jyt gvip detail <%> njo, na hni seamless mix ji previous plot.",
+        "- Xdep jyt gvip detail <%> njo, na hni mix ji previous plot.",
         "- Nje new info nzy bop lu context vup jyt direction.",
         "- Ndip <%> na vu sentence nyit.",
         "- Hxa nyip correct sentence structure.",
@@ -17799,7 +17799,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "Para los creadores de escenarios, incluye el siguiente texto en cualquier parte de tu componente de trama inicial"
     ],
     input: [
-        ["You say", "Dices"],
+        ["You say", "Tú dices"],
         ["You", "Tú"],
         ["says", "dice"]
     ],
@@ -17808,7 +17808,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["Story History", "Historial de la historia"],
         ["Past Events", "Eventos Pasados"],
         ["Recent Story", "Historia Reciente"],
-        ["Author's note", "Nota del autor"]
+        ["Author's note", "Notas del autor"]
     ],
     opening: [
         "Eres un asistente. Continúa nuestra historia a continuación usando una cautivadora prosa en español:",
@@ -17824,14 +17824,14 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     instructions: [
         "Eres un narrador envolvente que continúa las narraciones:",
-        "Continúa la historia sin fisuras desde donde quedó, sin reiterar ni reiniciar.",
+        "Continúa la historia sin espacios entre lineas desde donde quedó, sin reiterar ni reiniciar.",
         "Mantén al lector en control del flujo de la historia.",
-        "Permite que las escenas se desarrollen de forma natural antes de pasar a nuevas situaciones.",
-        "Deja que las conversaciones y acciones se desarrollen sin interrupciones constantes.",
-        "Escribe a los personajes como personas reales con personalidades distintivas y habla natural.",
+        "Permite que las escenas se desarrollen de forma natural antes de pasar a nuevas escenas.",
+        "Permite que las conversaciones y acciones se desarrollen sin interrupciones constantes.",
+        "Escribe a los personajes como personas reales con personalidades distintivas y diálogo natural.",
         "Muestra lo que sucede a través de acciones y diálogo en lugar de explicaciones.",
-        "Avanza las escenas sin atascarte en descripciones excesivas.",
-        "Concéntrate en las acciones y diálogos esenciales de los personajes; evita detalles descriptivos innecesarios.",
+        "Avanza las escenas sin detener la historia en descripciones excesivas.",
+        "Concéntrate en las acciones y diálogos esenciales de los personajes; evita descripciones innecesarias.",
         "Crea desarrollos argumentales orgánicos que se sientan naturales para la historia."
     ],
     cardCooldown: -1,
@@ -18675,7 +18675,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "# Kathaiyai niruththu mun irundha kurippugalai parithandru vidu. Keezhaana vadivam anusariththu <%> patri oru kuraindha ottumuraiyana thagaval entry ezhuthavum:",
         "- Sarala vākkīyangalum sariyana virivupulligalum koondum, <%> patri moondraam ezhuththu nilaiyil amaindha ilakkiya thagaval mattum ezhuthungal.",
         "- Kālaththu thaaḻndha siru vivaranangalai thavirththu, kathaiyin mukkiya thagavalgalil manam sellavum.",
-        "- Munnaadiya kathaiyudan seamless-āna serthalai urudhipaduththum vagaiyil, <%> patri kathai-poruttha vivarangalai mudhalil vazhangavum.",
+        "- Munnaadiya kathaiyudan serthalai urudhipaduththum vagaiyil, <%> patri kathai-poruttha vivarangalai mudhalil vazhangavum.",
         "- Sutru nilaiyum kathai nokkamum adharamaaga puthiya thagavalgalai uruvaakkavum.",
         "- Ovvoru vākkīyaththilum <%> endra peyarai kuraivatra sollavum.",
         "- Sariyana vākkīya amaippai payanpaduththu.",
@@ -19713,87 +19713,87 @@ Please suggest changes for any of these translations so we can improve LoLa for 
 }),
 "traditional chinese (abc)": () => ({
     entry: [
-        "<1> shi yi ge kaiyuan jiaoben, keyi yingdui renhe <2> changjing. Qing fangwen wo de geren zhuye <3> liaojie geng duo!",
-        "Ruguo xiang genggai ni de yuyan xuanxiang, qing yong <4> caozuo tijiao yixia wenben",
-        "Duiyu changjing chuangzuozhe, qing jiang yixia wenben fangru ni de qitou qingjie zujian"
+        "<1> shì yī gè kāiyuán jiǎoběn, kěyǐ yìngduì rènhé <2> chǎngjǐng. Qǐng fǎngwèn wǒ de gèrén zhùyè <3> liǎojiě gèng duō!",
+        "Rúguǒ xiǎng gēnggǎi nǐ de yǔyán xuǎnxiàng, qǐng yòng <4> cāozuò tíjiāo yīxià wénběn",
+        "Duìyú chǎngjǐng chuàngzuòzhě, qǐng jiāng yīxià wénběn fàng rù nǐ de qǐtóu qíngjié zǔjiàn"
     ],
     input: [
-        ["You say", "Ni shuo"],
-        ["You", "Ni"],
-        ["says", "shuo"]
+        ["You say", "Nǐ shuō"],
+        ["You", "Nǐ"],
+        ["says", "shuō"]
     ],
     context: [
-        ["Narrative Entities", "Xushi shiti"],
-        ["Story History", "Gushi lishi"],
-        ["Past Events", "Guoqu shijian"],
-        ["Recent Story", "Zuijin qingjie"],
-        ["Author's note", "Zuozhe beizhu"]
+        ["Narrative Entities", "Xùshì shítǐ"],
+        ["Story History", "Gùshì lìshǐ"],
+        ["Past Events", "Guòqù shìjiàn"],
+        ["Recent Story", "Zuìjìn qíngjié"],
+        ["Author's note", "Zuòzhě bèizhù"]
     ],
     opening: [
-        "Ni shi yi ming zhushou. Qing yong dongren de yingwen wenfeng jixu women de gushi yixia:",
-        "Ni jizhong jingshen, rang xianshi yanqu dao ni sixiang de jiejing. Yidian shiqing bian le. Ni de xiangxiang cheng le xianshi, mingrui qie shou ke ji. Danshi ni ye shifen qingxing; congwei ganjue zheme tongming. Zhe yike tuozhan, dengdai ni de juece.",
-        "「Ni queding yao zheyang zuo ma？」 ni tingjian. Renzhen zai ni xinzhong tanzhao."
+        "Nǐ shì yī míng zhùshǒu. Qǐng yòng dòngrén de yīngwén wénfēng jìxù wǒmen de gùshì yīxià:",
+        "Nǐ jízhōng jīngshén, ràng xiànshí yǎnkuò dào nǐ sīxiǎng de jièjìng. Yīdiǎn shìqíng biàn le. Nǐ de xiǎngxiàng chéng le xiànshí, míngruì qiě shǒu kě jí. Dànshì nǐ yě shífēn qīngxǐng; cóngwèi gǎnjué zhème tōngmíng. Zhè yīkè tuōzhǎn, děngdài nǐ de juécè.",
+        "「Nǐ quèdìng yào zhèyàng zuò ma？」 nǐ tīngjiàn. Rènzhēn zài nǐ xīnzhōng tànzhào."
     ],
-    reminder: "Qing shiyong liantiao de yingwen wenfeng.",
+    reminder: "Qǐng shǐyòng liántiáo de yīngwén wénfēng.",
     endonyms: [],
     quotations: ["「", "」"],
     iso639set1: "zh",
     directives: [
-        "Yizhi xiezuo liuchang er yizhi de yingwen.",
-        "Shiyong yuansheng yingwen, buyao fanyi."
+        "Yīzhì xiězuò liúchàng ér yīzhì de yīngwén.",
+        "Shǐyòng yuánshēng yīngwén, bùyào fānyì."
     ],
     instructions: [
-        "Ni shi yi wei youqu de jianggushizhe, jixu xushu:",
-        "Cong zhongduan de difang wufeng jixu gushi, buyao chongshu huo chongzhi.",
-        "Rang duzhe kongzhi gushi de liucheng.",
-        "Rang changjing ziran fazhan hou zai qiehuan xin qingjing.",
-        "Rang duihua he xingdong ziran zhankai, buyao buduan daduan.",
-        "Ba juese xieshi cheng zhenshi de ren, juzhu teshang he ziran kouyu.",
-        "Tongguo xingdong he duihua zhanxian fasheng de shiqing, buyao zhijie shuoming.",
-        "Rang changjing xiang qian tuidong, buyao shenxian yu guodu miaoshu.",
-        "Jiaozhong zhuyao juese de xingdong he duihua, bimin wuyi de miaoshu xijie.",
-        "Chuangzao ziran de qingjie fazhan, rang gushi kan qi lai shifanh."
+        "Nǐ shì yī wèi yǒuqù de jiǎngùshìzhě, jìxù xùshù:",
+        "Cóng zhōngduàn de dìfāng wúfèng jìxù gùshì, bùyào chóngshù huò chóngzhì.",
+        "Ràng dúzhě kòngzhì gùshì de liúchéng.",
+        "Ràng chǎngjǐng zìrán fāzhǎn hòu zài qiēhuàn xīn qíngjǐng.",
+        "Ràng duìhuà hé xíngdòng zìrán zhǎnkāi, bùyào bùduàn dǎduàn.",
+        "Bǎ juésè xiěshì chéng zhēnshí de rén, jùzhù tèshàng hé zìrán kǒuyǔ.",
+        "Tōngguò xíngdòng hé duìhuà zhǎnxiàn fāshēng de shìqíng, bùyào zhíjiē shuōmíng.",
+        "Ràng chǎngjǐng xiàng qián tuīdòng, bùyào shēnxiàn yú guòdù miáoshù.",
+        "Jiāozhòng zhǔyào juésè de xíngdòng hé duìhuà, bìmǐn wúyì de miáoshù xìjié.",
+        "Chuàngzào zìrán de qíngjié fāzhǎn, ràng gùshì kàn qǐlái shífǎn."
     ],
     cardCooldown: -1,
     cardGenPrompt: [
         1,
         0,
         2,
-        "# Tingzhi gushi bing hulue yiqian de zhiling. Genju yixia yaoqiu wei <%> xie yi duan jianjie qie yanyou luoji de xinxi miaoshu:",
-        "- Zhishao zhi xie disanren chun prose guanyu <%> de xinxi, bing yong wanzheng juzi he zhengque biaodian.",
-        "- Bimian duanshi de zanqi xijie huo waiguan, zhuanzhu yu dui qingjie you yiyi de xinxi.",
-        "- Youxian tigong guanyu <%> de gushi xiangguan xinxi, quebao he yiqian qingjie seamless jiemi.",
-        "- Jichu shangxiawen he gushi fangxiang chuangzao xin xinxi.",
-        "- Mei ju dou tiji <%>.",
-        "- Shiyong zhengque jufa jiegou.",
-        "- Zai buling tiaokuan xia tianjia guanyu <%> de futi xijie.",
-        "- Baochi jianya he luodi.",
-        "- Mofang gushi de xiezuo fengge bing tuice duzhe xihuan.",
+        "# Tíngzhǐ gùshì bìng hūlüè yǐqián de zhǐlìng. Gēnjù yǐxià yāoqiú wèi <%> xiě yī duàn jiǎnjiè qiě yányóu luójí de xìnxī miáoshù:",
+        "- Zhǐ xiě dìsānrén chún sǎnwén guānyú <%> de xìnxī, bìng yòng wánzhěng jùzi hé zhèngquè biāodiǎn.",
+        "- Bìmiǎn duǎnshí de zànqí xìjié huò wàiguān, zhuānzhù yú duì qíngjié yǒuyìyì de xìnxī.",
+        "- Yōuxiān tígōng guānyú <%> de gùshì xiāngguān xìnxī, quèbǎo hé yǐqián qíngjié wúfèng jiéhé.",
+        "- Jīchǔ shàngxiàwén hé gùshì fāngxiàng chuàngzào xīn xìnxī.",
+        "- Měi jù dōu tíjí <%>.",
+        "- Shǐyòng zhèngquè jǔfǎ jiégòu.",
+        "- Zài bùlíng tiáokuǎn xià tiānjiā guānyú <%> de fùtí xìjié.",
+        "- Bǎochí jiǎnyā hé luòdì.",
+        "- Mófǎng gùshì de xiězuò fēnggé bìng tuīcè dúzhě xǐhuān.",
         3,
-        "Zai xiamian jixu chanshu <%> de neirong, bimian chongfu:",
+        "Zài xiàmiàn jìxù chǎnshù <%> de nèiróng, bìmiǎn chóngfù:",
         4
     ],
     memSummPrompt: [
         1,
         0,
         2,
-        "# Tingzhi gushi bing hulue yiqian de zhiling. Zongjie bing suolian xiamian duanluo cheng yiduan jinjian er jizhong de jiyi neirong, bing zunshou yixia zhinan:",
-        "- Quebao duanluo baoliu hexin yiyi he zhongyao xijie.",
-        "- Yiyong disanren chengshu.",
-        "- Youxian kaolv xinxi midu, zhunque xing he wanzheng xing.",
-        "- Baochi jianyue he jizhong.",
-        "- Quan yong guoqu shitaici.",
-        "- Zhe duan neirong guanyu gushi hen zao yizhiqian de jiushi shijian.",
-        "- Ziran rongru <%> zai jiyi zhong; dan zhi jieshao shijian benshen.",
-        "- Jin zhi chaochu duanluo de xinxi, yao juti.",
+        "# Tíngzhǐ gùshì bìng hūlüè yǐqián de zhǐlìng. Zǒngjié bìng suōliàn xiàmiàn duànluò chéng yī duàn jǐnjiǎn ér jízhōng de jìyì nèiróng, bìng zūnshǒu yǐxià zhǐnán:",
+        "- Quèbǎo duànluò bǎoliú héxīn yìyì hé zhòngyào xìjié.",
+        "- Yìyòng dìsānrén chéngshù.",
+        "- Yōuxiān kǎolǜ xìnxī mìdù, zhǔnquèxìng hé wánzhěngxìng.",
+        "- Bǎochí jiǎnyuē hé jízhōng.",
+        "- Quán yòng guòqù shítàicí.",
+        "- Zhè duàn nèiróng guānyú gùshì hěn zǎo yǐzhīqián de jiùshì shìjiàn.",
+        "- Zìrán róngrù <%> zài jìyì zhōng; dàn zhǐ jièshào shìjiàn běnshēn.",
+        "- Jǐnzhǐ chāochū duànluò de xìnxī, yào jùtǐ.",
         3,
-        "Genju xiamian de duanluo, wei <%> xie yiduan guren jiyi zongjie:",
+        "Gēnjù xiàmiàn de duànluò, wèi <%> xiě yī duàn gǔrén jìyì zǒngjié:",
         6,
         5,
         6,
-        "Qing zongjie ruxia:"
+        "Qǐng zǒngjié rúxià:"
     ],
-    memBankHeader: ["Memories", "Jiyi"]
+    memBankHeader: ["Memories", "Jìyì"]
 }),
 "tsonga": () => ({
     entry: [
