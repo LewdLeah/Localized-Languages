@@ -272,6 +272,7 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 </details>
 
 ## Gameplay Suggestions
+- Scripts must be enabled: Account Settings > Gameplay > Allow Scripts
 - Adventure quality varies between different AI models, so try multiple
 - Quality also varies between different languages, especially rare ones
 - Use a response length of 200 tokens for the best results
