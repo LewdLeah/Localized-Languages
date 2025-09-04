@@ -2,4 +2,4 @@
 ### Overview
 This is a standalone version of LoLa with Auto-Cards fully removed.
 ### Playable scenario link:
-work in progress
+[LoLa 🌐 (No AC 🎴)](https://play.aidungeon.com/scenario/6YQAIOHqLkpk/lola-no-ac)
