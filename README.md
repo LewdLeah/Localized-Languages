@@ -337,10 +337,10 @@ modifier(text);
 - [Library code](./src/library.js)
 17. Copy the *full* code from the page above and paste into your empty `Library` tab
 18. Click the big yellow `SAVE` button in the top right corner
-19. If creating scenarios for yourself, copy and paste `{Language: [Write Your Language Here]}` into the Opening
+19. If creating scenarios for yourself, paste `{Language: [Write Your Language Here]}` into the Opening
 20. If using LoLa in an existing adventure, submit `{Language: [Write Your Language Here]}` using Do/Say/Story
-21. If creating published scenarios for others, copy and paste `{Language: ${Select your language:}}` into the Opening
-22. You can also
+21. If creating published scenarios for others, paste `{Language: ${Select your language:}}` into the Opening
+22. Remember to enjoy ❤️
 ## Useful Links
 ### Simple demo scenario
 - [Localized Languages](https://play.aidungeon.com/scenario/AX2nXYIPzcKd/localized-languages)
