@@ -340,7 +340,7 @@ modifier(text);
 19. If creating scenarios for yourself, paste `{Language: [Write Your Language Here]}` into the Opening (edit the `[]`)
 20. If using LoLa inside an existing adventure, submit `{Language: [Write Your Language Here]}` using Do/Say/Story
 21. If creating published scenarios for others, paste `{Language: ${Select your language:}}` into the Opening
-22. Optional: Import [language expansion pack](./language-expansion-packs.json) story cards into your scenario to support even more languages
+22. Optionally import [language expansion pack](./language-expansion-packs.json) story cards into your scenario to support even more languages
 23. Remember to enjoy ❤️
 ## Useful Links
 ### Simple demo scenario
