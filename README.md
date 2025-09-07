@@ -341,7 +341,7 @@ modifier(text);
 20. If using LoLa inside an existing adventure, submit `{Language: [Write Your Language Here]}` using Do/Say/Story
 21. If creating published scenarios for others, paste `{Language: ${Select your language:}}` into the Opening
 22. Optionally import [language expansion pack](./language-expansion-packs.json) story cards into your scenario to support even more languages
-23. Remember to enjoy ❤️
+23. Embark on fun adventures! ❤️
 ## Useful Links
 ### Simple demo scenario
 - [Localized Languages](https://play.aidungeon.com/scenario/AX2nXYIPzcKd/localized-languages)
