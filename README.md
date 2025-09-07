@@ -349,4 +349,4 @@ modifier(text);
 ### LoLa discussion thread
 - [Localized Languages - discussion](https://discord.com/channels/903327676884979802/1406127682365816852)
 - [AI Dungeon official Discord server invite](https://discord.gg/MXNqpSbuZT) (required to access the first link)
-- Ping me any time @LewdLeah to chat
+- Feel free to ping me anytime @LewdLeah if you'd like to chat or share ideas. But please remember this is a personal passion project for me, something I do because I enjoy it, not as a job. Your kindness, patience, and love mean so much to me~ ❤️
