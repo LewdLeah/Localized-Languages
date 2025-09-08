@@ -279,8 +279,8 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 - Romanized language variants "(abc)" are not necessarily more coherent
 - Try to remain consistent by using only your selected language
 - Writing a custom opening in your language is helpful, though optional
-- The "Retry" button is your friend, especially at the start of your adventure
-- Muse, Dynamic Small, and Wayfarer Small (in that order) are better suited for English
+- The "Retry" button is your friend, especially near the beginning of new adventures
+- Muse, Dynamic Small, and Wayfarer Small (in that order) may struggle with non-English
 - Among the free models, Madness is (seemingly) the best for multilingual writing
 ## Permission
 LoLa is both free and open-source for anyone to use within their own scenarios or scripts, even including published works. You have my full permission to use, copy, or modify LoLa. Please enjoy! ❤️
