@@ -14326,7 +14326,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "Stick ta da vital actshuns an' chat, chuck da useless gabbin'.",
         "Cook up plot twists dat feel proppa natural to da tale."
     ],
-    cardCooldown: -1,
+    cardCooldown: 9999,
     cardGenPrompt: [
         1,
         0,
