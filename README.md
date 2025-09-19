@@ -285,7 +285,6 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 ## Permission
 LoLa is both free and open-source for anyone to use within their own scenarios or scripts, even including published works. You have my full permission to use, copy, or modify LoLa. Please enjoy! ❤️
 ## Scenario Script Installation Guide
-0. COME BACK LATER because LoLa is still in beta; it can't be installed yet...so ignore the steps below lol
 1. Use the [AI Dungeon website](https://aidungeon.com/) on PC (or view as desktop if mobile-only)
 2. [Create a new scenario](https://help.aidungeon.com/faq/what-are-scenarios) or edit one of your existing scenarios
 3. Open the `DETAILS` tab at the top while editing your scenario
@@ -313,7 +312,7 @@ const modifier = (text) => {
   // Your other context modifier scripts go here (preferred)
   [text, stop] = AutoCards("context", text, stop);
   text = LocalizedLanguages("context", text);
-  // Your other context modifier scripts go here (alternative)
+  // Your other context modifier scripts go here (risky)
   return { text, stop };
 };
 modifier(text);
