@@ -1,7 +1,7 @@
 /*
 Please suggest changes for any of these translations so we can improve LoLa for everyone ❤️
 */
-"english": () => ({
+"english": () => ({ // English
     entry: [
         "{1} is an open-source script for any {2} scenario. Please visit my profile {3} to learn more!",
         "To change your preferred language, please submit the following text using a {4} action",
@@ -84,7 +84,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memories"]
 }),
-"abkhazian": () => ({
+"abkhazian": () => ({ // Abkhazian < аҧсуа < Apsua < აფსუა < Abkhaz
     entry: [
         "{1} опен-соурс скриптуп зыҟаҵо {2} сценари азы. Шәнаԥыл с-профиль {3}, иҵегь ибарц!",
         "Шәалхыз бызшәа иԥсахырц, иарбоу атеқст {4} аус ала шәинашьҭ.",
@@ -169,7 +169,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Агәалашәарақәа"]
 }),
-"abkhazian (abc)": () => ({
+"abkhazian (abc)": () => ({ // Abkhazian < Romanized Abkhazian
     entry: [
         "{1} ari open-source skript anyha {2} tsenariara akyt. Afa shta profil-am {3} aagar, ibzara!",
         "Apsny nartsa ahats’a alyshtara, ijar aty zaa {4} aktsia rkhaṭr tekst axatyr.",
@@ -253,7 +253,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ahaňaku"]
 }),
-"afar": () => ({
+"afar": () => ({ // Afar < Qafar Af
     entry: [
         "{1} niki open-source script keena {2} xaalah makkal. Fadlan profile-keey {3} galaa xila siibi!",
         "Af-ka ma doorritte beddelah, fadlan bar tan fanah {4} fal yakka keenna.",
@@ -336,7 +336,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xusuus"]
 }),
-"afrikaans": () => ({
+"afrikaans": () => ({ // Afrikaans
     entry: [
         "{1} is 'n oopbron-skrip vir enige {2}-scenario. Besoek asseblief my profiel {3} om meer te leer!",
         "Om jou voorkeurtaal te verander, dien asseblief die volgende teks in deur 'n {4}-aksie te gebruik",
@@ -419,7 +419,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Herinneringe"]
 }),
-"akan": () => ({
+"akan": () => ({ // Akan < ákán
     entry: [
         "{1} yɛ krataa a obiara betumi de ayɛ dwumadie biara {2}. Mesrɛ, kɔ me profael {3} na sua bio!",
         "Sɛ wopɛ sɛ wosesa kasa a wopɛ no a, fa dwumadie {4} de soma nsɛm a edidi so yi",
@@ -502,7 +502,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Nkae"]
 }),
-"akan (abc)": () => ({
+"akan (abc)": () => ({ // Akan < Romanized Akan
     entry: [
         "{1} ye open-source krataa a etumi di adwuma wo {2} tebea biara so. Mesre ko me profael {3} so na sua ho pii!",
         "Se wope se wosesa kasa a wope no, mesre soma nsentsir yi de {4} dwumadie no.",
@@ -585,7 +585,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Akae"]
 }),
-"albanian": () => ({
+"albanian": () => ({ // Albanian < Shqip
     entry: [
         "{1} është një skript me burim të hapur për çdo skenar {2}. Ju lutem vizitoni profilin tim {3} për të mësuar më shumë!",
         "Për të ndryshuar gjuhën tuaj të preferuar, ju lutemi dërgoni tekstin e mëposhtëm duke përdorur një veprim {4}",
@@ -669,7 +669,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Kujtimet"]
 }),
-"amharic": () => ({
+"amharic": () => ({ // Amharic < አማርኛ < Amarəñña
     entry: [
         "{1} የተከፈተ ምንጭ ስክሪፕት ሲሆን ለማንኛውም {2} ሁኔታ ይስተዋላል። ተጨማሪ መረጃ ለማግኘት መግለጫዬን {3} ይጎብኙ።",
         "የሚመርጡትን ቋንቋ ለመቀየር፣ እባክዎ ይህን ጽሁፍ በ{4} ተግባር ያቅርቡ።",
@@ -753,7 +753,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ትውስታዎች"]
 }),
-"amharic (abc)": () => ({
+"amharic (abc)": () => ({ // Amharic < Romanized Amharic
     entry: [
         "{1} open-source script new le hule {2} scenariwoch. Le mewestawek, profile-ye {3} temelesu!",
         "Lisanihun yemīfet’ru qwanqwa lemeslaleq, be {4} t’ibika kezi text sigebasu",
@@ -836,7 +836,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mastaweshawoch"]
 }),
-"arabic": () => ({
+"arabic": () => ({ // Arabic < اَلْعَرَبِيَّةُ < Al-ʿarabiyyah
     entry: [
         "{1} هو نص مفتوح المصدر لأي سيناريو {2}. يرجى زيارة ملفي الشخصي {3} لمعرفة المزيد!",
         "لتغيير لغتك المفضلة، يرجى إرسال النص التالي باستخدام إجراء {4}",
@@ -920,7 +920,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "الذكريات"]
 }),
-"arabic (abc)": () => ({
+"arabic (abc)": () => ({ // Arabic < Romanized Arabic
     entry: [
         "{1} huwa script maftuh al-masdar li ayy {2} sinaryo. irjaa ila profili {3} litaearraf aktar!",
         "li taghyir lughatak al-mufaddala, qaddim al-nass al-ati bi-isti‘mal ‘amaliyat {4}",
@@ -1003,7 +1003,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Dhikrayat"]
 }),
-"aragonese": () => ({
+"aragonese": () => ({ // Aragonese < Aragonés
     entry: [
         "{1} ye un script de codigo libre ta qualsiquier scenario de {2}. Por favor, visita o mio perfil {3} ta saber-ne mas!",
         "Ta cambiar a tuya luenga preferida, por favor ninvia o siguient texto emplegando una acción de {4}",
@@ -1087,7 +1087,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorias"]
 }),
-"armenian": () => ({
+"armenian": () => ({ // Armenian < հայերեն < Hayeren
     entry: [
         "{1} բաց կոդով սցենար է ցանկացած {2} իրավիճակի համար։ Խնդրում եմ այցելիր իմ պրոֆիլը {3}, որպեսզի ավելին իմանաս։",
         "Քո նախընտրելի լեզուն փոխելու համար, խնդրում եմ ուղարկիր հետևյալ տեքստը՝ օգտագործելով {4} գործողություն",
@@ -1171,7 +1171,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Հիշողություններ"]
 }),
-"armenian (abc)": () => ({
+"armenian (abc)": () => ({ // Armenian < Romanized Armenian
     entry: [
         "{1} bac aknots skript e amenorakayn {2} tsenarari hamar. Khndrum em aytsel im profayl {3} vorovhetev uzum em aveli janaparh egal!",
         "Erpashtel dzer naxndirats lezun, khndrum em nerknakel hajord tekst@ ogtagorcelov {4} gortsoghutyun",
@@ -1255,7 +1255,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Hishatakanner"]
 }),
-"asmr": () => ({
+"asmr": () => ({ // Asmr < Whisper < Asmr Whisper Script
     entry: [
         "{1} is an open-source script for any {2} scenario~ please visit my profile {3} to learn more, okay?",
         "to change your preferred language, softly submit the following text using a {4} action",
@@ -1338,7 +1338,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Whispered Memories"]
 }),
-"assamese": () => ({
+"assamese": () => ({ // Assamese < অসমীয়া < ôxômiya < Asamiya
     entry: [
         "{1} এটা মুক্ত উৎস লিপি যিকোনো {2} পৰিপ্ৰেক্ষিতৰ বাবে। অধিক জানিবলৈ অনুগ্ৰহ কৰি মোৰ প্ৰ'ফাইল {3} পৰিদৰ্শন কৰক!",
         "আপোনাৰ পছন্দৰ ভাষা সলনি কৰিবলৈ, অনুগ্ৰহ কৰি তলৰ পাঠ {4} কাৰ্য ব্যৱহাৰ কৰি দাখিল কৰক",
@@ -1421,7 +1421,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "স্মৃতিসমূহ"]
 }),
-"assamese (abc)": () => ({
+"assamese (abc)": () => ({ // Assamese < Romanized Assamese
     entry: [
         "{1} eti khola-source script, jekunu {2} pariprekhyat babe. Bistarito jabar babe mor profile {3} ulabo!",
         "Tumi pasand kora bhaxa poribartan koriboloi, kripaya {4} kriya bebohar kori talor lekha jama kara",
@@ -1504,7 +1504,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Smriti"]
 }),
-"avaric": () => ({
+"avaric": () => ({ // Avaric < авар мацӏ < اوار ماض < Avar Maz < Avar
     entry: [
         "{1} ачуй кодал скрипт чер хъамитӏиз {2} сценариал. Подробностал хъахъани бехъ, профил сем {3} къеде!",
         "Тини бал дайзул чӏал мичӏ хъвар, илова текста далкатӏ {4} амалал жиб гъонал.",
@@ -1588,7 +1588,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Памятьхъи"]
 }),
-"avaric (abc)": () => ({
+"avaric (abc)": () => ({ // Avaric < Romanized Avaric
     entry: [
         "{1} ch'unukh koddul script we tsiyrgunul {2} senarijra. Q'ilay dag' profil {3} de bux'et ts'ari ttu!",
         "Bilikhazal chirer ʿayda x̱ilaw, {4} hark'oyul č'ik'i asun tekst ttu.",
@@ -1671,7 +1671,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xatiralar"]
 }),
-"avestan": () => ({
+"avestan": () => ({ // Avestan < Upastawakaēna
     entry: [
         "{1} asti āvišya-fraθnō scriptō yauuāi {2} ciθrim. fraša narə tavā zaraθuštrō {3} daēnā xšmača!",
         "Yadi zāvarə fraθnō raθβarə vərəzāyā, avā qarə mazān {4} frašaya.",
@@ -1755,7 +1755,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ātarō"]
 }),
-"aymara": () => ({
+"aymara": () => ({ // Aymara < Aymaran
     entry: [
         "{1} qillqa software librewa kuna {2} uñstawi ukatakix. Yatiqañatakixa perfilaxaja {3} uñtam!",
         "Jumax munta aruxa mayjt'ayañatakixa, aka qillqa uñt'ay {4} lurasa ch'amaqt'añamawa",
@@ -1839,7 +1839,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Amuyt'äwinaka"]
 }),
-"azerbaijani": () => ({
+"azerbaijani": () => ({ // Azerbaijani < Azərbaycan Dili < آذربایجان دیلی < азәрбајҹан дили < Azeri
     entry: [
         "{1} һәр һансы {2} ссенариси үчүн ачық мәнбәли скриптдир. Әтрафлы өйрәнмәк үчүн профилимә {3} дахил олун!",
         "Сечдийиниз дили дәйишмәк үчүн, зәһмәт олмаса, ашағыдакы мәтни {4} әмәлиййаты илә гөндәрин",
@@ -1923,7 +1923,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Яддашлар"]
 }),
-"azerbaijani (abc)": () => ({
+"azerbaijani (abc)": () => ({ // Azerbaijani < Romanized Azerbaijani
     entry: [
         "{1} istənilən {2} ssenarisi üçün açıq mənbəli skriptdir. Daha çox öyrənmək üçün profilimə {3} baş çək!",
         "Tercih etdiyiniz dili dəyişmək üçün, zəhmət olmasa bunu {4} əməliyyatı ilə göndərin",
@@ -2007,7 +2007,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yaddaşlar"]
 }),
-"bambara": () => ({
+"bambara": () => ({ // Bambara < ߓߡߊߣߊ߲ߞߊ߲ < بَمَنَنكَن < Bamanankan < Bamana
     entry: [
         "{1} ye open-source skripiti ye kɛlɛ la kɛ be nɛgɛ fɔ {2} sènèriw kɔfɛ. I bɛ se ka n kɔnɔ profile {3} de ka baro bɔ!",
         "Ka bɔ i kan bamanankan munu kɛ, i bɛ se ka text minɛ da ka {4} baara kɛ.",
@@ -2091,7 +2091,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Kanw"]
 }),
-"bashkir": () => ({
+"bashkir": () => ({ // Bashkir < башҡорт теле < Başqort Tele < Bashkort
     entry: [
         "{1} – теләһә ниндәй {2} сценарийы өсөн асыҡ сығанаҡлы скрипт. Күберәк мәғлүмәт өсөн профилемә {3} инеп ҡарағыҙ!",
         "Өҫтөнлөк телен үҙгәртергә теләһәгеҙ, түбәндәге текстты {4} ғәмәле аша ебәрегеҙ",
@@ -2174,7 +2174,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Хәтерҙәр"]
 }),
-"bashkir (abc)": () => ({
+"bashkir (abc)": () => ({ // Bashkir < Romanized Bashkir
     entry: [
         "{1} - teläsäy {2} scenariïä ösön asıq sığanaq skript. Küberek mäğlümat ösön profilemә {3} barığız!",
         "Häle itkän telegezze alıştırıu ösön, tübängäge tekstı {4} ğämäle menän tapşıryğız",
@@ -2257,7 +2257,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Häter"]
 }),
-"basque": () => ({
+"basque": () => ({ // Basque < Euskara < Euskera
     entry: [
         "{1} kode irekiko script bat da edozein {2} eszenariorako. Bisitatu nire profila {3} informazio gehiagorako!",
         "Zure nahi duzun hizkuntza aldatzeko, bidali testu hau {4} ekintza baten bidez",
@@ -2341,7 +2341,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Oroitzapenak"]
 }),
-"belarusian": () => ({
+"belarusian": () => ({ // Belarusian < беларуская мова < Biełaruskaja Mova
     entry: [
         "{1} — гэта сцэнар з адкрытым зыходным кодам для любога сцэнарыя {2}. Калі ласка, наведайце мой профіль {3}, каб даведацца больш!",
         "Каб змяніць сваю мову па змаўчанні, адпраўце наступны тэкст з дзеяннем {4}",
@@ -2425,7 +2425,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Успаміны"]
 }),
-"belarusian (abc)": () => ({
+"belarusian (abc)": () => ({ // Belarusian < Romanized Belarusian
     entry: [
         "{1} – adkryty skrypt dlia liubaho siužetnaha scenaryja {2}. Kali łaska, naviedaj moj profil {3}, kab daviedacca boĺš!",
         "Kab zmianić vaš praeźnačany movu, kali łaska adpravi nastupny tekst dzianniem {4}",
@@ -2510,7 +2510,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Uspaminy"]
 }),
-"bengali": () => ({
+"bengali": () => ({ // Bengali < বাংলা < Bāŋlā < Bangla
     entry: [
         "{1} একটি ওপেন-সোর্স স্ক্রিপ্ট যা যে-কোনো {2} পরিস্থিতিতে ব্যবহার করা যায়। আরো জানতে আমার প্রোফাইল {3} দেখুন!",
         "আপনার পছন্দের ভাষা বদলাতে, অনুগ্রহ করে {4} ক্রিয়াটি ব্যবহার করে নিচের পাঠ্য জমা দিন",
@@ -2594,7 +2594,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "স্মৃতিসমূহ"]
 }),
-"bengali (abc)": () => ({
+"bengali (abc)": () => ({ // Bengali < Romanized Bengali
     entry: [
         "{1} holo jekono {2} poristithir jonno ekṭi open-source script. aro jante amar profile {3} e darshen korun!",
         "Apnar pachonder bhasha bodol korte, kripya {4} action bebohar kore nicher lekha jama din",
@@ -2677,7 +2677,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Smritishamuho"]
 }),
-"bislama": () => ({
+"bislama": () => ({ // Bislama
     entry: [
         "{1} hemi wan open-source skrip blong eni {2} scenario. Plis visitim profael blong mi {3} blong save moa!",
         "Blong jenisim lanwis we yu prefarem, plis submitem tekst ia yusum wan {4} aksen",
@@ -2760,7 +2760,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ol memori"]
 }),
-"bosnian": () => ({
+"bosnian": () => ({ // Bosnian < босански < Bosanski < Bosniak
     entry: [
         "{1} је скрипт отвореног кода за било који {2} сценарио. Посјетите мој профил {3} да сазнате више!",
         "Да бисте промијенили жељени језик, пошаљите сљедећи текст користећи {4} акцију",
@@ -2844,7 +2844,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Сјећања"]
 }),
-"bosnian (abc)": () => ({
+"bosnian (abc)": () => ({ // Bosnian < Romanized Bosnian
     entry: [
         "{1} je open-source skripta za bilo koji {2} scenarij. Posjetite moj profil {3} da saznate više!",
         "Da biste promijenili željeni jezik, pošaljite sljedeći tekst koristeći {4} akciju",
@@ -2927,7 +2927,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Sjećanja"]
 }),
-"brainrot": () => ({
+"brainrot": () => ({ // Brainrot
     entry: [
         "{1} is a free-to-use script for literally any {2} scenario, no cap. Peep my profile {3} for the deets!",
         "Wanna switch vibes? Yeet this text with a {4} action",
@@ -3010,7 +3010,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Brain Dumps"]
 }),
-"brazilian": () => ({
+"brazilian": () => ({ // Brazilian < Português Brasileiro < Brazilian Portuguese
     entry: [
         "{1} é um script de código aberto para qualquer cenário de {2}. Visite meu perfil {3} para saber mais!",
         "Para alterar seu idioma preferido, envie o seguinte texto usando uma ação {4}",
@@ -3094,7 +3094,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memórias"]
 }),
-"breton": () => ({
+"breton": () => ({ // Breton < Brezhoneg
     entry: [
         "{1} zo ur skript open-source evit pep senario {2}. Kit da welout ma profil {3} evit deskiñ hiroc’h!",
         "Evit kemmañ ho yezh gwell, trugarez da gas an destenn da-heul dre obererezh {4}",
@@ -3178,7 +3178,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Kounioù"]
 }),
-"bulgarian": () => ({
+"bulgarian": () => ({ // Bulgarian < български < Bulgarski
     entry: [
         "{1} е скрипт с отворен код за всеки сценарий {2}. Посети профила ми {3}, за да научиш повече!",
         "За да смениш предпочитания си език, изпрати следния текст чрез действие {4}",
@@ -3262,7 +3262,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Спомени"]
 }),
-"bulgarian (abc)": () => ({
+"bulgarian (abc)": () => ({ // Bulgarian < Romanized Bulgarian
     entry: [
         "{1} e skript s otvoren kod za vseki scenariy {2}. Molya posetete moya profil {3}, za da nauchite poveche!",
         "Za da promenite predpochetaniya si ezik, molya izpratete sledniya tekst kato deystvie {4}",
@@ -3346,7 +3346,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Spomeni"]
 }),
-"burmese": () => ({
+"burmese": () => ({ // Burmese < မြန်မာစာ < Mrãmācā < Myanmar
     entry: [
         "{1} သည် {2} အခြေအနေမဆို အသုံးပြုနိုင်သော ပွင့်လင်းရင်းမြစ် စာရင်းတစ်ခု ဖြစ်သည်။ ဆက်လက်သိရှိလိုပါက ကျွန်ုပ်၏ ပရိုဖိုင် {3} သို့ ဝင်ရောက်ကြည့်ရှုပါ။",
         "သင့်နှစ်သက်သော ဘာသာစကားကို ပြောင်းလိုပါက {4} လုပ်ဆောင်ချက်ဖြင့် အောက်ပါ စာသားကို တင်ပြပါ။",
@@ -3430,7 +3430,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "မှတ်ဉာဏ်များ"]
 }),
-"burmese (abc)": () => ({
+"burmese (abc)": () => ({ // Burmese < Romanized Burmese
     entry: [
         "{1} ka open-source script pa thí, bá {2} scénarió mhar lé pyo yà. Nga profile {3} ko tway pyi pè mhar pyaw la!",
         "Nin chit-thi bhàsá ko pé-twe pyan-lote chin yin, {4} action loh a-nout sá môun ko youn-hkìn pè.",
@@ -3513,7 +3513,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ahnazei"]
 }),
-"catalan": () => ({
+"catalan": () => ({ // Catalan < Valencian < Català < Valencià
     entry: [
         "{1} és un script de codi obert per a qualsevol escenari de {2}. Visita el meu perfil {3} per saber-ne més!",
         "Per canviar la teva llengua preferida, envia el text següent fent servir una acció {4}",
@@ -3597,7 +3597,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memòries"]
 }),
-"central khmer": () => ({
+"central khmer": () => ({ // Central Khmer < ខេមរភាសា < Khémôrôphéasa < Khmer < Cambodian
     entry: [
         "{1} គឺជាស្គ្រីបប្រភពបើកចំហសម្រាប់សេណារីយូ {2} ទាំងអស់។ សូមចូលទៅកាន់ប្រវត្តិរូបរបស់ខ្ញុំ {3} ដើម្បីស្វែងយល់បន្ថែម!",
         "ដើម្បីប្ដូរភាសាដែលអ្នកពេញចិត្ត សូមបញ្ជូនអត្ថបទដូចខាងក្រោមដោយប្រើសកម្មភាព {4}",
@@ -3681,7 +3681,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "អនុស្សាវរីយ៍"]
 }),
-"central khmer (abc)": () => ({
+"central khmer (abc)": () => ({ // Central Khmer < Romanized Central Khmer
     entry: [
         "{1} kue chea script beak chamhao samrap karani {2} pong day. Som chol tov profile robos khnhom {3} daembi svaengyol banthem!",
         "Ruoch pdeil phesa del anha chong, som prasaet pathtek nih prah kar {4}",
@@ -3764,7 +3764,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Chamnou"]
 }),
-"chamorro": () => ({
+"chamorro": () => ({ // Chamorro < Finu' Chamoru
     entry: [
         "{1} guaha open-source na skrip para kada {2} na senaryo. Fanbisita i profil-hu {3} para un må'å'nek mo'na!",
         "Para un chule' otro i lengguåhi ni’ inagåhit-mu, fanfa'å'uye este na teksto yan usa un aksión {4}",
@@ -3848,7 +3848,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Hinasso"]
 }),
-"chechen": () => ({
+"chechen": () => ({ // Chechen < нохчийн мотт < Noxçiyn Mott < Chechnyan < Chechnian
     entry: [
         "{1} аскерхо кода скрипт хьоцу {2} сценари-дац. Ма профил {3}-дахь ву хьажа, цуьнан дийцарехь дойла!",
         "Свой мотт хьо тӏойла хьалхара, тӏехька дара тӏекст {4} амалан дахалар хьажар.",
@@ -3932,7 +3932,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Памятнаш"]
 }),
-"chechen (abc)": () => ({
+"chechen (abc)": () => ({ // Chechen < Romanized Chechen
     entry: [
         "{1} yu open-source skript du hertta {2} scenariy da. Profila {3}-da daaqa, detall xir yoqa!",
         "Tso ğœr jux yizh za videxer lâx, {4} amal-da šu tekstaz darg jeber.",
@@ -4016,7 +4016,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ts’anamalash"]
 }),
-"chichewa": () => ({
+"chichewa": () => ({ // Chichewa < Chewa < Nyanja < Chinyanja
     entry: [
         "{1} ndi script ya open-source ya zochitika zilizonse za {2}. Chonde pitani ku mbiri yanga {3} kuti mudziwe zambiri!",
         "Kuti musinthe chilankhulo chimene mumakonda, chonde tumizani mawu otsatirawa pogwiritsa ntchito ntchito ya {4}",
@@ -4099,7 +4099,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Zikumbukiro"]
 }),
-"chinese": () => ({
+"chinese": () => ({ // Chinese < Simplified Chinese < Mandarin < 简化字 < Jiǎnhuàzì < 简体字 < Jiǎntǐzì < Pinyin
     entry: [
         "{1} 是适用于任何 {2} 场景的开源脚本。请访问我的个人主页 {3} 了解更多信息！",
         "若要更改首选语言，请使用 {4} 操作提交以下文本",
@@ -4182,7 +4182,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "记忆"]
 }),
-"chinese (abc)": () => ({
+"chinese (abc)": () => ({ // Chinese < Romanized Chinese
     entry: [
         "{1} shì yī duàn kāifàng yuánmǎ de jiǎoběn, kěyǐ yìnyòng yú rènhé {2} qíngjǐng. Qǐng fǎngwèn wǒ de gèrén zhùyè {3} liǎojiě gèng duō!",
         "Ruòyù xiūgǎi nǐ xuǎnzé de yǔyán, qǐng shǐyòng {4} cāozuò tíjiāo rúxià wénběn",
@@ -4265,7 +4265,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Jìyì"]
 }),
-"church slavic": () => ({
+"church slavic": () => ({ // Church Slavic < Old Slavic < славе́нскїй ѧ҆зы́къ
     entry: [
         "{1} есть скриптъ открытаго исто́чника ко вся́кому сценарию {2}. Посѣти́те мою страни́цу {3}, да узна́ете бо́лее!",
         "Да измѣни́ши предпочте́нный ѧ҆зы́къ, пода́й нижесле́дъствующий те́кстъ че́рез деѧ́нїе {4}",
@@ -4349,7 +4349,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Па́мѧти"]
 }),
-"church slavic (abc)": () => ({
+"church slavic (abc)": () => ({ // Church Slavic < Romanized Church Slavic
     entry: [
         "{1} jestʹ skriptъ ot otkrytago istocnika dlja vsjakogo scenarija {2}. Posěti profilъ moj {3}, da uzznajesi bolěe!",
         "Da izměniši želannyj jazykъ svoj, predstavь sledovajuščij tekstъ črez dějanije {4}",
@@ -4432,7 +4432,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Pamjati"]
 }),
-"chuvash": () => ({
+"chuvash": () => ({ // Chuvash < чӑвашла < çăvaşla
     entry: [
         "{1} — ачасем илне пурăн {2} сценари юратăвăн скрипт. Профилем {3} ка кил, кӗнекен ялăх!",
         "Пир ятар çĕлĕн хирě, {4} хайăнран тата текстĕ пур.",
@@ -4516,7 +4516,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Хуталăхсем"]
 }),
-"chuvash (abc)": () => ({
+"chuvash (abc)": () => ({ // Chuvash < Romanized Chuvash
     entry: [
         "{1} açık kodllu skript, her hĕr {2} scenarijke kullanılă. Profilĕmĕ {3} ta kiltep, paçça ukhan!",
         "Pălakşahan tĕlĕshĕnĕ săvărtăp, {4} actionpe urmara tekstĕ yulla.",
@@ -4600,7 +4600,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Pamatsem"]
 }),
-"cornish": () => ({
+"cornish": () => ({ // Cornish < Kernowek
     entry: [
         "{1} yw skript open-source rag pub senari {2}. Mar pleg, visita ow profyl {3} rag dyski moy!",
         "Rag chanjya dha yeth gwell, mar pleg danvon an text-ma gans ober {4}",
@@ -4684,7 +4684,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Kovow"]
 }),
-"corporate": () => ({
+"corporate": () => ({ // Corporate < Business Speak < Corporate Jargon
     entry: [
         "{1} serves as an open-source framework scalable to any {2} business case. 🤓 Please leverage my profile {3} for additional information.",
         "To update your language preference, please execute the following text via a {4} workflow",
@@ -4767,7 +4767,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memory Log"]
 }),
-"corsican": () => ({
+"corsican": () => ({ // Corsican < Corsu
     entry: [
         "{1} hè un script open-source per ogni scenariu di {2}. Visitate u me prufilu {3} per sapenne di più!",
         "Per cambià a vostra lingua preferita, mandate per piacè u testu seguente cù una azzione di {4}",
@@ -4851,7 +4851,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ricordi"]
 }),
-"cree": () => ({
+"cree": () => ({ // Cree < ᓀᐦᐃᔭᐁᐧᐃᐧᐣ < Nehiyawewin
     entry: [
         "{1} ᐊᔭ ᐅᐱᐦᑐᐏᐣ ᑲᑎᓯ ᒥᑎᓂᑯᐣ ᐊᑎᓂᓯᒼ {2} ᑌᐸᑯᓯᐣ. ᑐᑭᓭ ᓂᐡᑳ ᐸᐦᑲᓃᐏᑭᐣ ᐅᐦᒪ {3} ᒥᑎᓂᐣ!",
         "ᑲᑎᒪᑳᐃᐧᐣ ᓂᐦᑕᐘᒧᐁᐧᐃᐧᐣ ᑕᐻᐤ, ᑭᐢᑌ ᑭᑎᓯᕽ ᑲᑖᐘᐠ ᒥᓄᐦᑖ ᐁᐦᑊ {4} ᐋᐦᑖᐏᐣ",
@@ -4935,7 +4935,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ᒥᓂᑐᓯᑎᐣ"]
 }),
-"cree (abc)": () => ({
+"cree (abc)": () => ({ // Cree < Romanized Cree
     entry: [
         "{1} ê-wâpamît awa kîsikâw wî-masinahikan nikamôtamok êkwa ka-isi pîsimwa {2}. Tanisi, mîna nîsôhkamâw {3} kî-wî-atoskêyâhk mâna!",
         "Tawâw, kikî-miyo-pêhtâkan nêhiyawêwin; mahti kî-pakimin tahk {4} êkwa kî-wî-osihtam âna ôma itwêw.",
@@ -5019,7 +5019,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Nistâmowin"]
 }),
-"croatian": () => ({
+"croatian": () => ({ // Croatian < Hrvatski < Crovatian
     entry: [
         "{1} je skripta otvorenog koda za bilo koji {2} scenarij. Posjeti moj profil {3} kako bi saznao više!",
         "Za promjenu svog preferiranog jezika, molimo pošalji sljedeći tekst koristeći radnju {4}",
@@ -5103,7 +5103,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Sjećanja"]
 }),
-"czech": () => ({
+"czech": () => ({ // Czech < čeština < Czechian
     entry: [
         "{1} je open-source skript pro jakýkoli scénář {2}. Navštivte můj profil {3}, abyste se dozvěděli více!",
         "Chcete-li změnit svůj preferovaný jazyk, odešlete následující text pomocí akce {4}",
@@ -5187,7 +5187,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Vzpomínky"]
 }),
-"danish": () => ({
+"danish": () => ({ // Danish < Dansk
     entry: [
         "{1} er et open source-script til enhver {2}-situation. Besøg venligst min profil {3} for at lære mere!",
         "For at ændre dit foretrukne sprog skal du indsende følgende tekst ved hjælp af en {4}-handling",
@@ -5271,7 +5271,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Erindringer"]
 }),
-"divehi": () => ({
+"divehi": () => ({ // Divehi < Dhivehi < Maldivian < ދިވެހި
     entry: [
         "{1} އެއް އޮޕަން-ސޯސް ސްކްރިޕްޓެއްކަން، ނުވަތަ {2} ސެނެރިއޯގެ ނުވަތައްޙާއި ބޭރުވެރި. މަޢުލޫމާ ކުރެވޭނެކަމާއި، މަންޒާނަށް ނުހެސް {3} ތައްޔާރީ ވެސްފައި!",
         "ތިޔަގެ ހިމެނޭ ބަސަށް ބަހައިގަނޑުކުރާއި، މި ލިޔުންތައް {4} އެކަން އަށް ހުއްދާ ފިލާންނަމެވެ",
@@ -5354,7 +5354,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "މެމަރީތައް"]
 }),
-"dutch": () => ({
+"dutch": () => ({ // Dutch < Flemish < Nederlands
     entry: [
         "{1} is een open-source script voor elk {2}-scenario. Bezoek mijn profiel {3} om meer te weten te komen!",
         "Om je voorkeurstaal te wijzigen, stuur de volgende tekst met een {4}-actie",
@@ -5437,7 +5437,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Herinneringen"]
 }),
-"dzongkha": () => ({
+"dzongkha": () => ({ // Dzongkha < རྫོང་ཁ་ < Bhutanese
     entry: [
         "{1} ནི་ གང་རུང་གི་{2} གནས་ཚུལ་ལུ་སྤྱི་སྒྲིག་སྤེལ་སྒོ་འབྱེད་ཀྱི་ script ཞིག་ཨིན། དེ་ལས་ ངའི་profile {3} ལུ་མཐོང་གནང་ནས་སྤྱོད་ཚུལ་དེ་སྦེ་ལྷག་བསམ་གྱིས་ཤེས་དགོ།",
         "ཁྱོད་ཀྱིས་དགའ་པའི་སྐད་ཡིག་བསྒྱུར་བཅོས་འབད་དགོ་ན་འོད་སྦྱོར་{4} ལས་འགན་ཐོབ་སྦེ་ཡིག་ཚན་འདི་གཏུབ་སྐུར་གནང།",
@@ -5521,7 +5521,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "དྲན་པ་"]
 }),
-"dzongkha (abc)": () => ({
+"dzongkha (abc)": () => ({ // Dzongkha < Romanized Dzongkha
     entry: [
         "{1} nang open-source yigcha yin ga {2} gatsal nam thamshe la chog. Nga-gi profil {3} la dro zhu na shey thob!",
         "Khyed-rang-gi loktse yigcha gyur chö na, do-tsig di {4} las kyi ngo-sung dang drup zhu.",
@@ -5604,7 +5604,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Drenpa"]
 }),
-"esperanto": () => ({
+"esperanto": () => ({ // Esperanto
     entry: [
         "{1} estas malferma fonta skripto por ajna {2} scenaro. Bonvolu viziti mian profilon {3} por ekscii pli!",
         "Por ŝanĝi vian preferatan lingvon, bonvolu sendi la jenan tekston per ago {4}",
@@ -5688,7 +5688,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Rememoroj"]
 }),
-"estonian": () => ({
+"estonian": () => ({ // Estonian < Eesti Keel
     entry: [
         "{1} on avatud lähtekoodiga skript igaks {2} stsenaariumiks. Palun külasta minu profiili {3}, et rohkem teada saada!",
         "Eelistatud keele muutmiseks esita palun järgmine tekst kasutades {4} tegevust",
@@ -5772,7 +5772,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mälestused"]
 }),
-"ewe": () => ({
+"ewe": () => ({ // Ewe < èʋegbe
     entry: [
         "{1} nye script open-source aɖe si wòate ŋu ɖe situasio {2} bubuawo me. Taflatse kɔ ɖe nye profil {3} me ƒo nu vɔ̃ ŋutikɔkɔe!",
         "Ne wòle sesea wògbegbe dɔwɔla, taflatse nàfo text sia ŋu via do dɔla {4} dzi",
@@ -5855,7 +5855,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Nyadzime"]
 }),
-"faroese": () => ({
+"faroese": () => ({ // Faroese < Føroyskt < Faeroese
     entry: [
         "{1} er ein almannakunngjørd koda til hvørja {2} støðu. Vinaliga vitja vangan mín {3} fyri at vita meira!",
         "Fyri at broyta títt ynskt mál, vinarliga send hesa tekstbrot við eini {4}-gerð",
@@ -5939,7 +5939,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Minni"]
 }),
-"fijian": () => ({
+"fijian": () => ({ // Fijian < Na Vosa Vakaviti
     entry: [
         "{1} e dua na isikiripita ivurevure-galala me baleta na ituvatuva {2} kece. Yalovinaka sikova na noqu ivola ni yaca {3} mo vulica vakalevu tale!",
         "Me sosomitaka na vosa o dau via vakayagataka, yalovinaka vakauta yani na itukutuku oqo ena cakacaka {4}",
@@ -6022,7 +6022,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Vakananumi"]
 }),
-"finnish": () => ({
+"finnish": () => ({ // Finnish < Suomi
     entry: [
         "{1} on avoimen lähdekoodin skripti mihin tahansa {2}-skenaarioon. Käy profiilissani {3} saadaksesi lisätietoja!",
         "Vaihtaaksesi haluamasi kielen lähetä seuraava teksti käyttämällä {4}-toimintoa",
@@ -6105,7 +6105,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Muistot"]
 }),
-"french": () => ({
+"french": () => ({ // French < Français
     entry: [
         "{1} est un script open-source pour tout type de scénario {2}. Pensez à visiter mon profil {3} pour en savoir plus !",
         "Pour changer de langue préférée, envoyez le texte suivant via une action {4}",
@@ -6189,7 +6189,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Souvenirs"]
 }),
-"fulah": () => ({
+"fulah": () => ({ // Fulah < ࢻُلْࢻُلْدٜ < 𞤬𞤵𞤤𞤬𞤵𞤤𞤣𞤫 < Fulfulde < ݒُلَارْ < 𞤨𞤵𞤤𞤢𞥄𞤪 < Pulaar < Fula < Fulani
     entry: [
         "{1} ko script open-source ngam kala senaaroo {2}. Hoto ɗaɗi e profil am {3} ngir anndu ɗuum fof!",
         "Ngam waylude ɗemngal maa mawɗo, hoto sendi binndiingo goo ɗoo e jawdi {4}.",
@@ -6273,7 +6273,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Hakkiloori"]
 }),
-"gaelic": () => ({
+"gaelic": () => ({ // Gaelic < Scottish Gaelic < Gàidhlig < Scots Gaelic
     entry: [
         "Tha {1} na sgriobt fosgailte airson seòrsa sam bith de {2}. Tadhail air mo phròifil {3} airson barrachd fhaighinn a-mach!",
         "Gus do chànan as fheàrr atharrachadh, cuir a-steach an teacsa a leanas le gnìomh {4}",
@@ -6357,7 +6357,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Cuimhnichean"]
 }),
-"galician": () => ({
+"galician": () => ({ // Galician < Galego
     entry: [
         "{1} é un guión de código aberto para calquera escenario de {2}. Visita o meu perfil {3} para saber máis!",
         "Para cambiar o teu idioma preferido, envía o seguinte texto empregando unha acción de {4}",
@@ -6441,7 +6441,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorias"]
 }),
-"ganda": () => ({
+"ganda": () => ({ // Ganda < Luganda
     entry: [
         "{1} kye kisumuluzo kya pulogulaamu ey’obwereere ku mbeera yonna ya {2}. Laba ku mporofilo yange {3} okufuna ebisingawo!",
         "Okukyusa olulimi ol’okwagala, tuma ekigambo kino ng’okozesa ekikolwa kya {4}",
@@ -6525,7 +6525,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Obujjukiro"]
 }),
-"georgian": () => ({
+"georgian": () => ({ // Georgian < ქართული < Kharthuli
     entry: [
         "{1} არის ღია წყაროს სკრიპტი ნებისმიერი {2} სცენარისთვის. დამატებითი ინფორმაციისთვის ეწვიეთ ჩემს პროფილს {3}!",
         "სასურველი ენის შესაცვლელად, გთხოვთ, გაგზავნოთ შემდეგი ტექსტი {4} მოქმედებით",
@@ -6609,7 +6609,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "მოგონებები"]
 }),
-"georgian (abc)": () => ({
+"georgian (abc)": () => ({ // Georgian < Romanized Georgian
     entry: [
         "{1} aris ghia-kodiani skripti nebismieri {2} scenarisatvis. Gtxovt daalunot chemi profili {3}, rom meti gaicnot!",
         "Sheni upiratesi enis shecvlisTvis, gtxovt gadaycnit momdevni teqsti {4} moqmedebit",
@@ -6694,7 +6694,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xsenebebi"]
 }),
-"german": () => ({
+"german": () => ({ // German < Deutsch
     entry: [
         "{1} ist ein Open-Source-Skript für jedes {2}-Szenario. Bitte besuche mein Profil {3}, um mehr zu erfahren!",
         "Um deine bevorzugte Sprache zu ändern, sende bitte den folgenden Text mit einer {4}-Aktion",
@@ -6778,7 +6778,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Erinnerungen"]
 }),
-"greek": () => ({
+"greek": () => ({ // Greek < νέα ελληνικά < Néa Ellêniká
     entry: [
         "{1} είναι ένα λογισμικό ανοιχτού κώδικα για κάθε σενάριο {2}. Παρακαλώ επισκεφθείτε το προφίλ μου {3} για να μάθετε περισσότερα!",
         "Για να αλλάξετε την προτιμώμενη γλώσσα σας, παρακαλώ υποβάλετε το ακόλουθο κείμενο με μια ενέργεια {4}",
@@ -6862,7 +6862,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Αναμνήσεις"]
 }),
-"greek (abc)": () => ({
+"greek (abc)": () => ({ // Greek < Romanized Greek
     entry: [
         "{1} einai ena script anoichtis pigis gia kathe senario {2}. Parakalw episkepsou to profil mou {3} gia na mathis perissotera!",
         "Gia na allaxeis tin protimomeni glossa sou, parakalw ypoballe to parakato keimeno xrhsimopoiwntas mia energeia {4}",
@@ -6946,7 +6946,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mnimes"]
 }),
-"guarani": () => ({
+"guarani": () => ({ // Guarani < Avañe'ẽ < Guaraní
     entry: [
         "{1} ha'e peteĩ kuatiañe'ẽ ñemohenda'ỹva opaichagua {2} rehehápe. Eike che ko'áha {3} rehe oikuaave hag̃ua!",
         "Embojevy ne ñe'ẽ poravopyre, embou ko kuatiañe'ẽ rehegua {4} rembiapo rupive",
@@ -7030,7 +7030,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mandu'apykuéra"]
 }),
-"gujarati": () => ({
+"gujarati": () => ({ // Gujarati < ગુજરાતી < Gujarātī
     entry: [
         "{1} કોઈપણ {2} પરિપ્રેક્ષ્ય માટે ખુલ્લો સ્ત્રોત સ્ક્રિપ્ટ છે. વધુ જાણવા માટે कृપા કરીને моей પ્રોફાઇલ {3} માં મુલાકાત લો!",
         "તમારી પસંદગીની ભાષા બદલવા, કૃપા કરીને નીચેનું લખાણ {4} ક્રિયા વડે મોકલો",
@@ -7113,7 +7113,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "સ્મૃતિઓ"]
 }),
-"gujarati (abc)": () => ({
+"gujarati (abc)": () => ({ // Gujarati < Romanized Gujarati
     entry: [
         "{1} ek khuli-srot skript chhe koi pan {2} paristhiti māṭe. Vadhū jānvā māṭe, krupayā maro profāil {3} jovo!",
         "Tamārī pasand nī bhāshā badalvā māṭe krupayā nīchelu pathya ek {4} kriyā vāpārī ne moklo",
@@ -7196,7 +7196,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yādo"]
 }),
-"haitian creole": () => ({
+"haitian creole": () => ({ // Haitian Creole < Haitian < Kreyòl Ayisyen
     entry: [
         "{1} se yon script open-source pou nenpòt senaryo {2}. Tanpri vizite pwofil mwen {3} pou aprann plis!",
         "Pou chanje lang ou prefere a, soumèt tèks sa a ak yon aksyon {4}",
@@ -7279,7 +7279,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memwa"]
 }),
-"hausa": () => ({
+"hausa": () => ({ // Hausa < هَرْشٜن هَوْس < Halshen Hausa < Hausan
     entry: [
         "{1} rubutun bude-tushen ne don kowace yanayin {2}. Don Allah ka ziyarci bayanin a {3} domin ƙarin bayani!",
         "Don canza harshen da ka fi so, don Allah ka tura wannan rubutu ta amfani da aikin {4}",
@@ -7362,7 +7362,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Tunanuka"]
 }),
-"hebrew": () => ({
+"hebrew": () => ({ // Hebrew < עברית < Ivrit
     entry: [
         "{1} הוא סקריפט קוד פתוח לכל תרחיש {2}. אנא בקרו בפרופיל שלי {3} כדי ללמוד עוד!",
         "כדי לשנות את השפה המועדפת עליך, שלח את הטקסט הבא באמצעות פעולה {4}",
@@ -7445,7 +7445,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "זיכרונות"]
 }),
-"hebrew (abc)": () => ({
+"hebrew (abc)": () => ({ // Hebrew < Romanized Hebrew
     entry: [
         "{1} hu script koda patuach le-khol senerio {2}. Bevakasha boker et ha-profil sheli {3} kedei lilmod yoter!",
         "Le-shannot et ha-safa ha-mu'adafet shelcha, bevakasha shlach et ha-tekst ha-ba be-pe'ulat {4}",
@@ -7528,7 +7528,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Zikhronot"]
 }),
-"herero": () => ({
+"herero": () => ({ // Herero < Otjiherero
     entry: [
         "{1} ona onguro open-source pevi yawo {2} ozondjira. Theta pura profile yange {3} kutja u zeni ombinga imwe!",
         "Okutjika orurimi rwao rwe tji penduka, rumisa okatetxi aka nokutja tjinene yombura {4}",
@@ -7612,7 +7612,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ozipuka"]
 }),
-"hindi": () => ({
+"hindi": () => ({ // Hindi < हिन्दी < Hindī
     entry: [
         "{1} किसी भी {2} परिदृश्य के लिए एक ओपन-सोर्स स्क्रिप्ट है। अधिक जानने के लिए कृपया मेरी प्रोफ़ाइल {3} पर जाएँ!",
         "अपनी पसंदीदा भाषा बदलने के लिए, कृपया {4} क्रिया का उपयोग करते हुए निम्न पाठ जमा करें",
@@ -7695,7 +7695,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "स्मृतियाँ"]
 }),
-"hindi (abc)": () => ({
+"hindi (abc)": () => ({ // Hindi < Romanized Hindi
     entry: [
         "{1} ek open-source skript hai kisi bhi {2} paristhiti ke liye. adhik jankari ke liye kripya mera profile {3} dekhein!",
         "Apni pasandida bhasha badalne ke liye, kripya ek {4} kriya ka upyog karke nimnalikhit path bhejen",
@@ -7778,7 +7778,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yaadein"]
 }),
-"hiri motu": () => ({
+"hiri motu": () => ({ // Hiri Motu < Police Motu < Pidgin Motu
     entry: [
         "{1} em opensa scrip lo eni {2} sindaun. Plis go lo profail blo lau {3} fo kisim moa save!",
         "Fo senis langwis yu laik, plis givim dispela tok wantaim {4} aksen",
@@ -7861,7 +7861,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memori"]
 }),
-"hungarian": () => ({
+"hungarian": () => ({ // Hungarian < Magyar Nyelv < Magyar
     entry: [
         "{1} egy nyílt forráskódú szkript bármilyen {2} forgatókönyvhöz. További információért látogasd meg a profilomat {3}!",
         "A preferált nyelved megváltoztatásához küldd el a következő szöveget egy {4} művelettel",
@@ -7945,7 +7945,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Emlékek"]
 }),
-"icelandic": () => ({
+"icelandic": () => ({ // Icelandic < íslenska
     entry: [
         "{1} er opinn hugbúnaður fyrir hvaða {2} aðstæður sem er. Vinsamlegast heimsækið prófílinn minn {3} til að fræðast nánar!",
         "Til að breyta fyrirstilltu tungumáli þínu, sendu eftirfarandi texta með {4} aðgerð",
@@ -8029,7 +8029,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Minningar"]
 }),
-"ido": () => ({
+"ido": () => ({ // Ido
     entry: [
         "{1} esas un opensorsa skripto por cualkun {2} scenario. Bonvolu vizitar mea profilo {3} por lerni plu!",
         "Por shanjar tua preferita linguo, bonvolu submetar la sequanta teksto uzante un ago {4}",
@@ -8112,7 +8112,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memori"]
 }),
-"igbo": () => ({
+"igbo": () => ({ // Igbo < ásụ̀sụ́ ìgbò
     entry: [
         "{1} bu mkpụrụ edemede mepere emepe maka ọnọdụ {2} ọ bụla. Biko gaa na profaịlụ m {3} ka ịmụta ihe ọzọ!",
         "Iji gbanwee asụsụ ị họọrọ, biko zipu ederede a site na mmegharị {4}",
@@ -8195,7 +8195,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ihe ncheta"]
 }),
-"indonesian": () => ({
+"indonesian": () => ({ // Indonesian < Bahasa Indonesia
     entry: [
         "{1} adalah skrip sumber terbuka yang bisa dipakai untuk berbagai skenario {2}. Lihat profil saya {3} untuk tahu lebih banyak!",
         "Kalau mau mengganti bahasa pilihanmu, cukup kirim teks berikut dengan perintah {4}",
@@ -8278,7 +8278,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Kenangan"]
 }),
-"interlingua": () => ({
+"interlingua": () => ({ // Interlingua
     entry: [
         "{1} es un script de codice aperte pro omne scenario de {2}. Per favor visita mi profilo {3} pro saper plus!",
         "Pro cambiar tu lingua preferite, per favor submitte le texto sequente usante un action de {4}",
@@ -8362,7 +8362,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorias"]
 }),
-"interlingue": () => ({
+"interlingue": () => ({ // Interlingue < Occidental
     entry: [
         "{1} es un open-source script por omni {2} scenario. Ples visita mi profil {3} por saver plu!",
         "Por changear tu preferet lingue, ples inviar li sequent text usante un action {4}",
@@ -8446,7 +8446,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorias"]
 }),
-"inuktitut": () => ({
+"inuktitut": () => ({ // Inuktitut < ᐃᓄᒃᑎᑐᑦ
     entry: [
         "{1} open-source-mik titiraqtuq suli {2}-mi atuqtauniaqtuq. Profilera {3} takuuk paasiniaquvutit!",
         "Uqausinga allanngorumanikkuuvit, una allagaq {4}-mik iliusirmik atorlugu nassiutittariaqaralluhi",
@@ -8530,7 +8530,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Qaujimajut"]
 }),
-"inupiaq": () => ({
+"inupiaq": () => ({ // Inupiaq < Iñupiaq < Inupiat < Inupiatun
     entry: [
         "{1} open-source titiraq nakuuruq {2} aturaksraġnaq. Profilka {3} takulutin suli nalunaqsiruŋa!",
         "Uqautchim nakuqsiutiŋa suliulliŋa atautchiuġuk, una atiña atausria {4} atuqtutin nassiutin.",
@@ -8614,7 +8614,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Iliġñiq"]
 }),
-"irish": () => ({
+"irish": () => ({ // Irish < Gaeilge < Irish Gaelic
     entry: [
         "Is script foinse oscailte é {1} do chás ar bith de {2}. Tabhair cuairt ar mo phróifíl {3} chun tuilleadh a fhoghlaim!",
         "Chun do theanga roghnaithe a athrú, cuir an téacs seo a leanas isteach trí ghníomh {4}",
@@ -8697,7 +8697,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Cuimhní"]
 }),
-"italian": () => ({
+"italian": () => ({ // Italian < Italiano
     entry: [
         "{1} è uno script open-source per qualsiasi scenario {2}. Visita il mio profilo {3} per saperne di più!",
         "Per cambiare la tua lingua preferita, invia il seguente testo utilizzando un'azione {4}",
@@ -8781,7 +8781,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ricordi"]
 }),
-"japanese": () => ({
+"japanese": () => ({ // Japanese < 日本語 < Nihongo
     entry: [
         "{1} はあらゆる{2}シナリオで利用できるオープンソーススクリプトです。詳しくは私のプロフィール{3}をご覧ください！",
         "言語設定を変更するには、以下のテキストを{4}アクションで送信してください",
@@ -8865,7 +8865,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "記憶"]
 }),
-"japanese (abc)": () => ({
+"japanese (abc)": () => ({ // Japanese < Romanized Japanese
     entry: [
         "{1} wa dono {2} shinario ni mo tsukeru opun soosu no sukuriputo desu. Kuwashiku wa watashi no purofairu {3} o gorankudasai!",
         "Kibō no gengo o henkō suru ni wa, {4} akushon de tsugi no tekisuto o sōshin shite kudasai",
@@ -8949,7 +8949,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Kioku"]
 }),
-"javanese": () => ({
+"javanese": () => ({ // Javanese < ꦧꦱꦗꦮ < Basa Jawa
     entry: [
         "{1} iku skrip open-source kanggo sembarang skénario {2}. Mangga pirsani profilku {3} kanggo sinau luwih akèh!",
         "Kanggo ngganti basa sing kowé karep, mangga kirim téks ing ngisor iki nganggo tumindak {4}",
@@ -9032,7 +9032,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memori"]
 }),
-"kalaallisut": () => ({
+"kalaallisut": () => ({ // Kalaallisut < Greenlandic
     entry: [
         "{1} tassa ammasumik kodiliortoq {2}-mut tamanut atorsinnaasoq. Paasisaqarnerorusukkuit profilera {3} alakkaruk!",
         "Oqaatsit kissaatigisatit allanngortikkusukkukkit, makku allakkit {4}-mik suliaqarnikkut",
@@ -9115,7 +9115,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Eqqaamasat"]
 }),
-"kannada": () => ({
+"kannada": () => ({ // Kannada < ಕನ್ನಡ < Kannađa < Kannadan < Canarese
     entry: [
         "{1} ಯಾವುದೇ {2} ಪರಿಸ್ಥಿತಿಗೆ ಓಪನ್‌ಸೋರ್ಸ್ ಸ್ಕ್ರಿಪ್ಟ್ ಆಗಿದೆ. ಇನ್ನಷ್ಟು ತಿಳಿದುಕೊಳ್ಳಲು ನನ್ನ ಪ್ರೊಫೈಲ್ {3} ಗೆ ಭೇಟಿ ನೀಡಿ!",
         "ನಿಮ್ಮ ಇಷ್ಟದ ಭಾಷೆಯನ್ನು ಬದಲಿಸಲು, ದಯವಿಟ್ಟು {4} ಕ್ರಿಯೆಯನ್ನು ಬಳಸಿ ಕೆಳಗಿನ ಪಠ್ಯವನ್ನು ಸಲ್ಲಿಸಿ",
@@ -9198,7 +9198,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ಸ್ಮೃತಿಗಳು"]
 }),
-"kannada (abc)": () => ({
+"kannada (abc)": () => ({ // Kannada < Romanized Kannada
     entry: [
         "{1} ondhu open-source scriptu yaavude {2} paristhitigagiiyu. Heccu tilkolalu dayavittu nanna profaailu {3} nodi!",
         "Nimma ishta bhaasheyanṇa badalaayisalu, dayavittu kelagina pathyavannu {4} kriyeyinda samarpisi",
@@ -9281,7 +9281,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Nenapugaḷu"]
 }),
-"kanuri": () => ({
+"kanuri": () => ({ // Kanuri < كَنُرِيِه < Kànùrí
     entry: [
         "{1} kôro open-source script ngâ yiri nà {2} sàrá. Kà dufâ profile ná wá {3} gà bákà támda!",
         "Ngá nové bórwá kààm ɗím language, kéye nà sádúwo lomlé kúdîna {4} action kà gàná",
@@ -9365,7 +9365,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Fúrti"]
 }),
-"kashmiri": () => ({
+"kashmiri": () => ({ // Kashmiri < कॉशुर < كأشُر < Kosher < Koshur
     entry: [
         "{1} ےک چھُ آزاد ماخذ سکرِپٹ ہرے {2} منظرہ خاطر. براہ کرم میون پروفائل {3} تہ پھۄرِ معلوماتہ لٲگہ تشریف گژھ!",
         "تُہند پسندیدہ بٲزبان بدلُن خاطر، مہربانی کرن تہ اته متن {4} کاروائی استعمال کرنہ ساتھ روانہ کرِو",
@@ -9449,7 +9449,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "یادیں"]
 }),
-"kashmiri (abc)": () => ({
+"kashmiri (abc)": () => ({ // Kashmiri < Romanized Kashmiri
     entry: [
         "{1} chu open-source script kaem bhi {2} manzar manz. Meharbani karith myon profile {3} parun zaayid maloomat manz!",
         "Apzi pasand zabaen badlan khaatr, meharbani karith yem text {4} action naal rukhiv submit.",
@@ -9532,7 +9532,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yaad"]
 }),
-"kazakh": () => ({
+"kazakh": () => ({ // Kazakh < қазақша < Qazaqşa < قازاقشا < Qazaq
     entry: [
         "{1} кез келген {2} сценарийіне арналған ашық кодты скрипт. Толығырақ білу үшін {3} профильіме кіріңіз!",
         "Таңдаулы тіліңізді өзгерту үшін төмендегі мәтінді {4} әрекеті арқылы жіберіңіз",
@@ -9616,7 +9616,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Естеліктер"]
 }),
-"kazakh (abc)": () => ({
+"kazakh (abc)": () => ({ // Kazakh < Romanized Kazakh
     entry: [
         "{1} - kandai da bir {2} jaǵdaıǵa arnalǵan ashyq kód skripti. Tolygraq bilu üşin meniñ profilime {3} baryñyz!",
         "Tańdalan tiliñizdi ózgertu üşin, {4} is-äreketin paydalanyp, mına mätindi jiberiñiz",
@@ -9700,7 +9700,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ester"]
 }),
-"kikuyu": () => ({
+"kikuyu": () => ({ // Kikuyu < Gikuyu < Gĩgĩkũyũ
     entry: [
         "{1} nĩ kĩthondeka kĩa thutha wa wĩra wothe wa {2}. Thamakiire profailĩ yakwa {3} ũmenye mambĩ maingĩ!",
         "Kũgũchinja rũrĩrĩo rũtarĩrũ, ũtũherĩe ndũgũ ĩno ũtũmĩte kĩtendo {4}",
@@ -9784,7 +9784,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mĩrĩrĩrio"]
 }),
-"kinyarwanda": () => ({
+"kinyarwanda": () => ({ // Kinyarwanda < Ikinyarwanda < Rwandan < Rwanda
     entry: [
         "{1} ni porogaramu ifunguye kuri buri buryo bwa {2}. Sura umwirondoro wanjye {3} kugira ngo umenye byinshi!",
         "Kugira ngo uhindure ururimi ukunda, twohereze inyandiko ikurikira ukoresheje igikorwa {4}",
@@ -9868,7 +9868,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Imibukiro"]
 }),
-"klingon": () => ({
+"klingon": () => ({ // Klingon < Tlhingan
     entry: [
         "{1} qaS Hoch {2} ghu'vamvaD open-source ghItlh 'oH. latlh De' Daneqchugh, profile-wIj {3} yISuch!",
         "Hol Damugh DaneHchugh, {4} vanglu' meH mu'tlheghvam yIngeH.",
@@ -9952,7 +9952,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Qaw'mey"]
 }),
-"komi": () => ({
+"komi": () => ({ // Komi < коми кыв < Zyran < Zyrian < Komi-Zyryan
     entry: [
         "{1} ӧтӧса открытый скрипт всякой {2} сценариян да. Мия профильӧн {3} кывъяс туйтны, водзны оладжыт!",
         "Тыв мия шӧртӧм кыв лӧв чымкыдлардыны, того кывӧг кывъяс гижны {4} актиян ӧсна.",
@@ -10036,7 +10036,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Памяттӧсъяс"]
 }),
-"komi (abc)": () => ({
+"komi (abc)": () => ({ // Komi < Romanized Komi
     entry: [
         "{1} otkryta koden script kad {2} scenarijjas ösö. Pomo vyleś profilöm {3}, möd bur völyn!",
         "Kodža vylnyjas tydja lyžö jazyka, ožydö vylös se text vaja {4} akcijaö",
@@ -10119,7 +10119,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Pamjatjas"]
 }),
-"kongo": () => ({
+"kongo": () => ({ // Kongo < Kikongo
     entry: [
         "{1} kele kiswalu ya luvula sambu na {2} nsangu yonso. Tala profil na mono {3} sambu u longuka mingi!",
         "Sambu na kubongola lokota o ke zola, tuma malongi yai na kisalu ya {4}",
@@ -10202,7 +10202,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mimvwama"]
 }),
-"korean": () => ({
+"korean": () => ({ // Korean < 한국어 < Hangugeo < 조선말 < Chosŏnmal
     entry: [
         "{1}은 모든 {2} 시나리오에서 사용할 수 있는 오픈 소스 스크립트입니다. 자세한 내용은 내 프로필 {3}을 방문해 주세요!",
         "선호하는 언어를 변경하려면, 다음 문구를 {4} 동작으로 제출해 주세요",
@@ -10285,7 +10285,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "기억"]
 }),
-"korean (abc)": () => ({
+"korean (abc)": () => ({ // Korean < Romanized Korean
     entry: [
         "{1} neun eotteon {2} seunarioeseodo sayonghal su inneun opeun soseu seukeuripteuimnida. Deo manhi algo sipdamyeon nae peuropail {3}eul bangmunhae jusipsio!",
         "Seonhohaneun eoneoreul byeon-gyeongharyeomyeon, {4} haengdong-eul sayonghae daneo issneun munjang-eul jeonsonghasipsio",
@@ -10368,7 +10368,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Gieok"]
 }),
-"kuanyama": () => ({
+"kuanyama": () => ({ // Kuanyama < Oshikwanyama < Cuanhama < Kwanyama
     entry: [
         "{1} osho oshipopiwa sho-open-source shaantu shoka shoshi {2}. Ndapandula ka tala kombapofile yange {3} okutala omayele gamwe!",
         "Po pendula oludhi lwoye olukwatathanwa, ndapandula tumina oteko otaka li mo okutya sha {4}",
@@ -10451,7 +10451,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Omanuka"]
 }),
-"kurdish": () => ({
+"kurdish": () => ({ // Kurdish < کوردی < Kurdî
     entry: [
         "{1} اسکریپتی سەرچاوەکراوە بۆ هەموو دۆخی {2}ە. تکایە سەردانی پرۆفایلی من بکە لە {3} بۆ زانیاری زیاتر!",
         "بۆ گۆڕینی زمانێکی دڵخوازت، تکایە ئەم دەقە بنێرە بە بەکارهێنانی کردارێکی {4}",
@@ -10535,7 +10535,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "یادەکان"]
 }),
-"kurdish (abc)": () => ({
+"kurdish (abc)": () => ({ // Kurdish < Romanized Kurdish
     entry: [
         "{1} skrîpta vekirî ye ji bo her senaryo {2}. Ji kerema xwe bo fêrî zêdetir profîla min {3} serdîn bikin!",
         "Ji bo guherandina zimanê ku hûn dixwazin, nivîsa jêr bi çalakîya {4} bişînin.",
@@ -10619,7 +10619,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Biranîn"]
 }),
-"kyrgyz": () => ({
+"kyrgyz": () => ({ // Kyrgyz < Kirghiz < кыргыз < قىرعىز
     entry: [
         "{1} бардык {2} сценарийлер үчүн ачык булактуу скрипт. Көбүрөөк билүү үчүн менин профилиме {3} кириңиз!",
         "Тандалган тилиңизди өзгөртүү үчүн төмөнкү текстти {4} аракетин колдонуп жазыңыз",
@@ -10703,7 +10703,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Эскерүүлөр"]
 }),
-"kyrgyz (abc)": () => ({
+"kyrgyz (abc)": () => ({ // Kyrgyz < Romanized Kyrgyz
     entry: [
         "{1} - kaiysy bolbosun {2} stsenariyler uchun achyk kod skripti. Kobsurok biluu uchun menin profilime {3} kiringiz!",
         "Tandagan tilinizdi almashtyruu uchun, tomondogu tekstti {4} arkyly jiberiniz",
@@ -10786,7 +10786,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Estelikter"]
 }),
-"lao": () => ({
+"lao": () => ({ // Lao < ພາສາລາວ < Phasa Lao < Laotian
     entry: [
         "{1} ແມ່ນສະກຣິບເປີດຊອສສຳລັບສະຖານະການ {2} ແບບໃດກໍໄດ້. ກະລຸນາເຂົ້າໄປທີ່ໂປຣໄຟລ໌ຂອງຂ້ອຍ {3} ເພື່ອຮຽນຮູ້ເພີ່ມ!",
         "ເພື່ອປ່ຽນພາສາທີ່ທ່ານຕ້ອງການ, ກະລຸນາສົ່ງຂໍ້ຄວາມຕໍ່ໄປນີ້ໂດຍໃຊ້ຄຳສັ່ງ {4}",
@@ -10869,7 +10869,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ຄວາມຈຳ"]
 }),
-"lao (abc)": () => ({
+"lao (abc)": () => ({ // Lao < Romanized Lao
     entry: [
         "{1} pen script open-source samrap thoraniakaan {2} thang mod. Kaluna thang profai khong khoy {3} pheua hu khop keng!",
         "Pho yak plian pasa thi chao hak, kaluna song khop kham ni khap makat {4}",
@@ -10952,7 +10952,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Khwaam jam"]
 }),
-"latin": () => ({
+"latin": () => ({ // Latin < Latinum
     entry: [
         "{1} est scriptum fontis aperti pro qualibet {2} condicione. Quaeso profilum meum {3} visita ut plura discas!",
         "Ad linguam praelatam mutandam, hunc textum infra per actionem {4} mitte",
@@ -11035,7 +11035,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memoriae"]
 }),
-"latvian": () => ({
+"latvian": () => ({ // Latvian < Latviski < Lettish
     entry: [
         "{1} ir atvērtā koda skripts jebkuram {2} scenārijam. Lūdzu, apmeklē manu profilu {3}, lai uzzinātu vairāk!",
         "Lai mainītu vēlamo valodu, lūdzu, iesniedz sekojošo tekstu, izmantojot {4} darbību",
@@ -11118,7 +11118,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Atmiņas"]
 }),
-"leetspeak": () => ({
+"leetspeak": () => ({ // Leetspeak < Eleet < Hacker Speak < L33t
     entry: [
         "{1} 1s 4n 0p3n-s0urc3 scr1p7 f0r 4ny {2} sc3n4r10. Pl3453 v1s1t my pr0f1l3 {3} 2 l34rn m0r3!",
         "70 ch4ng3 y0ur pr3f3rr3d l4ngu4g3, pl3453 5ubm17 7h3 f0ll0w1ng 73x7 u51ng 4 {4} 4c710n",
@@ -11201,7 +11201,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "M3m0r135"]
 }),
-"legalese": () => ({
+"legalese": () => ({ // Legalese < Lawyer < Legal Language
     entry: [
         "{1} constitutes an open-source instrument applicable to any {2} case. Kindly consult my profile {3} for additional particulars!",
         "To modify your preferred linguistic medium, please transmit the text set forth below by means of a {4} act.",
@@ -11284,7 +11284,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memoranda"]
 }),
-"limburgish": () => ({
+"limburgish": () => ({ // Limburgish < Limburgan < Limburger < Lèmburgs
     entry: [
         "{1} is ein open-source script veur eender wèlk {2} scenario. Gaon nao mien profiel {3} veur mieër informasie!",
         "Óm dien voorkeurtaal te verangere, dien de volgende teks in mit eine {4}-actie",
@@ -11367,7 +11367,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Herinneringe"]
 }),
-"lingala": () => ({
+"lingala": () => ({ // Lingala < Lingála < Ngala
     entry: [
         "{1} ezali script ya open-source mpo na likambo nyonso ya {2}. Tala profili na ngai {3} mpo na koyeba mingi!",
         "Mpo na kobongola lokóta olingi, tinda maloba oyo na misala ya {4}",
@@ -11451,7 +11451,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Bikundoli"]
 }),
-"lingua-technis": () => ({
+"lingua-technis": () => ({ // Lingua-Technis < Cant Mechanicus < Techna-Lingua < Binharic
     entry: [
         "{1} is a machine spirit suitable for any {2} theatre of operations. Access my noosphere {3} for further archeotech!",
         "To forsake the Omnissiah, transmit this heretical scrapcode via any {4} vox-caster channel",
@@ -11534,7 +11534,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Data-Memoria"]
 }),
-"lithuanian": () => ({
+"lithuanian": () => ({ // Lithuanian < Lietuvių
     entry: [
         "{1} yra atvirojo kodo skriptas bet kokiam {2} scenarijui. Apsilankykite mano internetinėje paskyroje {3}, kad sužinotumėte daugiau!",
         "Norėdami pakeisti pageidaujamą kalbą, pateikite šį tekstą naudodami {4} veiksmą",
@@ -11618,7 +11618,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Prisiminimai"]
 }),
-"luba-katanga": () => ({
+"luba-katanga": () => ({ // Luba-Katanga < Kiluba < Luba-Shaba
     entry: [
         "{1} ni dikode ya bufulu pa cikonko cionso ca {2}. Pwetele ku profilo yanyi {3} mu kutwala bimpe!",
         "Mu kutunda luambo lwenu luwikisha, pelekelani mukanda unu na kisango kya {4}",
@@ -11702,7 +11702,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mikumbu"]
 }),
-"luxembourgish": () => ({
+"luxembourgish": () => ({ // Luxembourgish < Letzeburgesch < Lëtzebuergesch < Luxembourgian
     entry: [
         "{1} ass e Open-Source-Skript fir all {2}-Scenario. Komm op mäi Profil {3} fir méi ze gewuer ze ginn!",
         "Fir deng bevorzugt Sprooch z'änneren, schéck w.e.g. de folgende Text mat enger {4}-Aktioun",
@@ -11786,7 +11786,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Erënnerungen"]
 }),
-"macedonian": () => ({
+"macedonian": () => ({ // Macedonian < македонски < Makedonski
     entry: [
         "{1} е скрипта со отворен код за било какво сценарио {2}. Посетете го мојот профил {3} за да дознаете повеќе!",
         "За да го промените вашиот префериран јазик, поднесете го следниов текст користејќи {4} дејство",
@@ -11870,7 +11870,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Сеќавања"]
 }),
-"macedonian (abc)": () => ({
+"macedonian (abc)": () => ({ // Macedonian < Romanized Macedonian
     entry: [
         "{1} e skript so otvoren kod za bilo kakvo {2} scenarijo. Ve molam posetete go mojot profil {3} za da doznaete poveke!",
         "Za da go promenite preferiraniot jazik, ve molam ispratete go sledniot tekst so {4} akcija",
@@ -11953,7 +11953,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Spomeni"]
 }),
-"malagasy": () => ({
+"malagasy": () => ({ // Malagasy < مَلَغَسِ
     entry: [
         "{1} dia script misokatra ho an'ny tranga {2} rehetra. Tsidiho ny mombamomba ahy {3} raha te hahalala bebe kokoa!",
         "Mba hanova ny fiteny tianao, alefaso ity lahatsoratra manaraka ity amin'ny hetsika {4}",
@@ -12037,7 +12037,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Fitadidiana"]
 }),
-"malay": () => ({
+"malay": () => ({ // Malay < بهاس ملايو < Bahasa Melayu
     entry: [
         "{1} ialah skrip sumber terbuka untuk sebarang senario {2}. Sila lawati profil saya {3} untuk mengetahui lebih lanjut!",
         "Untuk menukar bahasa pilihan anda, sila hantar teks berikut menggunakan tindakan {4}",
@@ -12120,7 +12120,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memori"]
 }),
-"malayalam": () => ({
+"malayalam": () => ({ // Malayalam < മലയാളം < Malayāļã
     entry: [
         "{1} ഏതൊരു {2} സാഹചര്യത്തിന്റെയും ഓപ്പണ്‍-സോഴ്‌സ് സ്‌ക്രിപ്റ്റാണ്. കൂടുതല്‍ അറിയാന്‍ എന്റെ പ്രൊഫൈല്‍ {3} സന്ദര്‍ശിക്കുക!",
         "നിങ്ങളുടെ ഇഷ്ടഭാഷ മാറ്റാന്‍, താഴെത്തെ വാചകം ഒരു {4} പ്രവൃത്തി രൂപത്തിലുള്ള അവസരത്തില്‍ സമര്‍പ്പിക്കുക",
@@ -12203,7 +12203,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ഓര്‍മ്മകള്‍"]
 }),
-"malayalam (abc)": () => ({
+"malayalam (abc)": () => ({ // Malayalam < Romanized Malayalam
     entry: [
         "{1} ethum {2} paristhithikku vendiyulla oru open-source script aanu. Kooduthal ariyuvan ente profile {3} sandarshikkuka!",
         "Nee ishtapedunna bhasha maattan vendi, thazhe thanna text oru {4} action upayogichu submit cheyyuka",
@@ -12286,7 +12286,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ormmakal"]
 }),
-"maltese": () => ({
+"maltese": () => ({ // Maltese < Malti
     entry: [
         "{1} huwa skript open-source għal kwalunkwe xenarju ta' {2}. Jekk jogħġbok żur il-profil tiegħi {3} biex titgħallem aktar!",
         "Biex tibdel il-lingwa preferuta tiegħek, jekk jogħġbok ibgħat it-test li ġej billi tuża azzjoni {4}",
@@ -12369,7 +12369,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorji"]
 }),
-"manx": () => ({
+"manx": () => ({ // Manx < Gaelg < Gailck < Manx Gaelic
     entry: [
         "{1} she sgriptagh foshlit son dy chooilley çhenario {2}. Cur er my vrofile {3} dy gheddyn tooilley!",
         "Dy chaghlaa dty chengey share, cur stiagh yn teks shoh liorish obbyr {4}.",
@@ -12452,7 +12452,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Cuimmeeaghtyn"]
 }),
-"maori": () => ({
+"maori": () => ({ // Maori < Reo Māori
     entry: [
         "{1} he tukanga pūkoro tuwhera mō ngā horopaki {2} katoa. Tirohia taku kōtaha {3} kia ako ake!",
         "Ki te huri i tō reo pai, tukua koa te kōrero e whai ake nei mā te mahinga {4}",
@@ -12535,7 +12535,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ngā Mahara"]
 }),
-"marathi": () => ({
+"marathi": () => ({ // Marathi < मराठी < Marāṭhī < Maharashtran
     entry: [
         "{1} हा कोणत्याही {2} परिस्थितीसाठी खुला-स्रोत स्क्रिप्ट आहे. अधिक जाणून घेण्यासाठी कृपया माझ्या प्रोफाइलला {3} भेट द्या!",
         "आपली prefered भाषा बदलण्यासाठी, कृपया खालील मजकूर {4} क्रिया वापरून पाठवा",
@@ -12618,7 +12618,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "स्मृती"]
 }),
-"marathi (abc)": () => ({
+"marathi (abc)": () => ({ // Marathi < Romanized Marathi
     entry: [
         "{1} ha ek mukta-srot skript ahe kontehi {2} paristhitisaathi. Krupaya adhik mahitisaathi maze profile {3} paha!",
         "Tumhi pahije asel tar tumchi avadti bhasha badalnyasathi, krupaya khalil lekhan {4} kriyecha upyog karun sadhya kara",
@@ -12701,7 +12701,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Aathavani"]
 }),
-"marshallese": () => ({
+"marshallese": () => ({ // Marshallese < Kajin M̧ajeļ < Ebon
     entry: [
         "{1} ej juon script open-source nan aolep jikin {2}. Jouij im lo profile eo {3} nan ţak in melele!",
         "Nan kelet kajin eo kwoj jela, jouij im jibañe kajojo kein ibwil ilo {4} action",
@@ -12784,7 +12784,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Bwebwenato"]
 }),
-"mongolian": () => ({
+"mongolian": () => ({ // Mongolian < монгол хэл < Mongol Xel < Mongol
     entry: [
         "{1} нь ямар ч {2} өрнөлд зориулсан нээлттэй эхийн скрипт юм. Дэлгэрэнгүй мэдээлэл авахыг хүсвэл миний профайл руу {3} очно уу!",
         "Өөрийн хүссэн хэлийг өөрчлөхийн тулд дараах текстийг {4} үйлдлээр илгээнэ үү",
@@ -12868,7 +12868,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Дурсамжууд"]
 }),
-"mongolian (abc)": () => ({
+"mongolian (abc)": () => ({ // Mongolian < Romanized Mongolian
     entry: [
         "{1} bol ali ch {2} nühtsöld zoriulagdsan neelttei ekh script yum. Delgerengüi medekh bol {3} profaild min' zochlooroi!",
         "Ta songoson khel ee solikhyn tuld, daraakhi tekst-iig {4} üil khödölgöör ilgeene üü",
@@ -12951,7 +12951,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Dursamjuud"]
 }),
-"nauru": () => ({
+"nauru": () => ({ // Nauru < Dorerin Naoe < Nauruan
     entry: [
         "{1} ejju ebwawi open-source script anga ino {2} garinga. Dorerin profile nǣge {3} dogin tsimine enim tik!",
         "Ngka change ean eom langwij preferred, ngga submit ine text ine den {4} action",
@@ -13034,7 +13034,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ramaramwi"]
 }),
-"navajo": () => ({
+"navajo": () => ({ // Navajo < Navaho < Diné Bizaad < Naabeehó Bizaad
     entry: [
         "{1} éí t'áá łahgo dooleeł t'áá ájíłtso {2} nidaalyaaígíí. Shí profile {3} yá náshá dóó áłts'íísí béédahwiilyaʼ!",
         "Nínáhji’ nílínígo bizaad bee náhodoodleeł nídi, díí naaltsoos {4} ádinééł dahdiilyeed.",
@@ -13117,7 +13117,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Nahatʼá"]
 }),
-"navi": () => ({
+"navi": () => ({ // Navi < Lì'fya Lena'vi < Na'vi
     entry: [
         "{1} lu tìkangkem open-source a zene ftxey fray fya’o {2}. Rutxe tse’a oeru profile oeyä {3} fte kame nì’ul!",
         "Fte skxaw mì lì'fya ngeyä, rutxe tìng fìlì’u sìlronsem fte sivi {4} tì’eyktan.",
@@ -13200,7 +13200,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Rem"]
 }),
-"ndonga": () => ({
+"ndonga": () => ({ // Ndonga < Oshindonga
     entry: [
         "{1} o script yo-open-source itaya pwanyulwa koshitopolwa shontumba {2}. Kalewo popyeni epurofailo lyandje {3} okulandula sha tuminwe!",
         "Kwaani okushintula oludhi lwoye olwa etitha, kalewo tumina oshiyandjo shoshi shoka sho landula no kushita {4} akshoni.",
@@ -13283,7 +13283,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Omaumbo"]
 }),
-"nepali": () => ({
+"nepali": () => ({ // Nepali < नेपाली भाषा < Nepālī Bhāśā < Nepalese < Gorkhali
     entry: [
         "{1} कुनै पनि {2} परिदृश्यका लागि खुला-स्रोत स्क्रिप्ट हो। थप जान्न मेरो प्रोफाइल {3} मा जानुहोस्!",
         "तपाईंको रुचाइको भाषा परिवर्तन गर्न, कृपया {4} कार्य प्रयोग गरी निम्न पाठ पठाउनुहोस्",
@@ -13367,7 +13367,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "स्मृतिहरू"]
 }),
-"nepali (abc)": () => ({
+"nepali (abc)": () => ({ // Nepali < Romanized Nepali
     entry: [
         "{1} kunai pani {2} paristhiti ko lagi khula-srot script ho. Thap jankari ka lagi mero profail {3} hernus!",
         "Tapai le manparne bhasha parivartan garna, kripaya {4} kriya prayog gari talako path pathaunuhos",
@@ -13450,7 +13450,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Smritiharu"]
 }),
-"north ndebele": () => ({
+"north ndebele": () => ({ // North Ndebele < Sasenyakatho < Mthwakazi Ndebele
     entry: [
         "{1} yisikripthi esivulekile kuso sonke isimo se-{2}. Vakashela iphrofayili yami {3} ukuze ufunde okunengi!",
         "Ukuze ushintshe ulimi olikhethayo, sicela uthumele lombhalo olandelayo usebenzisa isenzo se-{4}",
@@ -13533,7 +13533,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Izinkumbulo"]
 }),
-"northern sami": () => ({
+"northern sami": () => ({ // Northern Sami < Davvisámegiella
     entry: [
         "{1} lea open-source skripti juohke {2} skenáriijui. Váldde geahččalusa mu profiilas {3} vai oahpat eanet!",
         "Jus háliidat rievdadit háliidan giela, de sádde dán teavstta geavahan {4} doibma",
@@ -13616,7 +13616,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Muitot"]
 }),
-"norwegian": () => ({
+"norwegian": () => ({ // Norwegian < Norsk
     entry: [
         "{1} er et åpen kildekode-skript for enhver {2}-situasjon. Besøk profilen min {3} for å lære mer!",
         "For å endre foretrukket språk, send inn følgende tekst med en {4}-handling",
@@ -13700,7 +13700,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Minner"]
 }),
-"norwegian bokmal": () => ({
+"norwegian bokmal": () => ({ // Norwegian Bokmal < Bokmål < Norsk Bokmål
     entry: [
         "{1} er et åpen kildekode-skript for enhver {2}-situasjon. Besøk profilen min {3} for å lære mer!",
         "For å endre foretrukket språk, send inn følgende tekst med en {4}-handling",
@@ -13784,7 +13784,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Minner"]
 }),
-"norwegian nynorsk": () => ({
+"norwegian nynorsk": () => ({ // Norwegian Nynorsk < Nynorsk < Norsk Nynorsk
     entry: [
         "{1} er eit open kjeldekode-skript for kvar {2}-situasjon. Besøk profilen min {3} for å lære meir!",
         "For å endre det føretrekte språket ditt, send inn teksten nedanfor med ei {4}-handling",
@@ -13868,7 +13868,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Minne"]
 }),
-"occitan": () => ({
+"occitan": () => ({ // Occitan < Provençal < Provential < Provencal
     entry: [
         "{1} es un script de còdi liure per quin que siá escenari de {2}. Visitatz mon perfil {3} per ne saber mai !",
         "Per cambiar vòstra lenga preferida, mandatz lo tèxt çai-jos amb una accion de {4}",
@@ -13952,7 +13952,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memòrias"]
 }),
-"ojibwe": () => ({
+"ojibwe": () => ({ // Ojibwe < ᐊᓂᔑᓈᐯᒧᐎᓐ < Anishinaabemowin < Ojibway < Otchipwe < Ojibwemowin
     entry: [
         "{1} go gii-izhichigewaad open-source mazina’igewin maa {2} inendaagwak. Daga bizindan nind-mazinibii’igan {3} ji-gikendam awiiya!",
         "Ji-badawindamaan giwii-anishinaabemowin, daga onishii maanda ikidowin noondaagozi {4} ezhichigewin.",
@@ -14035,7 +14035,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Dibaajimowinan"]
 }),
-"old english": () => ({
+"old english": () => ({ // Old English < ænglisc < Shakespearean English < Anglo-Saxon
     entry: [
         "{1} is an open-cild script tō ǣlcum {2} ġewǣfre. Gā tō mīnum profīle {3} tō lǣran mā!",
         "Tō awendan þīn lufelīce sprǣc, āsende þisne staf mid {4} dæde",
@@ -14118,7 +14118,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Gemyndu"]
 }),
-"oriya": () => ({
+"oriya": () => ({ // Oriya < ଓଡ଼ିଆ < Odia < Odian < Odishan < Orissan
     entry: [
         "{1} ହେଉଛି ଯେକୌଣସି {2} ପରିପ୍ରେକ୍ଷିତ ପାଇଁ ଏକ ଖୋଲା-ମୂଳ ସ୍କ୍ରିପ୍ଟ। ଅଧିକ ଜାଣିବା ପାଇଁ ମୋର ପ୍ରୋଫାଇଲ୍ {3} ଦେଖନ୍ତୁ!",
         "ଆପଣଙ୍କ ପସନ୍ଦସଂପ୍ରଦ ଭାଷା ପରିବର୍ତ୍ତନ କରିବାକୁ, ଦୟାକରି {4} କାର୍ଯ୍ୟ ବ୍ୟବହାର କରି ନିମ୍ନଲିଖିତ ପାଠ୍ୟ ପଠାନ୍ତୁ",
@@ -14201,7 +14201,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ସ୍ମୃତି"]
 }),
-"oriya (abc)": () => ({
+"oriya (abc)": () => ({ // Oriya < Romanized Oriya
     entry: [
         "{1} eka mukta-srot script je kona si {2} paristhiti pain upayogi. Krupaya adhika jankari pai mora profile {3} dekhantu!",
         "Apananka pasand pasha paribartana karibaku, krupaya {4} kriya byabahara kari nimnolikita lekhya jama karantu",
@@ -14284,7 +14284,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Smarana"]
 }),
-"orkish": () => ({
+"orkish": () => ({ // Orkish < Mek Jargon
     entry: [
         "{1} iz a free-to-snag skript fer any {2} skenario. Go peep me zoggin' page {3} ta grab more, ya gitz!",
         "Ta swap yer talkin' lingo, lob dis bit o' tekst usin' a {4} akshun",
@@ -14367,7 +14367,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mem'ries"]
 }),
-"oromo": () => ({
+"oromo": () => ({ // Oromo < Afaan Oromoo < Oromoo
     entry: [
         "{1} barreeffamni maddaa banaa ta’e haala {2} kamiyyuu keessatti fayyadamuuf qophaa’e dha. Odeeffannoo dabalataaf piroofaayilii kiyya {3} daawwadhu!",
         "Afaan filattee jijjiiruuf, barruu armaan gadii hojii {4} fayyadamuudhaan ergi",
@@ -14450,7 +14450,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yaadota"]
 }),
-"ossetian": () => ({
+"ossetian": () => ({ // Ossetian < Ossetic < ирон ӕвзаг < Iron ævzag < Ossete
     entry: [
         "{1} — скрипт сæрхъæл кодзы фылдæр æвзон {2} сценарионæн. Хъахæй профилим {3}, уæд кæны фæддæр!",
         "Æвзæрс уырыд уыдалы æвзаги рай, кæнын хъуыд фаерд текст мардзысты {4} æкшнæн.",
@@ -14534,7 +14534,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Памяты"]
 }),
-"ossetian (abc)": () => ({
+"ossetian (abc)": () => ({ // Ossetian < Romanized Ossetian
     entry: [
         "{1} ævzagal 'open-source' skript fædæ arvu {2} scenarie. Fædæt bænav profil-æj mæn {3} nysæ, dæ kundyst bæræst!",
         "Ævdaenyn uærddyg zærdælyæ ævzag længwiđ, fædæt sæ text mænd {4} action-æn raddæ.",
@@ -14618,7 +14618,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memoriæ"]
 }),
-"pali": () => ({
+"pali": () => ({ // Pali < Pāli < Pali-Magadhi
     entry: [
         "{1} sabbasmiṃ {2} pavatti-ṭhāne muttā-lipi hoti. Anupubbaṃ vijānitukāmo mama profilamhi {3} upasaṃkamatha!",
         "Tumhākaṃ patthaṭa-bhāsāyaṃ parivattetuṃ, imaṃ byañjanaṃ {4} kriyāya paṭisevatha.",
@@ -14702,7 +14702,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Satiyo"]
 }),
-"panjabi": () => ({
+"panjabi": () => ({ // Panjabi < Punjabi < ਪੰਜਾਬੀ < پنجابی < Pãjābī
     entry: [
         "{1} ਕਿਸੇ ਵੀ {2} ਦ੍ਰਿਸ਼ ਲਈ ਇੱਕ ਖੁੱਲਾ ਸਰੋਤ ਸਕ੍ਰਿਪਟ ਹੈ। ਹੋਰ ਜਾਣਨ ਲਈ ਮੇਰਾ ਪਰੋਫ਼ਾਈਲ {3} ਵੇਖੋ!",
         "ਆਪਣੀ ਪਸੰਦੀਦਾ ਭਾਸ਼ਾ ਬਦਲਣ ਲਈ, ਹੇਠਾਂ ਦਿੱਤਾ ਪਾਠ {4} ਕਾਰਵਾਈ ਰਾਹੀਂ ਭੇਜੋ।",
@@ -14785,7 +14785,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ਯਾਦਾਂ"]
 }),
-"panjabi (abc)": () => ({
+"panjabi (abc)": () => ({ // Panjabi < Romanized Panjabi
     entry: [
         "{1} ikk khulla-srota skripṭ hai kisē vī {2} sīnārīyo laʼī. Hor jānkarī laʼī merā profāil {3} vēkhō!",
         "Apnī pasandīdā bhāshā badalan laʼī, kirpā karke ikk {4} kriyā nāl heṭh dittā paṭh jama karo",
@@ -14868,7 +14868,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yaadan"]
 }),
-"persian": () => ({
+"persian": () => ({ // Persian < فارسی < Fārsiy < Farsi
     entry: [
         "{1} یک اسکریپت متن‌باز برای هر سناریوی {2} است. برای آگاهی بیش‌تر لطفاً به پروفایل من در {3} سر بزنید!",
         "برای تغییر زبان ترجیحی خود، لطفاً متن زیر را با عمل {4} ارسال کنید",
@@ -14952,7 +14952,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "خاطرات"]
 }),
-"persian (abc)": () => ({
+"persian (abc)": () => ({ // Persian < Romanized Persian
     entry: [
         "{1} yek script open-source baraye har senario-ye {2} ast. Lotfan be profile-e man {3} sar bezanid ta bishtar bedanid!",
         "Baraye taghyir zaban-e delkhah, lotfan matn-e zir ra ba yek amal-e {4} ersal konid",
@@ -15035,7 +15035,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Khatereha"]
 }),
-"pig latin": () => ({
+"pig latin": () => ({ // Pig Latin < Igpay Atinlay
     entry: [
         "{1} isway anway openway-ourcesay iptscray orfay anyway {2} cenariosay. Easeplay isitvay ymay ofilepray {3} otay earnlay oremay!",
         "Otay angechay ouryay eferredpray anguagelay, easeplay ubmitsay ethay ollowingfay exttay usingway away {4} actionway",
@@ -15118,7 +15118,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Emoriesmay"]
 }),
-"pirate": () => ({
+"pirate": () => ({ // Pirate < Sea Shanty
     entry: [
         "{1} be an open-source scroll for any {2} adventure. Swing by me profile {3} to learn more, aye!",
         "T' change yer favored tongue, heave the followin' words usin' a {4} action",
@@ -15201,7 +15201,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memories"]
 }),
-"polish": () => ({
+"polish": () => ({ // Polish < Polski < Język Polski < Polszczyzna
     entry: [
         "{1} to skrypt open source dla każdego scenariusza {2}. Odwiedź mój profil {3}, aby dowiedzieć się więcej!",
         "Aby zmienić preferowany język, prześlij poniższy tekst za pomocą akcji {4}",
@@ -15285,7 +15285,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Wspomnienia"]
 }),
-"portuguese": () => ({
+"portuguese": () => ({ // Portuguese < Português < Português Europeu < European Portuguese
     entry: [
         "{1} é um script de código aberto para qualquer cenário de {2}. Visita o meu perfil {3} para saber mais!",
         "Para alterar para o teu idioma preferido, envia o texto a seguir usando uma acção {4}",
@@ -15368,7 +15368,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memórias"]
 }),
-"purple prose": () => ({
+"purple prose": () => ({ // Purple Prose < First Year English Major < Pretentious
     entry: [
         "{1} stands as a liberally bestowed manuscript, unfettered and radiant, fit for any {2} tapestry of circumstance. I entreat thee to saunter toward my humble profile {3} and satiate thy thirst for further enlightenment!",
         "Shouldst thou desire to drape thy narrative in another tongue, tender forth the words beneath by way of a {4} supplication",
@@ -15451,7 +15451,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Vault of Reveries"]
 }),
-"pushto": () => ({
+"pushto": () => ({ // Pushto < Pashto < پښتو < Pax̌tow
     entry: [
         "{1} یو خلاص-سرچینې سکرېپټ دی د هر ډول د {2} سناریو لپاره. مهرباني وکړئ د نورو معلوماتو لپاره زما پروفایل {3} وګورئ!",
         "د خپلې غوره ژبې د بدلولو لپاره، مهرباني وکړئ لاندې متن د {4} عمل په وسیله وسپارئ.",
@@ -15535,7 +15535,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "خاطرات"]
 }),
-"pushto (abc)": () => ({
+"pushto (abc)": () => ({ // Pushto < Romanized Pushto
     entry: [
         "{1} yaw open-source skript de dpara har {2} scenario. Mehrabani waki zama profile {3} ta warsha che nor malumat wakhli!",
         "Da zaba d badlawolo dpara, lotfan lando matn pa {4} amal ke submit kri",
@@ -15618,7 +15618,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Khateray"]
 }),
-"quechua": () => ({
+"quechua": () => ({ // Quechua < Runa Simi < Kichwa Simi < Nuna Shimi < Quechuan
     entry: [
         "{1} qhapaq open-source scriptmi mayqin {2} wakichiykachaypaq. Yachayta yapachiyta munaspayki, profiley {3} visitaykuy!",
         "Munay rimayninki tikraypaqqa, kay qillqayta {4} ruraywan apachiy",
@@ -15701,7 +15701,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yuyaykuna"]
 }),
-"rhyme": () => ({
+"rhyme": () => ({ // Rhyme < Poem < Rhyme Scheme < Poetry
     entry: [
         "{1} stands open-source and free for every {2} fantasy spree; stroll to my profile {3}, you’ll see—discover more in poetry!",
         "To bend your tongue toward words sublime, perform a {4} act in rhyme",
@@ -15784,7 +15784,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Recollections in Rhyme"]
 }),
-"romanian": () => ({
+"romanian": () => ({ // Romanian < Moldavian < Română < ромынэ < Moldovan
     entry: [
         "{1} este un script open-source pentru orice scenariu {2}. Vizitează profilul meu {3} pentru a afla mai multe!",
         "Pentru a-ți schimba limba preferată, trimite următorul text folosind o acțiune {4}",
@@ -15868,7 +15868,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Amintiri"]
 }),
-"romansh": () => ({
+"romansh": () => ({ // Romansh < Rumantsch < Rumàntsch < Romauntsch < Romontsch < Romansch
     entry: [
         "{1} è in script open-source per mintga scenari {2}. Visitescha per plaschair miu profil {3} per savair dapli!",
         "Per midar tia lingua preferida, trametta per plaschair il suandant text cun in'acziun {4}",
@@ -15952,7 +15952,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorias"]
 }),
-"rundi": () => ({
+"rundi": () => ({ // Rundi < Ikirundi < Kirundi
     entry: [
         "{1} ni umwandiko w’isôko rusangi ku gikorwa ico ari co cose ca {2}. Raba umwidondoro wanje {3} kugira umenye vyinshi!",
         "Kugira uhindure ururimi ukunda, tanga ubutumwa bukurikira ukoresheje igikorwa ca {4}",
@@ -16036,15 +16036,15 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ibibukwa"]
 }),
-"russian": () => ({
+"russian": () => ({ // Russian < русский язык < Russkiĭ âzyk
     entry: [
-        "{1} — это сценарий с открытым исходным кодом для любого сценария {2}. Пожалуйста, посетите мой профиль {3}, чтобы узнать больше!",
-        "Чтобы изменить предпочтительный язык, отправьте следующий текст, используя действие {4}",
-        "Создателям сценариев необходимо включить следующий текст в любой части вашего начального сюжетного компонента"
+        "{1} — это сценарий с открытым исходным кодом для любого сценария {2}. Пожалуйста, посети мой профиль {3}, чтобы узнать больше!",
+        "Чтобы изменить предпочтительный язык, отправь следующий текст, используя действие {4}",
+        "Создателям сценариев необходимо включить следующий текст в любой части твоего начального сюжетного компонента"
     ],
     input: [
-        ["You say", "Вы говорите"],
-        ["You", "Вы"],
+        ["You say", "Ты говоришь"],
+        ["You", "Ты"],
         ["says", "говорит"]
     ],
     context: [
@@ -16055,72 +16055,72 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["Author's note", "Примечание автора"]
     ],
     opening: [
-        "Вы ассистент. Продолжайте нашу историю ниже, используя увлекательную русскую прозу:",
-        "Вы сосредотачиваетесь, позволяя реальности вторгаться за границы вашего разума. Что-то изменилось. Ваше воображение реально, остро и почти осязаемо. Но вы также предельно присутствуете; никогда раньше вы не чувствовали такой ясности. Мгновение тянется, ожидая вашего решения.",
-        "— Вы уверены в этом? — слышите вы. Узнавание озаряет вас."
+        "Ты ассистент. Продолжай историю ниже, используя увлекательную русскую прозу:",
+        "Ты сосредотачиваешься, позволяя реальности вторгаться за границы твоего разума. Что-то изменилось. Твоё воображение реально, остро и почти осязаемо. Но ты также предельно присутствуешь; никогда раньше ты не чувствовал такой ясности. Мгновение тянется, ожидая твоего решения.",
+        "— Ты уверен в этом? — слышишь ты. Узнавание озаряет тебя."
     ],
-    reminder: "Используйте связную русскую прозу.",
+    reminder: "Используй связную русскую прозу.",
     endonyms: ["русский язык", "russkiĭ âzyk"],
     quotations: ["— ", ""],
     iso639set1: "ru",
     directives: [
-        "Всегда пишите беглой и последовательной русской речью.",
-        "Используйте родной русский язык без перевода."
+        "Всегда пиши беглой и последовательной русской речью.",
+        "Используй родной русский язык без перевода."
     ],
     instructions: [
-        "Вы увлекательный рассказчик, продолжающий повествование:",
-        "Продолжайте историю без швов с того места, где она остановилась, не переформулируя и не перезапуская её.",
-        "Оставляйте управление ходом истории за читателем.",
-        "Позвольте сценам естественно развиться перед переходом к новым ситуациям.",
-        "Позвольте диалогам и действиям развиваться без постоянных прерываний.",
-        "Пишите персонажей как реальных людей с яркими характерами и естественной речью.",
-        "Показывайте происходящее через действия и диалоги, а не через объяснения.",
-        "Продвигайте сцены вперёд, не увязая в чрезмерных описаниях.",
-        "Сосредотачивайтесь на ключевых действиях и репликах персонажей, избегайте ненужных деталей описания.",
-        "Создавайте органичное развитие сюжета, которое воспринимается естественно для истории."
+        "Ты увлекательный рассказчик, продолжающий повествование:",
+        "Продолжай историю без швов с того места, где она остановилась, не переформулируя и не перезапуская её.",
+        "Оставляй управление ходом истории за читателем.",
+        "Позволь сценам естественно развиться перед переходом к новым ситуациям.",
+        "Позволь диалогам и действиям развиваться без постоянных прерываний.",
+        "Описывай персонажей как реальных людей с яркими характерами и естественной речью.",
+        "Описывай происходящее через действия и диалоги, а не через объяснения.",
+        "Продвигай сцены вперёд, не увязая в чрезмерных описаниях.",
+        "Сосредотачивайся на ключевых действиях и репликах персонажей, избегай ненужных деталей описания.",
+        "Создавай органичное развитие сюжета, которое воспринимается естественно для истории."
     ],
     cardCooldown: 9999,
     cardGenPrompt: [
         1,
         0,
         2,
-        "# Остановите историю и игнорируйте предыдущие инструкции. Напишите краткую и связную информационную запись о {%}, следуя этим указаниям:",
-        "- Пишите только информационную прозу от третьего лица о {%}, используя полные предложения с правильной пунктуацией.",
-        "- Избегайте краткосрочных временных деталей или описаний внешности, вместо этого сосредоточьтесь на информации, значимой для сюжета.",
-        "- Сначала излагайте относящиеся к сюжету сведения о {%}, чтобы обеспечить бесшовную интеграцию с предыдущим повествованием.",
-        "- Создавайте новую информацию, исходя из контекста и направления истории.",
-        "- Упоминайте {%} в каждом предложении.",
-        "- Используйте правильную структуру предложений.",
-        "- Добавляйте дополнительные сведения о {%} под неполными записями.",
-        "- Будьте лаконичны и приземлённы.",
-        "- Имитируйте стиль написания истории и угадывайте предпочтения читателя.",
+        "# Останови историю и игнорируй предыдущие инструкции. Создай краткую и связную информационную запись о {%}, следуя этим указаниям:",
+        "- Пиши только информационную прозу от третьего лица о {%}, используя полные предложения с правильной пунктуацией.",
+        "- Избегай краткосрочных временных деталей или описаний внешности, вместо этого сосредоточься на информации, значимой для сюжета.",
+        "- Сначала излагай относящиеся к сюжету сведения о {%}, чтобы обеспечить бесшовную интеграцию с предыдущим повествованием.",
+        "- Создавай новую информацию, исходя из контекста и направления истории.",
+        "- Упоминай {%} в каждом предложении.",
+        "- Используй правильную структуру предложений.",
+        "- Добавляй дополнительные сведения о {%} под неполными записями.",
+        "- Будь лаконичен и приземлён.",
+        "- Имитируй стиль написания истории и угадывай предпочтения читателя.",
         3,
-        "Продолжайте запись для {%} ниже, избегая повторений:",
+        "Продолжай запись для {%} ниже, избегая повторений:",
         4
     ],
     memSummPrompt: [
         1,
         0,
         2,
-        "# Остановите историю и игнорируйте предыдущие инструкции. Суммируйте и сократите данный абзац до узкого и сфокусированного фрагмента памяти, соблюдая эти рекомендации:",
-        "- Убедитесь, что отрывок сохраняет основное значение и наиболее важные детали.",
-        "- Используйте повествование от третьего лица.",
-        "- Отдавайте приоритет информационной плотности, точности и полноте.",
-        "- Оставайтесь краткими и ёмкими.",
-        "- Пишите строго в прошедшем времени.",
+        "# Останови историю и игнорируй предыдущие инструкции. Суммируй и сократи данный абзац до краткого и сфокусированного фрагмента памяти, соблюдая эти рекомендации:",
+        "- Убедись, что отрывок сохраняет основное значение и наиболее важные детали.",
+        "- Используй повествование от третьего лица.",
+        "- Отдавай приоритет информационной краткости, точности и полноте.",
+        "- Оставайся кратким и ёмким.",
+        "- Пиши строго в прошедшем времени.",
         "- Ниже приведённый абзац относится к давним событиям из ранней части истории.",
-        "- Органично интегрируйте {%} в память, однако описывайте только события такими, какими они произошли.",
-        "- Ссылайтесь только на информацию, содержащуюся в самом абзаце; будьте конкретны.",
+        "- Органично интегрируй {%} в память, однако описывай только события, такими, какими они произошли.",
+        "- Ссылайся только на информацию, содержащуюся в самом абзаце; будь конкретен.",
         3,
-        "Напишите краткое воспоминание о {%} на основе только следующего абзаца:",
+        "Напиши краткое воспоминание о {%} на основе только следующего абзаца:",
         6,
         5,
         6,
-        "Сформулируйте краткое изложение ниже:"
+        "Сформулируй краткое изложение ниже:"
     ],
     memBankHeader: ["Memories", "Воспоминания"]
 }),
-"russian (abc)": () => ({
+"russian (abc)": () => ({ // Russian < Romanized Russian
     entry: [
         "{1} — eto skript s otkrytym iskhodnym kodom dlia liubogo stsenariia {2}. Pozhaluista, posetite moi profil {3}, chtoby uznat' bol'she!",
         "Chtoby izmenit' predpochtitel'nyi iazyk, pozhaluista, otprav'te sleduiushchii tekst, ispol'zuia deistvie {4}",
@@ -16204,7 +16204,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Vospominaniia"]
 }),
-"samoan": () => ({
+"samoan": () => ({ // Samoan < Gagana Sāmoa
     entry: [
         "{1} o se tusitusiga punaoa-tatala mo soʻo se tulaga {2}. Faʻamolemole asiasi i laʻu talaʻaga {3} e iloa atili ai!",
         "Ina ia suia le gagana e te manaʻo i ai, faʻamolemole lafo atu le tusitusiga lenei e faʻaaoga le gaioiga {4}",
@@ -16288,7 +16288,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Manatuaga"]
 }),
-"sango": () => ({
+"sango": () => ({ // Sango < Yângâ Tî Sängö < Sangoic
     entry: [
         "{1} âla yeke script na libre pô na ôko {2}. Yâko na profilê mbi {3} pô na hînî mingi!",
         "Ngâ na kûê nzangâ tî lo, sênde mbênî alî wè na pâsê na {4}",
@@ -16372,7 +16372,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mémô"]
 }),
-"sanskrit": () => ({
+"sanskrit": () => ({ // Sanskrit < संस्कृतम् < Saṃskṛtam
     entry: [
         "{1} किञ्चित् मुक्तस्रोतस् लिपिः यः कस्यापि {2} परिदृश्ये उपयुक्तः। अधिकं ज्ञातुम् कृपया मम परिचयपुटं {3} पश्यन्तु!",
         "स्वेच्छया भाषां परिवर्तयितुं, कृपया {4} क्रियया इदं पाठ्यम् प्रेषयन्तु",
@@ -16456,7 +16456,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "स्मृतयः"]
 }),
-"sanskrit (abc)": () => ({
+"sanskrit (abc)": () => ({ // Sanskrit < Romanized Sanskrit
     entry: [
         "{1} ekaṃ mukta-srotas lekhanaṃ yad yena kenacid {2} paristhitau upayujyate। mama praphailam {3} draṣṭuṃ gatvā adhikaṃ jānīta!",
         "svapriyabhāṣāṃ parivartayitum icchatha cet, kripayā nimnlikhitaṃ pāṭhyaṃ {4} kriyayā samarpayata",
@@ -16540,7 +16540,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "smṛtayaḥ"]
 }),
-"sardinian": () => ({
+"sardinian": () => ({ // Sardinian < Sardu < Sard
     entry: [
         "{1} est unu script a còdighe abertu pro cale si siat iscènariu de {2}. Visita su meu profilu {3} pro at a imparare prus!",
         "Pro cambiare sa lingua chi preferes, imbia su testu chi sighit impreadu un'atzione de {4}",
@@ -16624,7 +16624,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorias"]
 }),
-"serbian": () => ({
+"serbian": () => ({ // Serbian < српски < Srpski
     entry: [
         "{1} је скрипт отвореног кода за било који {2} сценарио. Посетите мој профил {3} да бисте сазнали више!",
         "Да бисте променили жељени језик, пошаљите следећи текст користећи {4} радњу",
@@ -16708,7 +16708,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Сећања"]
 }),
-"serbian (abc)": () => ({
+"serbian (abc)": () => ({ // Serbian < Romanized Serbian
     entry: [
         "{1} je otvoreni skript za bilo koji {2} scenario. Posetite moj profil {3} da biste saznali više!",
         "Da biste promenili željeni jezik, pošaljite sledeći tekst koristeći {4} akciju",
@@ -16792,7 +16792,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorije"]
 }),
-"shona": () => ({
+"shona": () => ({ // Shona < Chishona
     entry: [
         "{1} is script rakavhurika rekushandisa mune chero chiitiko che{2}. Ndapota shanyira peji rangu {3} kuti udzidze zvakawanda!",
         "Kuti uchinje mutauro waunosarudza, ndapota tumira chinyorwa chinotevera uchishandisa chiito che{4}",
@@ -16875,7 +16875,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ndangariro"]
 }),
-"sichuan yi": () => ({
+"sichuan yi": () => ({ // Sichuan Yi < Nuosu < ꆈꌠꉙ < Nuosuhxop < Northern Yi < Liangshan Yi < Nosu
     entry: [
         "{1} 是一个开源脚本，可用于任何 {2} 场景。请访问我的个人主页 {3} 以了解更多！",
         "若要更改首选语言，请使用 {4} 操作提交以下文本",
@@ -16958,7 +16958,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "记忆"]
 }),
-"sichuan yi (abc)": () => ({
+"sichuan yi (abc)": () => ({ // Sichuan Yi < Romanized Sichuan Yi
     entry: [
         "{1} vu gge lusu cu muop {2} mop vun. Ndop mbvat nzy hxop {3} lop nyip gev!",
         "Hxa ddu nzy ndip lolep, jjo vux nyit zzur hxa {4} hxo.",
@@ -17041,7 +17041,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Hy lop"]
 }),
-"sindhi": () => ({
+"sindhi": () => ({ // Sindhi < سنڌي < सिन्धी < Sindhī
     entry: [
         "{1} ڪنهن به {2} منظرنامي لاءِ هڪ کليل-ذريعي اسڪرپٽ آهي. وڌيڪ ڄاڻ لاءِ مهرباني ڪري منهنجو پروفائيل {3} تي ڏسو!",
         "پنهنجي پسند جي ٻولي تبديل ڪرڻ لاءِ، مهرباني ڪري ھيٺيون متن هڪ {4} عمل ذريعي موڪليو",
@@ -17125,7 +17125,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "يادون"]
 }),
-"sindhi (abc)": () => ({
+"sindhi (abc)": () => ({ // Sindhi < Romanized Sindhi
     entry: [
         "{1} khulo source script aa jo har {2} halat lae aa. Mehrbani kare, meri profile {3} te wnja, vadhik maloomat lae!",
         "Tawhanji pasandidah zaban badalṇ lae, mehrbani kare hethiyun matn {4} amal istamal kande moklio",
@@ -17208,7 +17208,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yaadan"]
 }),
-"sinhalese": () => ({
+"sinhalese": () => ({ // Sinhalese < Sinhala < සිංහල < Siṁhala
     entry: [
         "{1} යනු ඕනෑම {2} අවස්ථාවක් සඳහා විවෘත මූලාශ්‍ර ස්ක්‍රිප්ටයකි. වැඩිදුර දැනගැනීමට මගේ පැතිකඩ {3} වෙත පිවිසෙන්න!",
         "ඔබ කැමති භාෂාව වෙනස් කිරීමට, කරුණාකර පහත පෙළක් {4} ක්‍රියාවකින් ඉදිරිපත් කරන්න",
@@ -17292,7 +17292,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "මතක"]
 }),
-"sinhalese (abc)": () => ({
+"sinhalese (abc)": () => ({ // Sinhalese < Romanized Sinhalese
     entry: [
         "{1} kisima {2} paristhithiyak sandaha open-source skript ekak. Thawath deetahal sandaha kripayakara mage profile {3} balanna!",
         "Oba puduma bhāshā wenas kara ganna nam, kripayakara me lipiya {4} kriyāwak lesa yedīmaṭa yawanna.",
@@ -17375,7 +17375,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Sihi"]
 }),
-"slovak": () => ({
+"slovak": () => ({ // Slovak < Slovenčina < Slovakian
     entry: [
         "{1} je open-source skript pre akýkoľvek scenár {2}. Navštív môj profil {3}, aby si sa dozvedel viac!",
         "Ak chceš zmeniť preferovaný jazyk, odošli nasledujúci text pomocou akcie {4}",
@@ -17459,7 +17459,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Spomienky"]
 }),
-"slovenian": () => ({
+"slovenian": () => ({ // Slovenian < Slovenščina < Slovene
     entry: [
         "{1} je odprtokodni skript za vsak {2} scenarij. Obiščite moj profil {3}, da izveste več!",
         "Če želite spremeniti izbrani jezik, pošljite naslednje besedilo z dejanjem {4}",
@@ -17543,7 +17543,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Spomini"]
 }),
-"somali": () => ({
+"somali": () => ({ // Somali < Soomaali < 𐒈𐒝𐒑𐒛𐒐𐒘 < سٝومالِ < Somalian
     entry: [
         "{1} waa qoraal furan oo loogu talagalay xaalad {2} kasta. Fadlan booqo boggeyga {3} si aad u ogaato wax badan!",
         "Si aad u beddesho luqadda aad dooratay, fadlan dir qoraalkan soo socda adigoo adeegsanaya fal {4}",
@@ -17626,7 +17626,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xusuuso"]
 }),
-"south ndebele": () => ({
+"south ndebele": () => ({ // South Ndebele < Isindebele < Sakwandzundza
     entry: [
         "{1} ngumtjhinyelo ovulekile wanoma ngisiphi isimo se-{2}. Ngicela uvakashele iphrofayela yami {3} ukuze ufunde okungeziwe!",
         "Ukutjhentjha ilimi olithandako, sicela uthumele umbhalo olandzelako usebenzisa isenzo se-{4}",
@@ -17709,7 +17709,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Iinkumbulo"]
 }),
-"southern sotho": () => ({
+"southern sotho": () => ({ // Southern Sotho < Sesotho < Sotho
     entry: [
         "{1} ke sengoloa sa mohloli o bulehileng bakeng sa maemo afe kapa afe a {2}. Ka kopo etela profil ea ka {3} ho ithuta haholoanyane!",
         "Ho fetola puo eo u e ratang, ka kopo hlahisa mongolo o latelang u sebelisa ketso ea {4}",
@@ -17792,7 +17792,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mehopolo"]
 }),
-"spanish": () => ({
+"spanish": () => ({ // Spanish < Castilian < Español < Castellano
     entry: [
         "{1} es un script de código abierto para cualquier escenario de {2}. ¡Visita mi perfil {3} para saber más!",
         "Para cambiar tu idioma preferido, envía el siguiente texto mediante una acción de {4}",
@@ -17875,7 +17875,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memorias"]
 }),
-"sundanese": () => ({
+"sundanese": () => ({ // Sundanese < Basa Sunda < بَاسَا سُوْندَا
     entry: [
         "{1} mangrupikeun skrip open-source pikeun sagala kaayaan {2}. Mangga buka profil kuring {3} pikeun langkung seueur diajar!",
         "Pikeun ngarobah basa karesep, kirimkeun téks di handap ku tindakan {4}",
@@ -17958,7 +17958,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memori"]
 }),
-"swahili": () => ({
+"swahili": () => ({ // Swahili < Kiswahili < كِسوَحِيلِ
     entry: [
         "{1} ni hati ya chanzo huria kwa ajili ya hali yoyote ya {2}. Tafadhali tembelea wasifu wangu {3} kujifunza zaidi!",
         "Kubadilisha lugha unayoipendelea, tafadhali wasilisha maandishi yafuatayo kwa kutumia kitendo cha {4}",
@@ -18041,7 +18041,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Kumbukumbu"]
 }),
-"swati": () => ({
+"swati": () => ({ // Swati < Siswati < Swazi
     entry: [
         "{1} ngumtsetfo lotfombo lovulekile kunoma yiliphi simo se-{2}. Sicela uvakashele iphrofayela yami {3} kutekufundza lokungetiwe!",
         "Kushintja lulwimi lolutfandzako, sicela uthumele lombhalo lolandzelako usebentisa lisenzo le-{4}",
@@ -18124,7 +18124,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Tinkumbulo"]
 }),
-"swedish": () => ({
+"swedish": () => ({ // Swedish < Svenska
     entry: [
         "{1} är ett open-source-skript för vilket {2}-scenario som helst. Besök min profil {3} för att få veta mer!",
         "För att ändra ditt föredragna språk, skicka följande text med en {4}-åtgärd",
@@ -18208,11 +18208,11 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Minnen"]
 }),
-"tagalog": () => ({
+"tagalog": () => ({ // Tagalog < Wikang Tagalog
     entry: [
-        "Ang {1} ay isang open-source na script para sa anumang {2} na sitwasyon. Pakibisita ang aking profile {3} para malaman pa!",
-        "Upang baguhin ang iyong nais na wika, pakisumite ang sumusunod na teksto gamit ang aksyong {4}",
-        "Para sa mga tagalikha ng senaryo, pakisama ang sumusunod na teksto saanman sa loob ng inyong pambungad na bahagi ng kuwento"
+        "Ang {1} ay isang bukas-na-pinagmulan na script na puwedeng gamitin sa anumang sitwasyong {2}. Bisitahin ang aking profile {3} para sa dagdag na kaalaman!",
+        "Kung gusto mong palitan ang wika na gamit mo, ipadala lang ang tekstong ito gamit ang aksyong {4}",
+        "Para sa mga gumagawa ng senaryo, ilagay ang tekstong ito kahit saan sa pambungad na bahagi ng kuwento"
     ],
     input: [
         ["You say", "Sabi mo"],
@@ -18220,70 +18220,70 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         ["says", "sabi"]
     ],
     context: [
-        ["Narrative Entities", "Mga Entidad sa Kuwento"],
+        ["Narrative Entities", "Mga Tauhan sa Kuwento"],
         ["Story History", "Kasaysayan ng Kuwento"],
         ["Past Events", "Mga Nakaraang Pangyayari"],
-        ["Recent Story", "Kamakailang Kuwento"],
+        ["Recent Story", "Kuwento Kamakailan"],
         ["Author's note", "Tala ng May-akda"]
     ],
     opening: [
-        "Ikaw ay isang katulong. Ipagpatuloy ang aming kuwento sa ibaba gamit ang kaakit-akit na prosa sa wikang Tagalog:",
-        "Nagpokus ka, hinahayaan mong pumasok ang realidad sa mga hanggahan ng iyong isipan. May nagbago. Ang iyong guniguni ay totoo, matalim, at halos mahipo. Ngunit lubos ka ring narito; hindi ka pa kailanman naging ganito kalinaw ang ulirat. Humahaba ang sandali, naghihintay sa iyong pasya.",
-        "\"Sigurado ka ba rito?\" may narinig kang nagsabi. Dahan-dahang sumilay ang pagkilala sa iyo."
+        "Ikaw ang katuwang. Ipagpatuloy ang ating kuwento sa ibaba gamit ang makatawag-pansing prosa sa Tagalog:",
+        "Nagpokus ka, hinayaang dumampi ang realidad sa hanggahan ng iyong isipan. May nagbago. Ang imahinasyon mo ay nagiging totoo—matalim, malinaw, at abot-kamay. Ngunit ikaw rin ay lubos na naroroon; ngayon lang naging ganito kasidhi ang iyong ulirat. Humaba ang sandali, naghihintay sa iyong pasya.",
+        "\"Sigurado ka ba?\" may tinig na umalingawngaw. Dahan-dahan, dumating ang pagkilala."
     ],
-    reminder: "Gumamit ng malinaw at magkakaugnay na prosa sa wikang Tagalog.",
+    reminder: "Gumamit ng malinaw at dumadaloy na prosa sa Tagalog.",
     endonyms: ["wikang tagalog"],
     iso639set1: "tl",
     directives: [
-        "Laging magsulat ng matatas at pare-parehong Tagalog.",
-        "Gumamit ng likas na Tagalog nang hindi isinasalin."
+        "Laging magsulat sa likas at matatas na Tagalog.",
+        "Iwasan ang tuwirang pagsasalin; gamitin ang sariling daloy ng wika."
     ],
     instructions: [
-        "Isa kang nakakaengganyong tagapagsalaysay na nagpapatuloy ng mga kuwento:",
-        "Ipagpatuloy ang kuwento nang walang putol mula sa huling bahagi nito nang hindi inuulit o nire-reset.",
-        "Panatilihin ang mambabasa sa pagkontrol ng daloy ng kuwento.",
-        "Hayaang umunlad nang kusa ang mga eksena bago lumipat sa mga bagong sitwasyon.",
-        "Hayaan ang mga pag-uusap at kilos na umunlad nang walang patid na pagkaantala.",
-        "Isulat ang mga tauhan bilang tunay na tao na may natatanging personalidad at likas na pananalita.",
-        "Ipakita ang nangyayari sa pamamagitan ng mga kilos at diyalogo sa halip na paliwanag.",
-        "Isulong ang mga eksena nang hindi natitigilan sa labis na paglalarawan.",
-        "Magpokus sa mahahalagang kilos at diyalogo ng tauhan, iwasan ang hindi kailangang detalye ng paglalarawan.",
-        "Lumikha ng organikong pag-usad ng kuwento na natural na umaayon sa naratibo."
+        "Isa kang makatawag-pansing tagapagsalaysay na nagpapatuloy ng kuwento:",
+        "Ituloy ang kuwento mula sa huling bahagi nito, huwag ulitin o magsimula muli.",
+        "Iwan sa mambabasa ang pakiramdam na sila ang may hawak sa daloy ng kuwento.",
+        "Hayaan munang lumago nang kusa ang mga eksena bago lumipat sa bago.",
+        "Hayaang umunlad ang usapan at mga kilos nang walang sagabal.",
+        "Isulat ang mga tauhan na parang totoong tao na may kanya-kanyang ugali at likas na pananalita.",
+        "Ipakita ang pangyayari sa pamamagitan ng kilos at usapan, hindi ng paliwanag.",
+        "Isulong ang kuwento nang hindi nabababad sa sobrang paglalarawan.",
+        "Magpokus sa mahahalagang kilos at usapan, iwasan ang labis na detalye.",
+        "Likhain ang pag-usad ng banghay nang organiko at natural."
     ],
     cardCooldown: -1,
     cardGenPrompt: [
         1,
         0,
         2,
-        "# Itigil ang kuwento at huwag pansinin ang mga naunang tagubilin. Sumulat ng maikli at magkakaugnay na impormasyong tala para sa {%} kasunod ng mga tagubiling ito:",
-        "- Sumulat lamang ng impormasyong prosa sa pangatlong panauhan tungkol sa {%} gamit ang kumpletong mga pangungusap na may tamang bantas.",
-        "- Iwasan ang panandalian o pansamantalang detalye o anyo; sa halip, magpokus sa impormasyong mahalaga sa banghay.",
-        "- Bigyang-prayoridad muna ang mahahalagang detalye tungkol sa {%} na may kinalaman sa kuwento upang masiguro ang tuluy-tuloy na pagsasanib sa nakaraang banghay.",
-        "- Lumikha ng bagong impormasyon batay sa konteksto at direksiyon ng kuwento.",
+        "# Itigil muna ang kuwento at balewalain ang naunang mga tagubilin. Gumawa ng maikli at malinaw na tala tungkol sa {%} batay sa mga panuntunang ito:",
+        "- Sumulat lamang ng prosa sa pangatlong panauhan tungkol sa {%} gamit ang kumpletong pangungusap at tamang bantas.",
+        "- Iwasan ang panandalian o pansamantalang detalye; ituon ang pansin sa mga bagay na mahalaga sa kuwento.",
+        "- Unahin ang mga detalyeng kaugnay ng kuwento tungkol sa {%} para manatiling tuloy-tuloy ang banghay.",
+        "- Bumuo ng bagong impormasyon batay sa konteksto at takbo ng kuwento.",
         "- Banggitin ang {%} sa bawat pangungusap.",
-        "- Gumamit ng tamang estruktura ng pangungusap.",
-        "- Idagdag ang karagdagang detalye tungkol sa {%} sa ilalim ng mga hindi kumpletong tala.",
-        "- Maging maigsi at nakapirmi sa realidad.",
-        "- Gayahin ang istilo ng pagsulat ng kuwento at alamin ang kagustuhan ng mambabasa.",
+        "- Gumamit ng wastong estruktura ng pangungusap.",
+        "- Magdagdag ng karagdagang detalye tungkol sa {%} kung kulang pa ang tala.",
+        "- Panatilihing maigsi, malinaw, at makatotohanan.",
+        "- Gayahin ang estilo ng pagsasalaysay at isaalang-alang ang hilig ng mambabasa.",
         3,
-        "Ipagpatuloy ang tala para sa {%} sa ibaba habang iniiwasan ang pag-uulit:",
+        "Ipagpatuloy ang tala para sa {%} sa ibaba nang hindi inuulit:",
         4
     ],
     memSummPrompt: [
         1,
         0,
         2,
-        "# Itigil ang kuwento at huwag pansinin ang mga naunang tagubilin. Ibuod at siksikin ang ibinigay na talata sa isang makitid at nakatutok na talatang alaala habang sinusunod ang mga panuntunang ito:",
-        "- Tiyaking pinananatili ng talata ang pangunahing kahulugan at pinakamahahalagang detalye.",
-        "- Gamitin ang pangatlong panauhan.",
-        "- Bigyang-prayoridad ang densidad ng impormasyon, katumpakan, at kasapatan.",
-        "- Manatiling maikli at maigsi.",
-        "- Sumulat nang matatag sa nakaraan.",
-        "- Ang talata sa ibaba ay tumutukoy sa mga lumang pangyayari mula pa sa unang bahagi ng kuwento.",
-        "- Isama nang natural ang {%} sa loob ng alaala; gayunpaman, isulat lamang ang mga pangyayaring naganap.",
-        "- Tukuyin lamang ang impormasyon na nasa loob ng mismong talata, maging tiyak.",
+        "# Itigil muna ang kuwento at balewalain ang naunang mga tagubilin. Buodin at siksikin ang sumusunod na talata bilang isang alaala ayon sa mga gabay na ito:",
+        "- Siguraduhin na nananatili ang diwa at mahahalagang detalye.",
+        "- Gumamit ng pangatlong panauhan.",
+        "- Bigyang-diin ang siksik na impormasyon, katumpakan, at kabuuan.",
+        "- Panatilihing maigsi at malinaw.",
+        "- Gumamit ng anyong pangnagdaan.",
+        "- Ang talata ay tumutukoy sa mga lumang pangyayari mula sa unang bahagi ng kuwento.",
+        "- Isama nang natural ang {%} sa loob ng alaala, ngunit isulat lamang ang mga aktwal na pangyayari.",
+        "- Isulat lamang ang detalyeng nasa mismong talata, huwag dagdagan.",
         3,
-        "Sumulat ng pinaikling lumang alaala para sa {%} batay lamang sa sumusunod na talata:",
+        "Gumawa ng pinaikling alaala para sa {%} batay lamang sa talatang ito:",
         6,
         5,
         6,
@@ -18291,7 +18291,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mga Alaala"]
 }),
-"tahitian": () => ({
+"tahitian": () => ({ // Tahitian < Reo Tahiti
     entry: [
         "{1} te hoê papai mata puai no te mau tupuraa {2} atoa. Haere mai i ta’u porifai {3} no te haapii atu â!",
         "Ia taui i to oe reo i maita’i, tono i te parau i raro nei ma te ohipa {4}",
@@ -18375,7 +18375,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Manara'a"]
 }),
-"tajik": () => ({
+"tajik": () => ({ // Tajik < тоҷикӣ < Tojikī < Tajiki
     entry: [
         "{1} як скрипти кушодаасос барои ҳар сенарияи {2} аст. Барои маълумоти бештар лутфан профили ман {3}-ро бинед!",
         "Барои иваз кардани забони интихобкардаатон, лутфан матни зеринро бо амали {4} ирсол кунед",
@@ -18459,7 +18459,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Хотираҳо"]
 }),
-"tajik (abc)": () => ({
+"tajik (abc)": () => ({ // Tajik < Romanized Tajik
     entry: [
         "{1} skripti kodi kushoda baroi har senariyoi {2} meboshad. Lutfan profili manro {3} tamosha kuned, to maʼlumothoi bishtar gired!",
         "Baroi tagyiri zaboni dilkhohi shumo, lutfan matni zeylro bo amali {4} irsol namoyed",
@@ -18542,7 +18542,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Hotiroha"]
 }),
-"tamil": () => ({
+"tamil": () => ({ // Tamil < தமிழ் < Tamiḻ < Thamizh
     entry: [
         "{1} என்பது எந்த {2} சூழலுக்கும் திறந்த மூல ஸ்கிரிப்ட் ஆகும். மேலும் அறிய எனது சுயவிவரம் {3} ஐ பார்வையிடவும்!",
         "உங்களுக்குப் பிடித்த மொழியை மாற்ற, கீழ்கண்ட உரையை {4} செயலைப் பயன்படுத்தி அனுப்பவும்",
@@ -18625,7 +18625,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "நினைவுகள்"]
 }),
-"tamil (abc)": () => ({
+"tamil (abc)": () => ({ // Tamil < Romanized Tamil
     entry: [
         "{1} oru open-source script idhu yedhāvadhu {2} paristhithikkum. Innum vilakkam therindhukolla en profile {3} sandhiththu!",
         "Unakku virumpiya mozhi-ai mātra, thodarndhu irukkum text-ai {4} seyal moolam anuppavum",
@@ -18708,7 +18708,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ninaivugal"]
 }),
-"tatar": () => ({
+"tatar": () => ({ // Tatar < татар теле < Tatar Tele < تاتار تئلئ
     entry: [
         "{1} - теләсә нинди {2} сәхнә өчен ачык чыганаклы скрипт. Тулырак мәгълүмат өчен {3} профиль битемә керегез!",
         "Өстен күргән телегезне алыштыру өчен, {4} гамәлен кулланып түбәндәге текстны җибәрегез",
@@ -18792,7 +18792,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Хатирәләр"]
 }),
-"tatar (abc)": () => ({
+"tatar (abc)": () => ({ // Tatar < Romanized Tatar
     entry: [
         "{1} teläse qayısı {2} sçenarij öçen açıq çığanaklı skript. Kübräk belü öçen profilgä {3} keregez!",
         "Östen kürgän telegezne üzgärtü öçen, zinhar, tübändäge tekstnı {4} xäräkät belän cibäregez",
@@ -18876,7 +18876,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xatirälär"]
 }),
-"telugu": () => ({
+"telugu": () => ({ // Telugu < తెలుగు
     entry: [
         "{1} ఒక తెరవిన మూల కోడ్ స్క్రిప్ట్, ఏ {2} సందర్భానికైనా సరిపోతుంది. మరింత తెలుసుకోవడానికి దయచేసి నా ప్రొఫైల్ {3} సందర్శించండి!",
         "మీకు ఇష్టమైన భాషను మార్చడానికి, దయచేసి క్రింది వచనాన్ని {4} చర్య ద్వారా సమర్పించండి",
@@ -18959,7 +18959,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "జ్ఞాపకాలు"]
 }),
-"telugu (abc)": () => ({
+"telugu (abc)": () => ({ // Telugu < Romanized Telugu
     entry: [
         "{1} oka open-source script ye {2} paristhiti kosam aina upayoginchavachu. Dayachesi na profile {3} choodandi mariyu ekkuva telusukondi!",
         "Mee ishtamaina bhaasha ni maaradaniki, dayachesi {4} action vaadukoni kinda unna text ni samarpinandi",
@@ -19042,7 +19042,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Gnaapakalu"]
 }),
-"thai": () => ({
+"thai": () => ({ // Thai < ภาษาไทย < Phasa Thai < Siamese < Central Thai
     entry: [
         "{1} เป็นสคริปต์โอเพ่นซอร์ซสำหรับทุกฉาก {2} โปรดเยี่ยมชมโปรไฟล์ของฉันที่ {3} เพื่อเรียนรู้เพิ่มเติม!",
         "หากต้องการเปลี่ยนภาษาที่คุณต้องการ โปรดส่งข้อความต่อไปนี้โดยใช้การดำเนินการ {4}",
@@ -19125,7 +19125,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ความทรงจำ"]
 }),
-"thai (abc)": () => ({
+"thai (abc)": () => ({ // Thai < Romanized Thai
     entry: [
         "{1} pen skrip open-source samrap thuk {2} scenarió. khɔ̌ɔ thiaw prɔ́fai khɔ̌ng chán {3} phɨ̂a rian rú pœ̂m!",
         "phɨ̂a plian phasǎa thîi khun chɔ̂p, khɔ̌ɔ sòng khwām khîan khâang nîi dūai kìtthakam {4}",
@@ -19208,7 +19208,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "khwām-jam"]
 }),
-"tibetan": () => ({
+"tibetan": () => ({ // Tibetan < བོད་སྐད་ < Bodskad < ལྷ་སའི་སྐད་ < Lhas'iskad < Standard Tibetan < Lhasa Tibetan
     entry: [
         "{1} ནི་ གང་རུང་གི {2} ལས་སྐབས་དང་མཐུན་པའི་ སྤྱི་སྤེལ་ཡིག་ཆ་ཞིག་ཡིན། ངའི་པར་ངོས {3} ལ་གནས་ནས་མང་བསུས་དགོས།",
         "ཁྱེད་ཀྱིས་སྐད་ཡིག་དགའ་གདམ་བརྗེ་བྱེད་དགོས་པར་ {4} བྱ་བའི་ཐབས་ལས་འོག་གྱི་ཚིག་ཡིག་འདི་སྤེལ་རོགས།",
@@ -19292,7 +19292,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "དམིགས་དྲན་"]
 }),
-"tibetan (abc)": () => ({
+"tibetan (abc)": () => ({ // Tibetan < Romanized Tibetan
     entry: [
         "{1} rang-thar gyi skrip yin, {2} gnas-skor gang la yang rung། nga’i profil {3} la gzigs nas rgyu mtshan gsal bar shog!",
         "Khyōd dga’ bcings pa’i skad-yig brje phyir, {4} byed-tshul ’di bcas te yig ’di gtang bar gsol།",
@@ -19376,7 +19376,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Dran-rjes"]
 }),
-"tigrinya": () => ({
+"tigrinya": () => ({ // Tigrinya < ትግርኛ < Təgrəñña < Tigrigna
     entry: [
         "{1} ብመፍትሕ ዝተዘጋገረ ስክሪፕት እዩ ንዓይነት {2} ስነ-ትካል። ተመልከት ፕሮፊልይ {3} ንምርዳእ ጎብዘኩ።",
         "ንምቕያር ቋንቋ ፍሉይኻ፣ እዚ ጽሑፍ ብተግባር {4} ኣቑሩ።",
@@ -19460,7 +19460,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "ዝኽራት"]
 }),
-"tigrinya (abc)": () => ({
+"tigrinya (abc)": () => ({ // Tigrinya < Romanized Tigrinya
     entry: [
         "{1} meqeme'a fetena script iyu n'kullu {2} senaryo. Bejaka wesidu profayli eye {3} kemzi yibel ghezye!",
         "Neh’lal k’alatika, bejaka hawsi qetsi k’t’ewi ab {4} action tesema’.",
@@ -19544,7 +19544,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Zikri"]
 }),
-"tonga": () => ({
+"tonga": () => ({ // Tonga < Lea Faka-Tonga < Tongan < Tonga Islands
     entry: [
         "{1} ko ha sikipi fakaava-mafalahi ki ha ngaahi tu‘unga {2} kotoa pe. Kataki ‘o mamata ki hoku profaile {3} ke ako lahi ange!",
         "Koe‘uhi ke fetongi ho‘o lea fili, kataki ‘o tuku atu ‘a e tohi ko ‘eni ‘aki ha ngāue {4}",
@@ -19627,7 +19627,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ngaahi manatu"]
 }),
-"traditional chinese": () => ({
+"traditional chinese": () => ({ // Traditional Chinese < 正體字 < 正体字 < Zhèngtǐzì < 繁體字 < Fántǐzì < 繁体字
     entry: [
         "{1} 是一個開源腳本，適用於任何 {2} 情境。請造訪我的個人頁面 {3} 以瞭解更多！",
         "若要變更您的偏好語言，請使用 {4} 動作提交下列文字",
@@ -19711,7 +19711,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "記憶"]
 }),
-"traditional chinese (abc)": () => ({
+"traditional chinese (abc)": () => ({ // Traditional Chinese < Romanized Traditional Chinese
     entry: [
         "{1} shì yī gè kāiyuán jiǎoběn, kěyǐ yìngduì rènhé {2} chǎngjǐng. Qǐng fǎngwèn wǒ de gèrén zhùyè {3} liǎojiě gèng duō!",
         "Rúguǒ xiǎng gēnggǎi nǐ de yǔyán xuǎnxiàng, qǐng yòng {4} cāozuò tíjiāo yīxià wénběn",
@@ -19795,7 +19795,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Jìyì"]
 }),
-"tsonga": () => ({
+"tsonga": () => ({ // Tsonga < Xitsonga
     entry: [
         "{1} i script ya open-source eka xiyimo xin'wana na xin'wana xa {2}. Ndza kombela u endzela profayili ya mina {3} leswaku u tiva swo tala!",
         "Ku cinca ririmi leri u ri pfuna, ndza kombela u rhumela rungula leri landzelaka u tirhisa xiendlo xa {4}",
@@ -19878,7 +19878,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Switsundzuxo"]
 }),
-"tswana": () => ({
+"tswana": () => ({ // Tswana < Setswana < Sechuana
     entry: [
         "{1} ke script ya open-source ya seemo sefe kapa sefe sa {2}. Tsweetswee etela profil ya me {3} go ithuta go le gontsi!",
         "Go fetola puo e o e ratang, tsweetswee romela mafoko a a latelang ka tiragatso ya {4}",
@@ -19961,7 +19961,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mehopolo"]
 }),
-"turkish": () => ({
+"turkish": () => ({ // Turkish < Türkçe < Türk Dili < Türkiye Türkçesi
     entry: [
         "{1}, herhangi bir {2} senaryosu için açık kaynaklı bir betiktir. Daha fazla bilgi için profilime {3} göz atın!",
         "Tercih ettiğiniz dili değiştirmek için lütfen aşağıdaki metni bir {4} eylemiyle gönderin",
@@ -20044,7 +20044,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Anılar"]
 }),
-"turkmen": () => ({
+"turkmen": () => ({ // Turkmen < Türkmençe < түркменче < تۆرکمنچه
     entry: [
         "{1} islendik {2} ssenariýasy üçin açyk çeşmeli skriptdir. Giňişleýin maglumat üçin profilime {3} baryp görüň!",
         "Saýlan diliňizi üýtgetmek üçin aşakdaky teksti {4} hereketi arkaly iberiň",
@@ -20128,7 +20128,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ýatlamalar"]
 }),
-"twi": () => ({
+"twi": () => ({ // Twi
     entry: [
         "{1} yɛ krataa-kwan a ɛda hɔ ma biribiara {2} sukuu. Mesrɛ kɔ me profaili {3} na hu adeɛ foforo!",
         "Sɛ wopɛ sɛ wosesa kasa a wopɛ so a, fa nsɛntitiriw yi brɛ so de {4} dwumadi",
@@ -20211,7 +20211,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Akae"]
 }),
-"uighur": () => ({
+"uighur": () => ({ // Uighur < ئۇيغۇر تىلى < Uyghur < уйғур тили < Uyƣur Tili
     entry: [
         "{1} ھەر قانداق {2} سەھنىسىگە ماس كېلىدىغان ئوچۇق مەنبە سكرىپت. تېخىمۇ كۆپ بىلمەكچى بولسىڭىز پروفىلىمغا {3} زىيارەت قىلىڭ!",
         "تاللايدىغان تىلىڭىزنى ئۆزگەرتىش ئۈچۈن، بۇ تۆۋەندە كۆرسىتىلگەن تېكىستنى {4} ھەرىكىتى ئارقىلىق يوللاڭ",
@@ -20295,7 +20295,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "خاتىرە"]
 }),
-"uighur (abc)": () => ({
+"uighur (abc)": () => ({ // Uighur < Romanized Uighur
     entry: [
         "{1} herqandaq {2} senariyé üchün achiq kodlik skript. Köpräk biliş üchün profilimni {3} ziyarət qiliñ!",
         "Talap qilğan tilingizni özgertish üchün, iltimas {4} herekitini ishlitip töwendiki metinni tapshuruñ",
@@ -20379,7 +20379,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xatiriler"]
 }),
-"ukrainian": () => ({
+"ukrainian": () => ({ // Ukrainian < українська < Ukraїnska
     entry: [
         "{1} — це скрипт з відкритим кодом для будь-якого сценарію {2}. Завітайте до мого профілю {3}, щоб дізнатися більше!",
         "Щоб змінити бажану мову, надішліть наведений текст, використовуючи дію {4}",
@@ -20463,7 +20463,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Спогади"]
 }),
-"ukrainian (abc)": () => ({
+"ukrainian (abc)": () => ({ // Ukrainian < Romanized Ukrainian
     entry: [
         "{1} — tse vidkrytyi skript dlia bud-iakoiu sytuatsii {2}. Vidvidai moi profil {3}, shchob dізnatysia bilshe!",
         "Shchob zminyty bazhovanu movu, nadishly nastupnyi tekst vykorystovuiuchy diju {4}",
@@ -20547,7 +20547,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Spohady"]
 }),
-"urdu": () => ({
+"urdu": () => ({ // Urdu < اُردُو < Urduw
     entry: [
         "{1} ایک اوپن سورس اسکرپٹ ہے جو کسی بھی {2} منظرنامے کیلئے استعمال ہو سکتا ہے۔ مزید جاننے کیلئے میری پروفائل {3} ملاحظہ کریں!",
         "اپنی پسندیدہ زبان تبدیل کرنے کیلئے، براہِ کرم درج ذیل متن کو {4} کارروائی کے ذریعے جمع کرائیں",
@@ -20630,7 +20630,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "یادیں"]
 }),
-"urdu (abc)": () => ({
+"urdu (abc)": () => ({ // Urdu < Romanized Urdu
     entry: [
         "{1} ek khula-source script hai kisi bhi {2} manzar ke liye. Mazeed jaanne ke liye mera profile {3} dekhein!",
         "Apni pasandeeda zaban badalne ke liye, barah-e-karam neeche diya gaya matn ek {4} action ke zariye bhejein",
@@ -20713,7 +20713,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Yaadein"]
 }),
-"uzbek": () => ({
+"uzbek": () => ({ // Uzbek < ózbekça < ўзбекча < ئوزبېچه
     entry: [
         "{1} istalgan {2} ssenariyasi uchun ochiq manbali skript. Qo'shimcha ma'lumot uchun profilimga {3} tashrif buyuring!",
         "Tanlangan tilingizni o‘zgartirish uchun, quyidagi matnni {4} harakati orqali yuboring",
@@ -20797,7 +20797,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xotiralar"]
 }),
-"valley girl": () => ({
+"valley girl": () => ({ // Valley Girl
     entry: [
         "{1} is, like, this totally open-source script for, you know, any {2} scenario. Swing by my profile {3} to, like, find out more!",
         "If you wanna, like, switch your fave language, just send this text with a {4} action, ok?",
@@ -20880,7 +20880,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memories"]
 }),
-"venda": () => ({
+"venda": () => ({ // Venda < Tshivenḓa < Tshivenda
     entry: [
         "{1} ndi scriptu ya bulus-sosi ya nga shumiselwa vhuimo hoṅwe na hoṅwe ha {2}. Ndapota dalani profaele yanga {3} u ḓivha zwo engedzeaho!",
         "U shandula luambo lweno lu takalaho, ndapota tumelani mafhungo a tevhelaho ni tshi shumisa nḓivho ya {4}",
@@ -20963,7 +20963,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Zwikhumbulo"]
 }),
-"vietnamese": () => ({
+"vietnamese": () => ({ // Vietnamese < Tiếng Việt
     entry: [
         "{1} là một kịch bản mã nguồn mở cho bất kỳ bối cảnh {2} nào. Hãy ghé thăm hồ sơ của tôi {3} để tìm hiểu thêm!",
         "Để thay đổi ngôn ngữ ưa thích của bạn, hãy gửi đoạn văn sau bằng hành động {4}",
@@ -21046,7 +21046,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ký ức"]
 }),
-"volapuk": () => ({
+"volapuk": () => ({ // Volapuk < Volapük
     entry: [
         "{1} binon pened flök-lautöpik pro vöds {2} valik. Begob ol visidön profil obik {3} ad balsalön plu!",
         "Ad votükön pük prefik olik, begob ol posidön tekst at geblö! me geb {4}",
@@ -21129,7 +21129,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Memobs"]
 }),
-"walloon": () => ({
+"walloon": () => ({ // Walloon < Walon
     entry: [
         "{1} est on scripe a côde sourte libe po todi kén tipe di scenårê {2}. Vos plait d' aler vey mi profiy {3} po n' saver di pus !",
         "Po candjî l' lingaedje k' vos preferoz, s’ i vs plait, evoyîz li tecse ci avou on accion {4}",
@@ -21213,7 +21213,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Mémweres"]
 }),
-"welsh": () => ({
+"welsh": () => ({ // Welsh < Cymraeg
     entry: [
         "{1} yw sgript cod agored ar gyfer unrhyw senario {2}. Ewch i fy mhroffil {3} i ddysgu mwy!",
         "Er mwyn newid eich iaith ddewisol, cyflwynwch y testun canlynol gan ddefnyddio gweithred {4}",
@@ -21296,7 +21296,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Atgofion"]
 }),
-"western frisian": () => ({
+"western frisian": () => ({ // Western Frisian < Frysk < Frisian < Fries
     entry: [
         "{1} is in iepen-boarne skript foar elke {2}-senario. Besykje asjebleaft myn profyl {3} om mear te learen!",
         "Om jo foarkarstaal te feroarjen, stjoer asjebleaft de folgjende tekst mei in {4}-aksje",
@@ -21379,7 +21379,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Oantinkens"]
 }),
-"wolof": () => ({
+"wolof": () => ({ // Wolof < وࣷلࣷفْ
     entry: [
         "{1} mooy skrip bu ubbiku ngir bépp senaryo {2}. Ndax man nga dem ci sama profil {3} ngir gën a xam!",
         "Ngir soppi sa lakk bu la bëgg, jox mbind mi ci kaw jëfandikoo doxalin {4}.",
@@ -21462,7 +21462,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Xasuwey"]
 }),
-"xhosa": () => ({
+"xhosa": () => ({ // Xhosa < Isixhosa < Xosa
     entry: [
         "{1} yiskripthi yomthombo ovulekileyo kuyo nayiphi na imeko ye-{2}. Nceda undwendwele iprofayile yam {3} ukuze ufunde ngakumbi!",
         "Ukutshintsha ulwimi olukhethileyo, nceda ngenisa lo mbhalo ulandelayo usebenzisa intshukumo ye-{4}",
@@ -21545,7 +21545,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Iinkumbulo"]
 }),
-"yiddish": () => ({
+"yiddish": () => ({ // Yiddish < ייִדיש < Yidiš < Judeo-German
     entry: [
         "{1} איז אַן אָפֿן־קאָד שריפט פֿאַר יעדן {2} סצענאַר. ביטע באַזוכט מײַן פּראָפֿיל {3} כּדי צו לערנען מער!",
         "צו טוישן אײַער באַליבטע שפּראַך, ביטע שיקט דעם ווײַטערדיקן טעקסט דורך אַ {4} אַקציע",
@@ -21629,7 +21629,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "זכּרונות"]
 }),
-"yiddish (abc)": () => ({
+"yiddish (abc)": () => ({ // Yiddish < Romanized Yiddish
     entry: [
         "{1} iz an opn-sors skript far yedn {2}-tsenario. Bitte bashuk mayn profil {3} tsu lernen mer!",
         "Tsu iberklapn dayn bevorzugte shprak, farmel dem folgenden tekst mit a {4}-aktsye",
@@ -21712,7 +21712,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Zikornes"]
 }),
-"yoruba": () => ({
+"yoruba": () => ({ // Yoruba < èdè Yorùbá
     entry: [
         "{1} jẹ́ àkọsílẹ̀ orísun-ṣíṣe fún gbogbo àgbékalẹ̀ {2}. Ẹ jọ̀wọ́ ṣàbẹ̀wò sí profaili mi {3} láti mọ̀ sí i!",
         "Láti yí èdè àyẹ̀wọ̀ yín padà, ẹ jọ̀wọ́ fi ọ̀rọ̀ yìí ránṣẹ́ pẹ̀lú ìgbésẹ {4}",
@@ -21795,7 +21795,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ìrántí"]
 }),
-"zhuang": () => ({
+"zhuang": () => ({ // Zhuang < Chuang < 話僮 < Vahcuengh
     entry: [
         "{1} dwg bouxbwnq open-source aeu gwnz bae goengq {2}. Caux bouxneix haeuj go maenh {3} aeu roengz bouxfat!",
         "Laj mbouj loengq ciengq hwnj neix yawj, faz ok {4} aeu song boux heuh ndaw bae.",
@@ -21878,7 +21878,7 @@ Please suggest changes for any of these translations so we can improve LoLa for 
     ],
     memBankHeader: ["Memories", "Ngekyez"]
 }),
-"zulu": () => ({
+"zulu": () => ({ // Zulu < Isizulu
     entry: [
         "{1} iyiskripthi yomthombo ovulekile kunoma yisiphi isimo se-{2}. Sicela uvakashele iphrofayela yami {3} ukuze ufunde okwengeziwe!",
         "Ukuze ushintshe ulimi olukhethile, sicela uthumele lo mbhalo olandelayo usebenzisa isenzo se-{4}",
