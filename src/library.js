@@ -23934,7 +23934,7 @@ function AutoCards(inHook, inText, inStop) {
     // (true or false)
     ,
     // Minimum number of turns in between automatic card generation events?
-    DEFAULT_CARD_CREATION_COOLDOWN: 40
+    DEFAULT_CARD_CREATION_COOLDOWN: 32
     // (0 to 9999)
     ,
     // Use a bulleted list format for newly generated card entries?
