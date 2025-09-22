@@ -344,9 +344,11 @@ modifier(text);
 <summary>Expand to learn why step 20 matters so much ℹ️</summary>
 ​
 
-LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. There is simply no other way for it to determine the player's language, so I strongly recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component.
+LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. Therefore I strongly recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component.
 
-Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. It dramatically simplifies communication and prevents confusion. As a Creator myself, I strongly believe a seamless user experience is the _most important thing_ for successful scenarios. That is my personal opinion.
+Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. And, if there's one thing I've learned from AI Dungeon players, it's that virtually no one reads the description. And that may be especially true for the players we're trying to help here.
+
+Anyway, using this placeholder dramatically simplifies usage and prevents confusion. As a Creator myself, I strongly believe seamless user experiences are the _most important factor_ for highly successful scenarios. That's my personal opinion.
 </details>
 
 ## Useful Links
