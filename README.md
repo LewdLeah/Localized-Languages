@@ -346,7 +346,7 @@ modifier(text);
 
 TL;DR - It's about effective communication, seamless user experiences, and good alignment between player expectations and actual scenario gameplay.
 
-LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. Therefore, I _strongly_ recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, or the bottom, or anywhere in-between.
+LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. Therefore, I _strongly_ recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, bottom, or anywhere in-between. Your choice.
 
 Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. And, if there's one thing I've learned from AI Dungeon players, it's that virtually no one reads the description. And that may be especially true for the players we're trying to help the most here.
 
