@@ -352,7 +352,7 @@ Players of published works aren't going to understand this on their own, so it's
 
 Anyway, including this placeholder _dramatically_ simplifies usage and prevents confusion. As a Creator myself, I strongly believe a seamless user experience is the _most important characteristic_ of highly successful AI Dungeon scenarios. That's my personal opinion.
 
-Genuinely...and I mean this with kindness: __Assume players know nothing.__ So make things easy for them. Think of it as yet another dimension to accessibility. Simplicity and ease of use are key!
+Genuinely...and I mean this with kindness: __Assume players know nothing.__ So make things easy for them. Think of it as yet another dimension to accessibility. Simplicity and convenience are key, because above all else, AI Dungeon players expect things to work on their own.
 
 Thanks for listening, sorry about the excessive wall of text. 😅
 </details>
