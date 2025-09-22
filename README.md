@@ -342,7 +342,7 @@ modifier(text);
 
 <details>
 <summary>Expand to learn why step 20 matters so much</summary>
- 
+​
 
 LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. There is simply no other way for it to determine the player's language, so I strongly recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component.
 
