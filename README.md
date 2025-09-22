@@ -340,7 +340,7 @@ modifier(text);
 20. When publishing scenarios, add `{Language: ${Select your language or leave empty:}}` to the Opening
 21. Step 20 is optional, but still VERY important! (defaults to English if blank) ❤️
 
-Seriously though, LoLa relies on step 20 (or step 19) to identify the requested language. There is simply no other way for it to determine the player's language, so I strongly recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component. Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to provide this option for them. It dramatically simplifies communication and prevents confusion.
+Seriously though, LoLa relies on step 20 (or step 19) to identify the requested language. There is simply no other way for it to determine the player's language, so I strongly recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component. Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. It dramatically simplifies communication and prevents confusion. As a Creator myself, I strongly believe a seamless user experience is the _most important thing_ for successful scenarios.
 ## Useful Links
 ### Simple demo scenario
 - [Localized Languages](https://play.aidungeon.com/scenario/AX2nXYIPzcKd/localized-languages)
