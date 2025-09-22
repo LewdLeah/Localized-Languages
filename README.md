@@ -338,7 +338,7 @@ modifier(text);
 18. Click the big yellow `SAVE` button in the top right corner
 19. If using LoLa privately, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
 20. If creating published scenarios for others, paste `{Language: ${Select your language:}}` into the Opening
-21. Embark on fun adventures! ❤️
+21. Steps 19 and 20 are optional, yes, but still very important! Now embark on fun adventures! ❤️
 ## Useful Links
 ### Simple demo scenario
 - [Localized Languages](https://play.aidungeon.com/scenario/AX2nXYIPzcKd/localized-languages)
