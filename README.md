@@ -344,7 +344,7 @@ modifier(text);
 <summary>Expand to learn why step 20 matters so much ℹ️</summary>
 ​
 
-TL;DR - It's about effective communication, seamless user experiences, and alignment between player expectations and actual scenario gameplay.
+TL;DR - It's about effective communication, seamless user experiences, and good alignment between player expectations and actual scenario gameplay.
 
 LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. Therefore, I _strongly_ recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, or the bottom, or anywhere in-between.
 
