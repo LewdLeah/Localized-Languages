@@ -336,8 +336,8 @@ modifier(text);
 - [Library code](./src/library.js)
 17. Copy the *full* code from the page above and paste into your empty `Library` tab
 18. Click the big yellow `SAVE` button in the top right corner
-19. If using LoLa privately, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
-20. If publishing scenarios for others, paste `{Language: ${Select your language or leave empty:}}` into the Opening
+19. For private/personal use, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
+20. When publishing scenarios, paste `{Language: ${Select your language or leave empty:}}` into the Opening
 21. Steps 20 is optional, yes, but still very important! (defaults to English if blank) ❤️
 ## Useful Links
 ### Simple demo scenario
