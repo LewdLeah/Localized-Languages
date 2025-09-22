@@ -342,6 +342,7 @@ modifier(text);
 
 <details>
 <summary>"But Leah, WHY does step 20 matter?" I'm glad you asked:<summary>
+
 LoLa _relies_ on step 20 (or step 19) in order to identify the requested language. There is simply no other way for it to determine the player's language, so I strongly recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component. Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. It dramatically simplifies communication and prevents confusion. As a Creator myself, I strongly believe a seamless user experience is the _most important thing_ for successful scenarios. That is my personal opinion.
 </details>
 ## Useful Links
