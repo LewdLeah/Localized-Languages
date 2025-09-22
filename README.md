@@ -340,7 +340,7 @@ modifier(text);
 20. When publishing scenarios, add `{Language: ${Select your language or leave empty:}}` to the Opening
 21. Step 20 is optional, but still VERY important! (defaults to English if blank) ❤️
 
-<small>Seriously though, LoLa relies on step 20 (or step 19) to identify the requested language!</small>
+<sub>Seriously though, LoLa relies on step 20 (or step 19) to identify the requested language!</sub>
 ## Useful Links
 ### Simple demo scenario
 - [Localized Languages](https://play.aidungeon.com/scenario/AX2nXYIPzcKd/localized-languages)
