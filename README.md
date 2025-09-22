@@ -336,7 +336,7 @@ modifier(text);
 - [Library code](./src/library.js)
 17. Copy the *full* code from the page above and paste into your empty `Library` tab
 18. Click the big yellow `SAVE` button in the top right corner
-19. If using LoLa inside an existing adventure, submit `{Language: ???}` using Do/Say/Story (replace "???" with your language)
+19. If using LoLa privately, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
 20. If creating published scenarios for others, paste `{Language: ${Select your language:}}` into the Opening
 21. Embark on fun adventures! ❤️
 ## Useful Links
