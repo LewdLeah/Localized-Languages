@@ -23575,7 +23575,7 @@ function LocalizedLanguages(hook, str) {
                 tln.entry[1].replace("{4}", "Do/Say/Story") + ":",
                 "{Language: ???}",
                 tln.entry[2] + ":",
-                "{Language: ${Select your language:}}"
+                "{Language: ${Select your language or leave empty:}}"
             ].join("\n\n"), "class", name, Object.keys(factories).sort((a, b) => {
                 // English must be the first language
                 if (a === en) {
