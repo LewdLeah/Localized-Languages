@@ -272,7 +272,7 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 </details>
 
 ## Gameplay Suggestions
-- Dear Creators, please paste `{Language: ${Select your language:}}` into your scenario Opening!
+- Dear Creators, please paste `{Language: ${Select your language or leave empty:}}` into your scenario Opening!
 - Adventure quality varies between different AI models, so try multiple
 - Quality also varies between different languages, especially rare ones
 - Use a response length of 200 tokens for the best results
@@ -337,7 +337,7 @@ modifier(text);
 17. Copy the *full* code from the page above and paste into your empty `Library` tab
 18. Click the big yellow `SAVE` button in the top right corner
 19. If using LoLa privately, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
-20. If creating published scenarios for others, paste `{Language: ${Select your language:}}` into the Opening
+20. If creating published scenarios for others, paste `{Language: ${Select your language or leave empty:}}` into the Opening
 21. Steps 20 is optional, yes, but still very important! (defaults to English if blank) ❤️
 ## Useful Links
 ### Simple demo scenario
