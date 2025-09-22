@@ -339,6 +339,7 @@ modifier(text);
 19. For private/personal use, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
 20. When publishing scenarios, add `{Language: ${Select your language or leave empty:}}` to the Opening
 21. Step 20 is optional, but still VERY important! (defaults to English if blank) ❤️
+
 <small>Seriously though, LoLa relies on step 20 (or step 19) to identify the requested language!</small>
 ## Useful Links
 ### Simple demo scenario
