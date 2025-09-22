@@ -350,9 +350,11 @@ LoLa _relies_ on step 20 (or step 19) in order to correctly identify the request
 
 Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. And, if there's one thing I've learned from AI Dungeon players, it's that virtually no one reads the description. And that may be especially true for the players we're trying to help the most here.
 
-Anyway, including this placeholder _dramatically_ simplifies usage and prevents confusion. As a Creator myself, I strongly believe seamless user experiences are the _most important element_ of highly successful scenarios. That's my personal opinion, and it has served me well.
+Anyway, including this placeholder _dramatically_ simplifies usage and prevents confusion. As a Creator myself, I strongly believe seamless user experiences are the _most important characteristic_ of highly successful AI Dungeon scenarios. That's my personal opinion.
 
-Genuinely, and I do mean this with kindness: Assume players know nothing. So make things easy for them. Simplicity and ease of use are key.
+Genuinely...and I mean this with kindness: __Assume players know nothing.__ So make things easy for them. Think of it as another dimension to accessabillity. Simplicity and ease of use are key.
+
+Thanks for listening, sorry about the excessive wall of text. 😅
 </details>
 
 ## Useful Links
