@@ -338,7 +338,7 @@ modifier(text);
 18. Click the big yellow `SAVE` button in the top right corner
 19. For private/personal use, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
 20. When publishing scenarios, add `{Language: ${Select your language or leave empty:}}` to the Opening
-21. Steps 20 is optional, yes, but still very important! (defaults to English if blank) ❤️
+21. Step 20 is optional, but still VERY important! (defaults to English if blank) ❤️
 ## Useful Links
 ### Simple demo scenario
 - [Localized Languages](https://play.aidungeon.com/scenario/AX2nXYIPzcKd/localized-languages)
