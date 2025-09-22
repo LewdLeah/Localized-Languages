@@ -344,13 +344,13 @@ modifier(text);
 <summary>Expand to learn why step 20 matters so much ℹ️</summary>
 ​
 
-TL;DR - It's about effective communication, seamless user experiences, and good alignment between player expectations and actual scenario gameplay.
+TL;DR - It's about effective communication, a seamless user experience, and good alignment between player expectations and actual scenario gameplay.
 
 LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. Therefore, I _strongly_ recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, bottom, or anywhere in-between. Your choice.
 
 Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. And, if there's one thing I've learned from AI Dungeon players, it's that virtually no one reads the description. And that may be especially true for the players we're trying to help the most here.
 
-Anyway, including this placeholder _dramatically_ simplifies usage and prevents confusion. As a Creator myself, I strongly believe seamless user experiences are the _most important characteristic_ of highly successful AI Dungeon scenarios. That's my personal opinion.
+Anyway, including this placeholder _dramatically_ simplifies usage and prevents confusion. As a Creator myself, I strongly believe a seamless user experience is the _most important characteristic_ of highly successful AI Dungeon scenarios. That's my personal opinion.
 
 Genuinely...and I mean this with kindness: __Assume players know nothing.__ So make things easy for them. Think of it as yet another dimension to accessibility. Simplicity and ease of use are key!
 
