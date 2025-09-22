@@ -23563,7 +23563,7 @@ function LocalizedLanguages(hook, str) {
     const language = (() => {
         // Simplify the choice string for more fault-tolerant comparison
         const choice = formatLanguage(languageMatch[1]);
-        if (choice === "") {
+        if (choice.length < 2) {
             // Empty choice defaults to the scenario creator's intended language
             if (typeof S.SCENARIO_CONTENT_LANGUAGE !== "string") {
                 return en;
