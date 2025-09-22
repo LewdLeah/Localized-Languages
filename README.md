@@ -341,7 +341,7 @@ modifier(text);
 21. Step 20 is optional, but still VERY important! (defaults to English if blank) ❤️
 
 <details>
-<summary>Expand to learn why step 20 matters so much</summary>
+<summary>Expand to learn why step 20 matters so much ℹ️</summary>
 ​
 
 LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. There is simply no other way for it to determine the player's language, so I strongly recommend including `{Language: ${Select your language or leave empty:}}` anywhere within your scenario's Opening plot component.
