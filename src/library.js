@@ -51,7 +51,7 @@ globalThis.MainSettings = (class MainSettings {
         // (true or false)
         ,
         // Pin the "Configure Auto-Cards" story card at the top of the player's story cards list?
-        DEFAULT_PIN_CONFIGURE_CARD: false
+        DEFAULT_PIN_CONFIGURE_CARD: true
         // (true or false)
         ,
         // Minimum number of turns in between automatic card generation events?
@@ -23930,7 +23930,7 @@ function AutoCards(inHook, inText, inStop) {
     // (true or false)
     ,
     // Pin the "Configure Auto-Cards" story card at the top of the player's story cards list?
-    DEFAULT_PIN_CONFIGURE_CARD: false
+    DEFAULT_PIN_CONFIGURE_CARD: true
     // (true or false)
     ,
     // Minimum number of turns in between automatic card generation events?
