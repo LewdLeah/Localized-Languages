@@ -23479,7 +23479,7 @@ function LocalizedLanguages(hook, str) {
             if (str !== reminded) {
                 return reminded;
             }
-            // If no Author's Note exist, introduce a less intrusive reminder
+            // If no Author's Note exists, introduce a less intrusive reminder
             const note = "\n[ " + tln.reminder + " ]\n";
             // Append the reminder note to the end of context during suboptimal fallback events
             const endNote = () => str.trimEnd() + note;
