@@ -25,7 +25,9 @@ Please suggest changes for any of these translations so we can improve LoLa for 
         "\"Are you sure about this?\" you hear. Recognition dawns upon you."
     ],
     reminder: "Use coherent english prose.",
-    endonyms: [],
+    endonyms: [
+        "british", "british english", "us", "us english", "american", "american english", "empty", "leave empty", "none", "blank", "idk", "any", "unknown", "normal", "what", "vanilla", "regular", "language", "standard", "skip", "pass"
+    ],
     iso639set1: "en",
     directives: [
         "Always write fluent and consistent english.",
