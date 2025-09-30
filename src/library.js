@@ -3,7 +3,7 @@
 /*
 Main control panel for scenario creator convenience
 Settings defined here will override their counterparts elsewhere
-Most Auto-Cards and Localized Languages settings are included
+Most AC and Localized Languages settings are included
 Safe to delete
 */
 globalThis.MainSettings = (class MainSettings {
@@ -37,14 +37,14 @@ globalThis.MainSettings = (class MainSettings {
     //—————————————————————————————————————————————————————————————————————————————————
 
     /*
-    Auto-Cards
+    AC
     Made by LewdLeah on May 21, 2025
     This AI Dungeon script automatically creates and updates plot-relevant story cards while you play
     General-purpose usefulness and compatibility with other scenarios/scripts were my design priorities
-    Auto-Cards is fully open-source, please copy for use within your own projects! ❤️
+    AC is fully open-source, please copy for use within your own projects! ❤️
     */
-    static AutoCards = {
-        // Is Auto-Cards already enabled when the adventure begins?
+    static AC = {
+        // Is AC already enabled when the adventure begins?
         DEFAULT_DO_AC: false
         // (true or false)
         ,
@@ -155,8 +155,14 @@ globalThis.MainSettings = (class MainSettings {
     //—————————————————————————————————————————————————————————————————————————————————
 
     #config;
-    constructor(script) {
-        this.#config = MainSettings.hasOwnProperty(script) ? MainSettings[script] : null;
+    constructor(script, alternative) {
+        this.#config = (
+            MainSettings.hasOwnProperty(script)
+            ? MainSettings[script]
+            : ((typeof alternative === "string") && MainSettings.hasOwnProperty(alternative))
+            ? MainSettings[alternative]
+            : null
+        );
         return this;
     }
     merge(settings) {
@@ -623,7 +629,9 @@ function LocalizedLanguages(hook, str) {
                 "\"Are you sure about this?\" you hear. Recognition dawns upon you."
             ],
             reminder: "Use coherent english prose.",
-            endonyms: [],
+            endonyms: [
+                "british", "british english", "us", "us english", "american", "american english", "empty", "leave empty", "none", "blank", "idk", "any", "unknown", "normal", "what", "vanilla", "regular", "language", "standard", "skip", "pass"
+            ],
             iso639set1: "en",
             directives: [
                 "Always write fluent and consistent english.",
@@ -22587,7 +22595,7 @@ function LocalizedLanguages(hook, str) {
     // Main settings override local settings
     const mergeSettings = () => {
         if (typeof globalThis.MainSettings === "function") {
-            new MainSettings("LocalizedLanguages").merge(S);
+            new MainSettings("LocalizedLanguages", "LoLa").merge(S);
         }
         return;
     };
@@ -22695,7 +22703,7 @@ function LocalizedLanguages(hook, str) {
         mergeSettings();
         // Construct a named story card to display some dev tool content
         const toDevToolCard = (name, content) => (
-            addStoryCard(name, "See the notes section below.", "class", name, content)
+            addStorye, "See the notes section below.", "class", name, content)
         );
         // Decide if the given dev tool should be executed during adventure startup
         const skipDevTool = (config) => [S.USE_ALL_DEV_TOOLS, config].every(c => untrue(c));
@@ -23583,10 +23591,10 @@ function LocalizedLanguages(hook, str) {
                 }
                 // Alphabetize the remaining languages
                 return a.localeCompare(b);
-            }).map(language => ([language, ...translations[language].endonyms]
-                .map(lang => capitalize(lang))
-                .join(" / ")
-            )).join("\n\n"));
+            }).map(language => ([
+                language,
+                ...((language === en) ? [] : translations[language].endonyms)
+            ].map(lang => capitalize(lang)).join(" / "))).join("\n\n"));
             i = getCardIndex();
             if ((0 < i) && (i < storyCards.length)) {
                 // Move the info card to the front of the array for clear visibility
@@ -24410,7 +24418,7 @@ function AutoCards(inHook, inText, inStop) {
     text = ((typeof text === "string") && text) || "\n";
     // Main settings override local settings
     if (typeof globalThis.MainSettings === "function") {
-        new MainSettings("AutoCards").merge(S);
+        new MainSettings("AutoCards", "AC").merge(S);
     }
     // Container for the persistent state of AutoCards
     const AC = (function() {
