@@ -451,7 +451,9 @@ function LocalizedLanguages(hook, str) {
                 "\"Are you sure about this?\" you hear. Recognition dawns upon you."
             ],
             reminder: "Use coherent english prose.",
-            endonyms: [],
+            endonyms: [
+                "british", "british english", "us", "us english", "american", "american english", "empty", "leave empty", "none", "blank", "idk", "any", "unknown", "normal", "what", "vanilla", "regular", "language", "standard", "skip", "pass"
+            ],
             iso639set1: "en",
             directives: [
                 "Always write fluent and consistent english.",
@@ -22415,7 +22417,7 @@ function LocalizedLanguages(hook, str) {
     // Main settings override local settings
     const mergeSettings = () => {
         if (typeof globalThis.MainSettings === "function") {
-            new MainSettings("LocalizedLanguages").merge(S);
+            new MainSettings("LocalizedLanguages", "LoLa").merge(S);
         }
         return;
     };
@@ -23411,10 +23413,10 @@ function LocalizedLanguages(hook, str) {
                 }
                 // Alphabetize the remaining languages
                 return a.localeCompare(b);
-            }).map(language => ([language, ...translations[language].endonyms]
-                .map(lang => capitalize(lang))
-                .join(" / ")
-            )).join("\n\n"));
+            }).map(language => ([
+                language,
+                ...((language === en) ? [] : translations[language].endonyms)
+            ].map(lang => capitalize(lang)).join(" / "))).join("\n\n"));
             i = getCardIndex();
             if ((0 < i) && (i < storyCards.length)) {
                 // Move the info card to the front of the array for clear visibility
