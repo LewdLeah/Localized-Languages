@@ -22703,7 +22703,7 @@ function LocalizedLanguages(hook, str) {
         mergeSettings();
         // Construct a named story card to display some dev tool content
         const toDevToolCard = (name, content) => (
-            addStorye, "See the notes section below.", "class", name, content)
+            addStoryCard(name, "See the notes section below.", "class", name, content)
         );
         // Decide if the given dev tool should be executed during adventure startup
         const skipDevTool = (config) => [S.USE_ALL_DEV_TOOLS, config].every(c => untrue(c));
