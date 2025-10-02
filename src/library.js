@@ -11,7 +11,7 @@ globalThis.MainSettings = (class MainSettings {
     //—————————————————————————————————————————————————————————————————————————————————
 
     /*
-    Localized Languages (LoLa)
+    Localized Languages (LoLa) v1.0.1
     Made by LewdLeah on August 13, 2025
     This script allows players to enjoy AI Dungeon adventures in their preferred languages
     English-speaking scenario creators may appreciate the improved audience reach
@@ -179,7 +179,7 @@ globalThis.MainSettings = (class MainSettings {
 //—————————————————————————————————————————————————————————————————————————————————————
 
 /*
-Localized Languages (LoLa)
+Localized Languages (LoLa) v1.0.1
 Made by LewdLeah on August 13, 2025
 This script allows players to enjoy AI Dungeon adventures in their preferred languages
 English-speaking scenario creators may appreciate the improved audience reach
@@ -23573,7 +23573,7 @@ function LocalizedLanguages(hook, str) {
             // Create an alphabetical list of language names / endonyms in the info card notes
             addStoryCard(name, [
                 (tln.entry[0]
-                    .replace("{1}", "Localized Languages (LoLa) v1.0.0")
+                    .replace("{1}", "Localized Languages (LoLa) v1.0.1")
                     .replace("{2}", "AI Dungeon")
                     .replace("{3}", "@LewdLeah")
                 ) + " ❤️",
