@@ -1,7 +1,7 @@
 // Your "Library" tab should look like this
 
 /*
-Localized Languages (LoLa) v1.0.1
+Localized Languages (LoLa) v1.0.2
 Made by LewdLeah on August 13, 2025
 This script allows players to enjoy AI Dungeon adventures in their preferred languages
 English-speaking scenario creators may appreciate the improved audience reach
@@ -23395,7 +23395,7 @@ function LocalizedLanguages(hook, str) {
             // Create an alphabetical list of language names / endonyms in the info card notes
             addStoryCard(name, [
                 (tln.entry[0]
-                    .replace("{1}", "Localized Languages (LoLa) v1.0.1")
+                    .replace("{1}", "Localized Languages (LoLa) v1.0.2")
                     .replace("{2}", "AI Dungeon")
                     .replace("{3}", "@LewdLeah")
                 ) + " ❤️",
@@ -23662,7 +23662,7 @@ function LocalizedLanguages(hook, str) {
         // Ban the language name and endonyms from card generation
         api.setBannedTitles([
             capitalize(LoLa.language),
-            ...tln.endonyms.map(endonym => capitalize(endonym)),
+            ...((LoLa.language === en) ? [] : tln.endonyms.map(endonym => capitalize(endonym))),
             "Language",
             ...api.getBannedTitles(),
         ]);
