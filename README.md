@@ -272,7 +272,7 @@ Localized Languages (LoLa) is a context overhaul script for playing AI Dungeon i
 </details>
 
 ## Gameplay Suggestions
-- Dear Creators, please add `{Language: ${State your (real) preferred language or leave empty:}}` to your scenario Opening!
+- Dear Creators, please add `{Language: ${Select your (real) language or leave empty:}}` to your scenario Opening!
 - Adventure quality varies between different AI models, so try multiple
 - Quality also varies between different languages, especially rare ones
 - Use a response length of 200 tokens for the best results
@@ -337,7 +337,7 @@ modifier(text);
 17. Copy the *full* code from the page above and paste into your empty `Library` tab
 18. Click the big yellow `SAVE` button in the top right corner
 19. For private/personal use, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
-20. When publishing scenarios, add `{Language: ${State your (real) preferred language or leave empty:}}` to the Opening
+20. When publishing scenarios, add `{Language: ${Select your (real) language or leave empty:}}` to the Opening
 21. Step 20 is optional, but still VERY important! (defaults to English if blank) ❤️
 
 <details>
@@ -346,7 +346,7 @@ modifier(text);
 
 TL;DR - It's about effective communication, a seamless user experience, and good alignment between player expectations and actual scenario gameplay.
 
-LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. If your scenario lacks this placeholder, then the script simply defaults to English every time, because it can't read the player's mind. Think of the {Language: ...} thingy like a command; it's how the script detects which language to engage, behind the scenes. Therefore, I _strongly_ recommend including `{Language: ${State your (real) preferred language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, bottom, or anywhere in-between. Your choice.
+LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. If your scenario lacks this placeholder, then the script simply defaults to English every time, because it can't read the player's mind. Think of the {Language: ...} thingy like a command; it's how the script detects which language to engage, behind the scenes. Therefore, I _strongly_ recommend including `{Language: ${Select your (real) language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, bottom, or anywhere in-between. Your choice.
 
 Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. And, if there's one thing I've learned from AI Dungeon players, it's that virtually no one reads the description. And that may be especially true for the players we're trying to help the most here.
 
