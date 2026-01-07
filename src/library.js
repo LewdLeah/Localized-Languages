@@ -23483,7 +23483,7 @@ function LocalizedLanguages(hook, str) {
         for (const [pattern, replacement] of [
             [/(?<=\n)World Lore(?=:\n)/g, "Narrative Entities"],
             [/(?<=\n)Story Summary(?=:\n)/g, "Story History"],
-            [/(?<=\n)Memories(?=:\n)/g, "Past Events"],
+            [/(?<=\n)(?:Recent )?Memories(?=:\n)/g, "Past Events"],
             [/(?<=\nRecent Story:)\s*/, "<LANG>"]
         ]) {
             // Modernize 3 context element headers and insert a temporary truncation marker token
