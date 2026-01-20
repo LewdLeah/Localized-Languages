@@ -288,10 +288,11 @@ LoLa is both free and open-source for anyone to use within their own scenarios o
 1. Use the [AI Dungeon website](https://aidungeon.com/) on PC (or view as desktop if mobile-only)
 2. [Create a new scenario](https://help.aidungeon.com/faq/what-are-scenarios) or edit one of your existing scenarios
 3. Open the `DETAILS` tab at the top while editing your scenario
-4. Scroll to the bottom and select `EDIT SCRIPTS`
-5. Select the `Input` tab on the left
-6. Delete all code within said tab
-7. Copy and paste the following code into your empty `Input` tab:
+4. Scroll down to `Scripting` and toggle ON → `Scripts Enabled`
+5. Select `EDIT SCRIPTS`
+6. Select the `Input` tab on the left
+7. Delete all code within said tab
+8. Copy and paste the following code into your empty `Input` tab:
 ```javascript
 // Your "Input" tab should look like this
 const modifier = (text) => {
@@ -303,9 +304,9 @@ const modifier = (text) => {
 };
 modifier(text);
 ```
-8. Select the `Context` tab on the left
-9. Delete all code within said tab
-10. Copy and paste the following code into your empty `Context` tab:
+9. Select the `Context` tab on the left
+10. Delete all code within said tab
+11. Copy and paste the following code into your empty `Context` tab:
 ```javascript
 // Your "Context" tab should look like this
 const modifier = (text) => {
@@ -317,9 +318,9 @@ const modifier = (text) => {
 };
 modifier(text);
 ```
-11. Select the `Output` tab on the left
-12. Delete all code within said tab
-13. Copy and paste the following code into your empty `Output` tab:
+12. Select the `Output` tab on the left
+13. Delete all code within said tab
+14. Copy and paste the following code into your empty `Output` tab:
 ```javascript
 // Your "Output" tab should look like this
 const modifier = (text) => {
@@ -330,23 +331,23 @@ const modifier = (text) => {
 };
 modifier(text);
 ```
-14. Select the `Library` tab on the left
-15. Delete all code within said tab
-16. Open the Library code (hyperlink below) in a new browser tab
+15. Select the `Library` tab on the left
+16. Delete all code within said tab
+17. Open the Library code (hyperlink below) in a new browser tab
 - [Library code](./src/library.js)
-17. Copy the *full* code from the page above and paste into your empty `Library` tab
-18. Click the big yellow `SAVE` button in the top right corner
-19. For private/personal use, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
-20. When publishing scenarios, add `{Language: ${Select your (real) language or leave empty:}}` to the Opening
-21. Step 20 is optional, but still VERY important! (defaults to English if blank) ❤️
+18. Copy the *full* code from the page above and paste into your empty `Library` tab
+19. Click the big yellow `SAVE` button in the top right corner
+20. For private/personal use, submit `{Language: ???}` using Do/Say/Story (replace `???` with your language)
+21. When publishing scenarios, add `{Language: ${Select your (real) language or leave empty:}}` to the Opening
+22. Step 21 is optional, but still VERY important! (defaults to English if blank) ❤️
 
 <details>
-<summary>Expand to learn why step 20 matters so much ℹ️</summary>
+<summary>Expand to learn why step 21 matters so much ℹ️</summary>
 ​
 
 TL;DR - It's about effective communication, a seamless user experience, and good alignment between player expectations and actual scenario gameplay.
 
-LoLa _relies_ on step 20 (or step 19) in order to correctly identify the requested language. If your scenario lacks this placeholder, then the script simply defaults to English every time, because it can't read the player's mind. Think of the {Language: ...} thingy like a command; it's how the script detects which language to engage, behind the scenes. Therefore, I _strongly_ recommend including `{Language: ${Select your (real) language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, bottom, or anywhere in-between. Your choice.
+LoLa _relies_ on step 21 (or step 20) in order to correctly identify the requested language. If your scenario lacks this placeholder, then the script simply defaults to English every time, because it can't read the player's mind. Think of the {Language: ...} thingy like a command; it's how the script detects which language to engage, behind the scenes. Therefore, I _strongly_ recommend including `{Language: ${Select your (real) language or leave empty:}}` anywhere within your scenario's Opening plot component. At the top, bottom, or anywhere in-between. Your choice.
 
 Players of published works aren't going to understand this on their own, so it's extremely helpful for Creators to follow this step. And, if there's one thing I've learned from AI Dungeon players, it's that virtually no one reads the description. And that may be especially true for the players we're trying to help the most here.
 
